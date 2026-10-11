@@ -1,0 +1,1483 @@
+BrandID;BrandName;Model;Year;Mileage;Price;FuelID;FuelName;EngineSize;Transmission;Condition;County;Sold
+4;Opel;Astra;2012;NA;1890000;1;Benzin;1400 to 1600;Manuális;Közepes;Nógrád;Nem
+9;Volkswagen;Golf;2019;75000;12100000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Budapest;Nem
+3;Ford;Mondeo;2005;361400;980000;5;LPG;1000 to 1400;Automata;Jó;Nógrád;Nem
+7;Suzuki;Swift;2021;27700;9060000;3;Hibrid;1400 to 1600;Manuális;Közepes;Budapest;Igen
+6;Skoda;Superb;2014;104400;3220000;1;Benzin;1600 to 2000;Manuális;Jó;Fejér;Nem
+10;Other;Fiat 500;2020;95800;8660000;2;Dízel;1400 to 1600;Manuális;Közepes;Győr-Moson-Sopron;Igen
+4;Opel;Corsa;2009;328500;1800000;1;Benzin;1400 to 1600;Manuális;Jó;Bács-Kiskun;Nem
+4;Opel;Insignia;2011;119700;2210000;1;Benzin;1400 to 1600;Automata;Közepes;Hajdú-Bihar;Igen
+9;Volkswagen;Passat;2010;255300;2010000;2;Dízel;1600 to 2000;Manuális;Közepes;Pest;Nem
+9;Volkswagen;Polo;2014;151400;2360000;5;LPG;1400 to 1600;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+6;Skoda;Octavia;2023;22200;8260000;1;Benzin;1000 to 1400;Automata;Közepes;Borsod-Abaúj-Zemplén;Igen
+5;Renault;Captur;2022;NA;10860000;1;Benzin;1600 to 2000;Manuális;Jó;Pest;Nem
+1;Audi;A6;2003;520700;760000;2;Dízel;1000 to 1400;Automata;Közepes;Veszprém;Nem
+7;Suzuki;SX4 S-Cross;2016;NA;2640000;1;Benzin;1600 to 2000;Automata;Sérült;Győr-Moson-Sopron;Nem
+2;BMW;520d;2006;306100;1230000;3;Hibrid;1000 to 1400;Automata;Sérült;Budapest;Igen
+2;BMW;X3;2003;527200;530000;1;Benzin;1600 to 2000;Automata;Jó;Borsod-Abaúj-Zemplén;Igen
+6;Skoda;Superb;2022;26700;10990000;3;Hibrid;1000 to 1400;Automata;Közepes;Hajdú-Bihar;Igen
+4;Opel;Astra;2016;127700;2810000;3;Hibrid;1000 to 1400;Manuális;Jó;Budapest;Nem
+4;Opel;Corsa;2004;190400;620000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Pest;Igen
+5;Renault;Clio;2007;180900;1230000;1;Benzin;1600 to 2000;Manuális;Sérült;Budapest;Igen
+9;Volkswagen;Passat;2024;16500;9040000;1;Benzin;1600 to 2000;Manuális;Jó;Veszprém;Igen
+4;Opel;Insignia;2020;71100;8990000;2;Dízel;Unknown;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+4;Opel;Astra;2013;243300;1830000;1;Benzin;1400 to 1600;Manuális;Közepes;Budapest;Nem
+6;Skoda;Kodiaq;2007;291300;820000;1;Benzin;1600 to 2000;Manuális;Közepes;Borsod-Abaúj-Zemplén;Igen
+5;Renault;Captur;2013;73100;2410000;4;Elektromos;Unknown;Automata;Jó;Budapest;Nem
+9;Volkswagen;Polo;2024;16900;15090000;2;Dízel;1000 to 1400;Automata;Közepes;Csongrád-Csanád;Igen
+9;Volkswagen;Polo;2023;21400;11550000;1;Benzin;1400 to 1600;Automata;Jó;Budapest;Nem
+4;Opel;Corsa;2009;126800;1360000;1;Benzin;1400 to 1600;Manuális;Jó;Hajdú-Bihar;Nem
+4;Opel;Corsa;2017;112500;4910000;6;Unknown;1000 to 1400;Manuális;Jó;Baranya;Igen
+7;Suzuki;Vitara;2004;266800;870000;2;Dízel;1400 to 1600;Manuális;Közepes;Hajdú-Bihar;Nem
+8;Toyota;RAV4;2016;165300;4280000;2;Dízel;1000 to 1400;Manuális;Jó;Csongrád-Csanád;Igen
+8;Toyota;Yaris;2014;68100;2900000;1;Benzin;1000 to 1400;Manuális;Közepes;Csongrád-Csanád;Nem
+7;Suzuki;Ignis;2022;50300;11500000;1;Benzin;1000 to 1400;Manuális;Sérült;Hajdú-Bihar;Nem
+10;Other;Dacia Duster;2006;234600;640000;4;Elektromos;Unknown;Manuális;Kitűnő;Pest;Nem
+3;Ford;Kuga;2010;225200;2160000;2;Dízel;Unknown;Manuális;Jó;Budapest;Nem
+7;Suzuki;SX4 S-Cross;2021;55000;9070000;1;Benzin;1400 to 1600;Manuális;Közepes;Nógrád;Igen
+3;Ford;Focus;2017;148200;4100000;1;Benzin;1400 to 1600;Manuális;Jó;Budapest;Nem
+9;Volkswagen;Passat;2020;91700;8010000;1;Benzin;Unknown;Manuális;Jó;Csongrád-Csanád;Nem
+6;Skoda;Superb;2007;202400;1030000;3;Hibrid;1600 to 2000;Manuális;Kitűnő;Pest;Nem
+6;Skoda;Fabia;2007;418700;1410000;6;Unknown;1400 to 1600;Manuális;Közepes;Veszprém;Igen
+2;BMW;118i;2006;119000;670000;1;Benzin;1000 to 1400;Automata;Jó;Győr-Moson-Sopron;Igen
+4;Opel;Zafira;2014;121300;2580000;1;Benzin;1400 to 1600;Manuális;Sérült;Budapest;Nem
+6;Skoda;Superb;2020;108300;8890000;1;Benzin;1000 to 1400;Automata;Közepes;Győr-Moson-Sopron;Nem
+2;BMW;320d;2020;82500;7420000;1;Benzin;1600 to 2000;Manuális;Közepes;Győr-Moson-Sopron;Nem
+10;Other;Dacia Duster;2018;122900;3400000;1;Benzin;1600 to 2000;Automata;Sérült;Bács-Kiskun;Nem
+2;BMW;320d;2020;75900;6530000;2;Dízel;Above 3000;Manuális;Közepes;Veszprém;Igen
+4;Opel;Astra;2017;78600;5210000;1;Benzin;Unknown;Automata;Jó;Borsod-Abaúj-Zemplén;Nem
+1;Audi;Q5;2020;NA;8540000;1;Benzin;1600 to 2000;Automata;Jó;Hajdú-Bihar;Nem
+9;Volkswagen;Passat;2018;74300;5960000;1;Benzin;1000 to 1400;Manuális;Közepes;Győr-Moson-Sopron;Nem
+5;Renault;Megane;2008;306600;1690000;3;Hibrid;1600 to 2000;Manuális;Jó;Győr-Moson-Sopron;Nem
+6;Skoda;Fabia;2024;15400;12550000;1;Benzin;1600 to 2000;Automata;Jó;Budapest;Nem
+8;Toyota;C-HR;2017;114200;5860000;2;Dízel;1600 to 2000;Manuális;Közepes;Veszprém;Igen
+3;Ford;Fiesta;2005;413300;940000;2;Dízel;1600 to 2000;Manuális;Jó;Budapest;Nem
+1;Audi;A3;2023;42200;6640000;2;Dízel;1000 to 1400;Manuális;Közepes;Budapest;Nem
+3;Ford;Fiesta;2019;91600;4320000;1;Benzin;1600 to 2000;Automata;Közepes;Hajdú-Bihar;Nem
+1;Audi;A6;2011;170500;2380000;1;Benzin;Unknown;Automata;Sérült;Csongrád-Csanád;Nem
+4;Opel;Zafira;2020;46900;8630000;1;Benzin;1000 to 1400;Manuális;Jó;Baranya;Igen
+5;Renault;Megane;2008;307000;1310000;1;Benzin;1600 to 2000;Manuális;Közepes;Fejér;Nem
+8;Toyota;RAV4;2007;115000;940000;3;Hibrid;1600 to 2000;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+4;Opel;Insignia;2006;199700;NA;1;Benzin;1400 to 1600;Automata;Közepes;Bács-Kiskun;Nem
+10;Other;Fiat 500;2008;NA;1430000;1;Benzin;1600 to 2000;Manuális;Sérült;Budapest;Nem
+6;Skoda;Kodiaq;2017;160700;3800000;1;Benzin;1400 to 1600;Manuális;Sérült;Budapest;Nem
+9;Volkswagen;Passat;2011;250800;1690000;1;Benzin;1000 to 1400;Manuális;Jó;Budapest;Nem
+5;Renault;Megane;2011;214800;2240000;1;Benzin;2000 to 3000;Automata;Közepes;Budapest;Nem
+1;Audi;Q5;2022;24200;9980000;2;Dízel;1400 to 1600;Manuális;Jó;Szabolcs-Szatmár-Bereg;Igen
+8;Toyota;Yaris;2012;252000;2440000;1;Benzin;2000 to 3000;Manuális;Közepes;Baranya;Nem
+5;Renault;Megane;2010;102600;1790000;2;Dízel;1600 to 2000;Manuális;Kitűnő;Nógrád;Nem
+1;Audi;A3;2011;124100;1540000;1;Benzin;1400 to 1600;Manuális;Közepes;Pest;Nem
+4;Opel;Insignia;2020;88100;4410000;1;Benzin;2000 to 3000;Automata;Jó;Fejér;Igen
+2;BMW;520d;2023;36900;12870000;2;Dízel;1400 to 1600;Manuális;Közepes;Csongrád-Csanád;Igen
+10;Other;Mazda 3;2022;19800;8860000;1;Benzin;1400 to 1600;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+1;Audi;A3;2005;238900;880000;1;Benzin;Unknown;Manuális;Jó;Budapest;Nem
+6;Skoda;Kodiaq;2006;425000;1260000;2;Dízel;Above 3000;Manuális;Közepes;Győr-Moson-Sopron;Nem
+10;Other;Kia Ceed;2022;62700;7930000;1;Benzin;1600 to 2000;Automata;Közepes;Pest;Nem
+10;Other;Hyundai i30;2017;164300;2980000;1;Benzin;1000 to 1400;Automata;Közepes;Pest;Igen
+1;Audi;Q5;2005;391500;970000;2;Dízel;1000 to 1400;Manuális;Közepes;Hajdú-Bihar;Nem
+8;Toyota;C-HR;2013;177500;NA;3;Hibrid;1400 to 1600;Manuális;Jó;Hajdú-Bihar;Nem
+1;Audi;A4;2003;290000;560000;1;Benzin;1400 to 1600;Automata;Jó;Csongrád-Csanád;Nem
+7;Suzuki;Ignis;2016;197100;3100000;1;Benzin;1000 to 1400;Automata;Jó;Bács-Kiskun;Nem
+10;Other;Mazda 3;2015;74900;2310000;1;Benzin;1400 to 1600;Automata;Jó;Hajdú-Bihar;Igen
+9;Volkswagen;Polo;2016;126600;2620000;1;Benzin;1400 to 1600;Manuális;Sérült;Csongrád-Csanád;Nem
+5;Renault;Kadjar;2006;435900;1180000;1;Benzin;Unknown;Automata;Jó;Szabolcs-Szatmár-Bereg;Igen
+1;Audi;A6;2010;286300;2140000;1;Benzin;1000 to 1400;Manuális;Közepes;Hajdú-Bihar;Igen
+5;Renault;Megane;2024;22300;12360000;2;Dízel;1000 to 1400;Manuális;Sérült;Fejér;Nem
+9;Volkswagen;Passat;2008;282100;960000;1;Benzin;1000 to 1400;Manuális;Jó;Hajdú-Bihar;Nem
+2;BMW;X3;2020;81800;6920000;3;Hibrid;1600 to 2000;Manuális;Jó;Baranya;Igen
+9;Volkswagen;Passat;2016;214000;5490000;2;Dízel;1600 to 2000;Automata;Jó;Pest;Nem
+9;Volkswagen;Tiguan;2014;140000;2770000;1;Benzin;1400 to 1600;Automata;Jó;Győr-Moson-Sopron;Nem
+10;Other;Dacia Duster;2019;142900;4700000;1;Benzin;2000 to 3000;Manuális;Jó;Bács-Kiskun;Igen
+5;Renault;Captur;2004;375800;830000;1;Benzin;1600 to 2000;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+1;Audi;A4;2022;38400;8470000;2;Dízel;1000 to 1400;Manuális;Jó;Bács-Kiskun;Nem
+1;Audi;A4;2004;298300;670000;3;Hibrid;1400 to 1600;Manuális;Jó;Budapest;Nem
+1;Audi;Q5;2009;325700;1350000;2;Dízel;Under 1000;Automata;Közepes;Hajdú-Bihar;Nem
+10;Other;Dacia Duster;2013;133100;1660000;2;Dízel;1400 to 1600;Manuális;Jó;Győr-Moson-Sopron;Igen
+8;Toyota;Yaris;2018;85100;5530000;1;Benzin;1400 to 1600;Manuális;Közepes;Pest;Nem
+7;Suzuki;SX4 S-Cross;2011;275800;2460000;1;Benzin;1000 to 1400;Manuális;Jó;Budapest;Nem
+9;Volkswagen;Golf;2012;204100;2830000;1;Benzin;1600 to 2000;Manuális;Jó;Bács-Kiskun;Nem
+2;BMW;X3;2006;130300;1000000;1;Benzin;Unknown;Manuális;Jó;Győr-Moson-Sopron;Nem
+9;Volkswagen;Golf;2021;76700;6910000;3;Hibrid;Unknown;Automata;Kitűnő;Nógrád;Igen
+1;Audi;A4;2020;77100;5350000;2;Dízel;1400 to 1600;Manuális;Jó;Szabolcs-Szatmár-Bereg;Nem
+3;Ford;Fiesta;2014;238300;2420000;1;Benzin;1000 to 1400;Manuális;Jó;Pest;Nem
+3;Ford;Fiesta;2005;NA;840000;2;Dízel;1600 to 2000;Automata;Közepes;Borsod-Abaúj-Zemplén;Igen
+2;BMW;520d;2016;119900;4600000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Borsod-Abaúj-Zemplén;Nem
+10;Other;Mazda 3;2015;206700;2510000;1;Benzin;1000 to 1400;Manuális;Jó;Csongrád-Csanád;Igen
+10;Other;Dacia Duster;2005;NA;630000;1;Benzin;2000 to 3000;Manuális;Közepes;Budapest;Nem
+9;Volkswagen;Polo;2010;161500;2100000;2;Dízel;1400 to 1600;Manuális;Közepes;Baranya;Nem
+6;Skoda;Fabia;2019;133600;7710000;1;Benzin;1400 to 1600;Manuális;Sérült;Bács-Kiskun;Nem
+6;Skoda;Superb;2008;160300;1300000;1;Benzin;1600 to 2000;Manuális;Közepes;Győr-Moson-Sopron;Nem
+3;Ford;Fiesta;2010;320200;2000000;1;Benzin;Unknown;Manuális;Kitűnő;Szabolcs-Szatmár-Bereg;Nem
+7;Suzuki;Ignis;2005;313700;1100000;3;Hibrid;Unknown;Manuális;Jó;Győr-Moson-Sopron;Igen
+6;Skoda;Fabia;2021;72700;6760000;2;Dízel;1000 to 1400;Manuális;Közepes;Hajdú-Bihar;Nem
+8;Toyota;Corolla;2024;12000;7670000;1;Benzin;1000 to 1400;Manuális;Sérült;Bács-Kiskun;Nem
+6;Skoda;Octavia;2007;NA;990000;1;Benzin;1400 to 1600;Manuális;Jó;Budapest;Nem
+1;Audi;A6;2003;445800;830000;2;Dízel;1400 to 1600;Manuális;Kitűnő;Győr-Moson-Sopron;Igen
+8;Toyota;RAV4;2019;88800;5010000;2;Dízel;1400 to 1600;Automata;Közepes;Bács-Kiskun;Nem
+7;Suzuki;Swift;2018;112700;4040000;1;Benzin;1000 to 1400;Manuális;Jó;Baranya;Nem
+3;Ford;Fiesta;2009;158500;1190000;3;Hibrid;1000 to 1400;Manuális;Kitűnő;Pest;Nem
+2;BMW;118i;2020;48800;6040000;1;Benzin;1000 to 1400;Manuális;Jó;Hajdú-Bihar;Igen
+7;Suzuki;SX4 S-Cross;2009;102900;1590000;2;Dízel;1000 to 1400;Automata;Kitűnő;Veszprém;Nem
+8;Toyota;C-HR;2023;22100;12430000;4;Elektromos;Unknown;Manuális;Jó;Budapest;Nem
+2;BMW;X3;2022;67800;11810000;1;Benzin;Above 3000;Manuális;Kitűnő;Pest;Nem
+8;Toyota;Corolla;2021;35800;9150000;2;Dízel;1000 to 1400;Automata;Kitűnő;Csongrád-Csanád;Nem
+3;Ford;Focus;2010;269900;1050000;1;Benzin;1600 to 2000;Automata;Jó;Borsod-Abaúj-Zemplén;Nem
+8;Toyota;C-HR;2009;376100;1270000;3;Hibrid;1400 to 1600;Manuális;Közepes;Baranya;Nem
+5;Renault;Clio;2020;71500;8290000;3;Hibrid;1400 to 1600;Manuális;Jó;Pest;Nem
+1;Audi;Q5;2015;189900;4290000;1;Benzin;1000 to 1400;Automata;Közepes;Szabolcs-Szatmár-Bereg;Igen
+8;Toyota;Corolla;2019;124600;5240000;1;Benzin;Under 1000;Manuális;Sérült;Borsod-Abaúj-Zemplén;Igen
+6;Skoda;Kodiaq;2008;391000;1230000;1;Benzin;1000 to 1400;Manuális;Sérült;Budapest;Nem
+4;Opel;Corsa;2007;140300;680000;1;Benzin;1600 to 2000;Manuális;Közepes;Csongrád-Csanád;Nem
+1;Audi;A6;2007;277700;870000;5;LPG;2000 to 3000;Manuális;Kitűnő;Hajdú-Bihar;Nem
+10;Other;Kia Ceed;2015;234000;4130000;1;Benzin;1600 to 2000;Automata;Sérült;Borsod-Abaúj-Zemplén;Nem
+5;Renault;Kadjar;2008;353500;940000;2;Dízel;1400 to 1600;Automata;Közepes;Budapest;Nem
+8;Toyota;Corolla;2023;28500;10140000;3;Hibrid;Unknown;Manuális;Jó;Borsod-Abaúj-Zemplén;Nem
+9;Volkswagen;Golf;2016;88800;NA;5;LPG;2000 to 3000;Automata;Jó;Borsod-Abaúj-Zemplén;Nem
+8;Toyota;Yaris;2022;53700;11670000;2;Dízel;1600 to 2000;Automata;Közepes;Budapest;Nem
+1;Audi;Q5;2004;143000;560000;1;Benzin;1600 to 2000;Manuális;Sérült;Csongrád-Csanád;Nem
+9;Volkswagen;Polo;2006;199200;680000;3;Hibrid;1400 to 1600;Manuális;Közepes;Baranya;Nem
+4;Opel;Zafira;2011;145000;1610000;5;LPG;1000 to 1400;Manuális;Jó;Pest;Igen
+3;Ford;Focus;2009;242800;1150000;1;Benzin;1400 to 1600;Manuális;Sérült;Borsod-Abaúj-Zemplén;Nem
+2;BMW;520d;2015;89800;2650000;2;Dízel;2000 to 3000;Manuális;Sérült;Budapest;Igen
+8;Toyota;Yaris;2006;118200;660000;1;Benzin;1600 to 2000;Manuális;Sérült;Győr-Moson-Sopron;Nem
+3;Ford;Fiesta;2010;223700;2150000;2;Dízel;1000 to 1400;Manuális;Jó;Borsod-Abaúj-Zemplén;Igen
+2;BMW;118i;2015;175200;3600000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Bács-Kiskun;Nem
+6;Skoda;Kodiaq;2013;174700;3340000;3;Hibrid;1400 to 1600;Manuális;Jó;Szabolcs-Szatmár-Bereg;Nem
+6;Skoda;Superb;2007;NA;1430000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Baranya;Igen
+5;Renault;Kadjar;2017;139800;5370000;2;Dízel;1000 to 1400;Automata;Jó;Győr-Moson-Sopron;Igen
+10;Other;Kia Ceed;2011;229600;2200000;1;Benzin;1000 to 1400;Automata;Kitűnő;Bács-Kiskun;Igen
+4;Opel;Astra;2023;29100;13590000;1;Benzin;Under 1000;Manuális;Kitűnő;Nógrád;Igen
+7;Suzuki;Swift;2009;125300;1780000;1;Benzin;1600 to 2000;Manuális;Jó;Csongrád-Csanád;Nem
+10;Other;Fiat 500;2012;256200;2390000;2;Dízel;1000 to 1400;Manuális;Közepes;Pest;Nem
+9;Volkswagen;Tiguan;2003;375800;610000;1;Benzin;2000 to 3000;Manuális;Közepes;Budapest;Igen
+4;Opel;Astra;2023;NA;12470000;1;Benzin;1600 to 2000;Automata;Jó;Fejér;Nem
+9;Volkswagen;Passat;2007;327300;780000;2;Dízel;1400 to 1600;Automata;Jó;Hajdú-Bihar;Igen
+1;Audi;A3;2011;203100;1980000;1;Benzin;2000 to 3000;Manuális;Jó;Budapest;Nem
+8;Toyota;C-HR;2017;56700;3720000;2;Dízel;1400 to 1600;Manuális;Közepes;Fejér;Igen
+6;Skoda;Fabia;2007;332400;830000;1;Benzin;1000 to 1400;Manuális;Jó;Veszprém;Nem
+8;Toyota;C-HR;2004;254100;580000;1;Benzin;Under 1000;Manuális;Jó;Hajdú-Bihar;Igen
+5;Renault;Clio;2014;138200;3420000;3;Hibrid;Unknown;Manuális;Jó;Borsod-Abaúj-Zemplén;Nem
+6;Skoda;Fabia;2011;85000;1390000;1;Benzin;1400 to 1600;Manuális;Közepes;Hajdú-Bihar;Igen
+3;Ford;Fiesta;2008;154400;1040000;1;Benzin;1000 to 1400;Manuális;Jó;Bács-Kiskun;Nem
+6;Skoda;Kodiaq;2013;151100;2070000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Hajdú-Bihar;Igen
+10;Other;Kia Ceed;2012;251000;2620000;2;Dízel;Above 3000;Manuális;Sérült;Baranya;Igen
+2;BMW;520d;2009;144600;1890000;1;Benzin;1600 to 2000;Manuális;Jó;Budapest;Nem
+1;Audi;A4;2018;82700;5990000;1;Benzin;1400 to 1600;Automata;Közepes;Budapest;Igen
+7;Suzuki;Swift;2007;NA;NA;6;Unknown;Unknown;Manuális;Sérült;Győr-Moson-Sopron;Nem
+10;Other;Kia Ceed;2006;391200;1100000;1;Benzin;2000 to 3000;Manuális;Jó;Bács-Kiskun;Igen
+4;Opel;Astra;2014;116900;2160000;1;Benzin;1000 to 1400;Automata;Jó;Budapest;Nem
+6;Skoda;Octavia;2014;252300;3890000;3;Hibrid;1400 to 1600;Automata;Sérült;Borsod-Abaúj-Zemplén;Igen
+2;BMW;118i;2020;93600;6190000;1;Benzin;2000 to 3000;Automata;Kitűnő;Baranya;Nem
+5;Renault;Kadjar;2021;67000;9340000;3;Hibrid;1400 to 1600;Manuális;Jó;Veszprém;Nem
+5;Renault;Kadjar;2017;127300;5460000;2;Dízel;1600 to 2000;Manuális;Közepes;Hajdú-Bihar;Igen
+8;Toyota;Corolla;2021;81000;6700000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Budapest;Nem
+4;Opel;Zafira;2007;380100;1360000;3;Hibrid;Unknown;Manuális;Jó;Pest;Nem
+10;Other;Mazda 3;2009;NA;1730000;1;Benzin;1400 to 1600;Automata;Jó;Pest;Nem
+9;Volkswagen;Tiguan;2021;66900;4850000;2;Dízel;1600 to 2000;Manuális;Jó;Hajdú-Bihar;Nem
+7;Suzuki;Vitara;2005;145000;1020000;3;Hibrid;2000 to 3000;Manuális;Jó;Csongrád-Csanád;Nem
+2;BMW;520d;2024;14000;NA;1;Benzin;1600 to 2000;Manuális;Jó;Baranya;Igen
+10;Other;Hyundai i30;2005;401900;680000;1;Benzin;1000 to 1400;Manuális;Sérült;Csongrád-Csanád;Nem
+9;Volkswagen;Polo;2017;156000;4490000;2;Dízel;1600 to 2000;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+7;Suzuki;SX4 S-Cross;2009;348700;1190000;3;Hibrid;1600 to 2000;Manuális;Közepes;Pest;Igen
+6;Skoda;Octavia;2017;174100;3610000;1;Benzin;1600 to 2000;Automata;Közepes;Hajdú-Bihar;Nem
+4;Opel;Zafira;2015;140400;2620000;2;Dízel;1400 to 1600;Manuális;Kitűnő;Pest;Nem
+1;Audi;A4;2021;65200;6660000;1;Benzin;1400 to 1600;Automata;Kitűnő;Veszprém;Igen
+5;Renault;Clio;2010;NA;1590000;2;Dízel;1400 to 1600;Manuális;Közepes;Győr-Moson-Sopron;Nem
+10;Other;Kia Ceed;2018;148400;6090000;2;Dízel;1600 to 2000;Manuális;Jó;Pest;Igen
+8;Toyota;RAV4;2019;135700;7740000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Baranya;Nem
+9;Volkswagen;Passat;2016;184500;3630000;2;Dízel;1000 to 1400;Manuális;Jó;Pest;Igen
+3;Ford;Fiesta;2004;481000;960000;2;Dízel;1400 to 1600;Manuális;Jó;Hajdú-Bihar;Igen
+1;Audi;A6;2015;239400;3900000;2;Dízel;1000 to 1400;Manuális;Jó;Budapest;Igen
+1;Audi;Q5;2019;142600;4640000;1;Benzin;1000 to 1400;Manuális;Jó;Veszprém;Igen
+2;BMW;320d;2009;243500;NA;2;Dízel;1600 to 2000;Manuális;Közepes;Pest;Nem
+10;Other;Dacia Duster;2013;247300;2320000;6;Unknown;1600 to 2000;Manuális;Jó;Győr-Moson-Sopron;Igen
+4;Opel;Corsa;2006;412400;1260000;2;Dízel;2000 to 3000;Manuális;Sérült;Budapest;Nem
+5;Renault;Kadjar;2010;320100;1630000;2;Dízel;Unknown;Manuális;Közepes;Veszprém;Igen
+8;Toyota;RAV4;2022;69600;8890000;2;Dízel;1000 to 1400;Manuális;Közepes;Pest;Nem
+7;Suzuki;Ignis;2005;369500;830000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Pest;Nem
+1;Audi;Q5;2017;165600;4180000;6;Unknown;1000 to 1400;Manuális;Jó;Csongrád-Csanád;Nem
+9;Volkswagen;Tiguan;2006;205500;910000;1;Benzin;Above 3000;Automata;Közepes;Fejér;Igen
+4;Opel;Zafira;2013;149900;2570000;3;Hibrid;1000 to 1400;Automata;Jó;Győr-Moson-Sopron;Nem
+5;Renault;Megane;2006;249500;1260000;5;LPG;Above 3000;Manuális;Kitűnő;Nógrád;Nem
+8;Toyota;C-HR;2007;113800;1130000;3;Hibrid;1400 to 1600;Manuális;Közepes;Győr-Moson-Sopron;Nem
+3;Ford;Kuga;2010;347600;1460000;1;Benzin;1400 to 1600;Automata;Közepes;Fejér;Nem
+9;Volkswagen;Tiguan;2009;NA;950000;2;Dízel;1400 to 1600;Manuális;Jó;Pest;Nem
+4;Opel;Insignia;2014;160300;1920000;1;Benzin;1400 to 1600;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+10;Other;Fiat 500;2014;67500;3310000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Veszprém;Nem
+6;Skoda;Kodiaq;2003;290400;530000;2;Dízel;1600 to 2000;Manuális;Kitűnő;Budapest;Igen
+1;Audi;A4;2006;211200;1000000;1;Benzin;1600 to 2000;Automata;Közepes;Veszprém;Nem
+4;Opel;Corsa;2008;103800;1630000;6;Unknown;1400 to 1600;Manuális;Jó;Pest;Nem
+2;BMW;320d;2017;112600;5440000;4;Elektromos;Unknown;Manuális;Jó;Pest;Nem
+6;Skoda;Superb;2008;359000;1170000;1;Benzin;1400 to 1600;Automata;Jó;Hajdú-Bihar;Nem
+7;Suzuki;SX4 S-Cross;2019;141400;5870000;1;Benzin;1600 to 2000;Manuális;Közepes;Fejér;Igen
+1;Audi;Q5;2018;118100;NA;1;Benzin;1000 to 1400;Manuális;Jó;Hajdú-Bihar;Nem
+5;Renault;Clio;2005;196200;980000;2;Dízel;1600 to 2000;Manuális;Kitűnő;Budapest;Nem
+2;BMW;X3;2004;NA;690000;1;Benzin;1400 to 1600;Manuális;Jó;Fejér;Nem
+5;Renault;Captur;2022;NA;5560000;4;Elektromos;Unknown;Automata;Kitűnő;Borsod-Abaúj-Zemplén;Nem
+9;Volkswagen;Golf;2003;136700;700000;1;Benzin;Unknown;Manuális;Sérült;Csongrád-Csanád;Nem
+10;Other;Dacia Duster;2019;120100;5410000;1;Benzin;1000 to 1400;Manuális;Jó;Győr-Moson-Sopron;Nem
+6;Skoda;Kodiaq;2015;NA;3520000;1;Benzin;1400 to 1600;Manuális;Sérült;Hajdú-Bihar;Igen
+6;Skoda;Fabia;2022;48500;6410000;6;Unknown;1000 to 1400;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Igen
+5;Renault;Megane;2021;29700;6610000;2;Dízel;1400 to 1600;Automata;Jó;Borsod-Abaúj-Zemplén;Igen
+9;Volkswagen;Polo;2015;211300;NA;2;Dízel;Under 1000;Manuális;Jó;Pest;Nem
+1;Audi;Q5;2018;144900;4040000;1;Benzin;1000 to 1400;Automata;Kitűnő;Pest;Nem
+10;Other;Dacia Duster;2019;103700;7580000;4;Elektromos;Unknown;Manuális;Kitűnő;Csongrád-Csanád;Igen
+1;Audi;A3;2019;75600;6440000;1;Benzin;1600 to 2000;Automata;Jó;Csongrád-Csanád;Nem
+8;Toyota;C-HR;2007;293300;1060000;1;Benzin;1000 to 1400;Manuális;Közepes;Bács-Kiskun;Nem
+2;BMW;520d;2019;124400;4710000;1;Benzin;2000 to 3000;Manuális;Közepes;Pest;Igen
+3;Ford;Focus;2004;477500;710000;1;Benzin;1400 to 1600;Manuális;Közepes;Veszprém;Nem
+10;Other;Hyundai i30;2013;169400;3340000;1;Benzin;1600 to 2000;Automata;Közepes;Fejér;Igen
+2;BMW;320d;2012;292400;2460000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Veszprém;Nem
+7;Suzuki;Swift;2009;214100;1430000;4;Elektromos;Unknown;Automata;Jó;Pest;Nem
+8;Toyota;Yaris;2017;174000;4930000;1;Benzin;1400 to 1600;Manuális;Jó;Budapest;Igen
+10;Other;Hyundai i30;2008;337100;880000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Szabolcs-Szatmár-Bereg;Igen
+6;Skoda;Fabia;2007;329700;760000;3;Hibrid;1400 to 1600;Automata;Kitűnő;Budapest;Nem
+8;Toyota;Yaris;2006;340500;650000;5;LPG;2000 to 3000;Manuális;Jó;Budapest;Nem
+8;Toyota;Yaris;2015;104500;4320000;3;Hibrid;1000 to 1400;Manuális;Közepes;Budapest;Igen
+4;Opel;Corsa;2022;NA;9150000;1;Benzin;1600 to 2000;Manuális;Jó;Budapest;Nem
+2;BMW;520d;2006;134800;NA;4;Elektromos;Unknown;Manuális;Közepes;Pest;Nem
+7;Suzuki;Ignis;2023;20300;NA;1;Benzin;Under 1000;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Igen
+6;Skoda;Superb;2003;302200;540000;2;Dízel;1600 to 2000;Manuális;Közepes;Hajdú-Bihar;Nem
+10;Other;Mazda 3;2008;221100;1450000;1;Benzin;Under 1000;Manuális;Jó;Bács-Kiskun;Igen
+8;Toyota;RAV4;2013;247600;2250000;1;Benzin;1600 to 2000;Manuális;Jó;Fejér;Nem
+7;Suzuki;SX4 S-Cross;2020;81600;4230000;1;Benzin;1600 to 2000;Automata;Jó;Nógrád;Nem
+9;Volkswagen;Tiguan;2011;317200;2310000;2;Dízel;Under 1000;Manuális;Jó;Győr-Moson-Sopron;Nem
+1;Audi;Q5;2010;206600;2230000;2;Dízel;1600 to 2000;Manuális;Jó;Pest;Nem
+2;BMW;520d;2021;83800;4850000;1;Benzin;1600 to 2000;Manuális;Jó;Csongrád-Csanád;Nem
+3;Ford;Kuga;2008;293500;1670000;1;Benzin;1000 to 1400;Automata;Jó;Baranya;Nem
+9;Volkswagen;Golf;2007;188900;1370000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Borsod-Abaúj-Zemplén;Nem
+4;Opel;Insignia;2019;89300;6330000;1;Benzin;1400 to 1600;Automata;Sérült;Fejér;Nem
+3;Ford;Kuga;2023;31100;7110000;3;Hibrid;1600 to 2000;Manuális;Kitűnő;Budapest;Igen
+10;Other;Fiat 500;2021;30200;6340000;1;Benzin;1600 to 2000;Automata;Jó;Budapest;Igen
+6;Skoda;Fabia;2004;493400;730000;1;Benzin;1000 to 1400;Manuális;Közepes;Budapest;Nem
+1;Audi;A6;2017;114200;3060000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Baranya;Igen
+7;Suzuki;Swift;2019;87100;4750000;2;Dízel;1400 to 1600;Manuális;Közepes;Baranya;Nem
+4;Opel;Astra;2004;224800;760000;1;Benzin;1000 to 1400;Automata;Közepes;Pest;Nem
+1;Audi;A3;2011;128900;2160000;5;LPG;1400 to 1600;Manuális;Közepes;Budapest;Nem
+8;Toyota;RAV4;2017;75900;4690000;2;Dízel;1600 to 2000;Manuális;Jó;Csongrád-Csanád;Nem
+5;Renault;Kadjar;2003;212700;740000;2;Dízel;Unknown;Manuális;Jó;Hajdú-Bihar;Nem
+10;Other;Dacia Duster;2008;NA;1550000;1;Benzin;2000 to 3000;Manuális;Jó;Budapest;Igen
+9;Volkswagen;Tiguan;2013;212200;2110000;2;Dízel;Unknown;Manuális;Közepes;Fejér;Nem
+10;Other;Hyundai i30;2009;185300;1280000;2;Dízel;2000 to 3000;Manuális;Közepes;Fejér;Nem
+10;Other;Hyundai i30;2023;35600;13450000;3;Hibrid;1400 to 1600;Manuális;Kitűnő;Budapest;Nem
+7;Suzuki;Swift;2010;143200;1450000;1;Benzin;Unknown;Automata;Sérült;Bács-Kiskun;Igen
+10;Other;Hyundai i30;2006;267400;710000;1;Benzin;1400 to 1600;Automata;Sérült;Budapest;Nem
+5;Renault;Kadjar;2011;110800;1500000;3;Hibrid;2000 to 3000;Manuális;Közepes;Hajdú-Bihar;Igen
+6;Skoda;Kodiaq;2012;151500;1860000;6;Unknown;1000 to 1400;Manuális;Jó;Borsod-Abaúj-Zemplén;Igen
+2;BMW;320d;2010;238500;1950000;2;Dízel;1600 to 2000;Automata;Közepes;Győr-Moson-Sopron;Igen
+5;Renault;Clio;2013;269200;2860000;1;Benzin;1400 to 1600;Manuális;Sérült;Hajdú-Bihar;Nem
+2;BMW;320d;2004;425900;580000;1;Benzin;1400 to 1600;Manuális;Jó;Hajdú-Bihar;Nem
+9;Volkswagen;Golf;2013;79900;2140000;1;Benzin;1600 to 2000;Automata;Jó;Veszprém;Nem
+8;Toyota;C-HR;2011;NA;1620000;2;Dízel;1400 to 1600;Manuális;Jó;Hajdú-Bihar;Nem
+10;Other;Dacia Duster;2024;9600;10510000;2;Dízel;1000 to 1400;Manuális;Jó;Csongrád-Csanád;Igen
+5;Renault;Clio;2003;352700;670000;1;Benzin;1400 to 1600;Automata;Jó;Bács-Kiskun;Igen
+1;Audi;A4;2020;43100;7330000;1;Benzin;Unknown;Automata;Jó;Nógrád;Nem
+4;Opel;Astra;2004;267300;720000;5;LPG;1600 to 2000;Manuális;Kitűnő;Győr-Moson-Sopron;Nem
+1;Audi;A4;2017;95200;3870000;2;Dízel;1000 to 1400;Automata;Közepes;Budapest;Nem
+5;Renault;Megane;2010;230700;1930000;1;Benzin;1400 to 1600;Automata;Jó;Budapest;Nem
+2;BMW;520d;2019;97000;4800000;1;Benzin;1400 to 1600;Manuális;Közepes;Pest;Nem
+10;Other;Hyundai i30;2010;336600;NA;1;Benzin;1600 to 2000;Manuális;Jó;Budapest;Nem
+9;Volkswagen;Tiguan;2009;307200;1840000;4;Elektromos;Unknown;Automata;Kitűnő;Hajdú-Bihar;Nem
+1;Audi;A3;2005;389400;NA;1;Benzin;1600 to 2000;Automata;Sérült;Pest;Nem
+7;Suzuki;SX4 S-Cross;2007;395200;960000;6;Unknown;1400 to 1600;Manuális;Közepes;Veszprém;Igen
+8;Toyota;C-HR;2020;57100;7160000;6;Unknown;1400 to 1600;Manuális;Közepes;Pest;Igen
+6;Skoda;Kodiaq;2014;232500;2140000;2;Dízel;2000 to 3000;Manuális;Jó;Budapest;Nem
+2;BMW;X3;2008;193600;920000;1;Benzin;Unknown;Manuális;Sérült;Borsod-Abaúj-Zemplén;Igen
+1;Audi;A4;2022;34700;10000000;2;Dízel;Unknown;Manuális;Jó;Budapest;Nem
+9;Volkswagen;Polo;2017;188200;5800000;4;Elektromos;Unknown;Manuális;Jó;Pest;Igen
+3;Ford;Mondeo;2018;88000;4180000;1;Benzin;1600 to 2000;Automata;Közepes;Fejér;Igen
+2;BMW;520d;2015;143500;3320000;1;Benzin;1600 to 2000;Manuális;Közepes;Győr-Moson-Sopron;Nem
+8;Toyota;Corolla;2022;56700;6050000;2;Dízel;1000 to 1400;Manuális;Jó;Fejér;Igen
+9;Volkswagen;Polo;2018;145400;6010000;1;Benzin;1400 to 1600;Manuális;Közepes;Veszprém;Nem
+8;Toyota;RAV4;2003;447700;590000;1;Benzin;1400 to 1600;Automata;Sérült;Hajdú-Bihar;Igen
+6;Skoda;Superb;2008;208600;1470000;5;LPG;Unknown;Manuális;Közepes;Veszprém;Nem
+9;Volkswagen;Passat;2011;NA;1470000;2;Dízel;Unknown;Automata;Közepes;Budapest;Igen
+3;Ford;Mondeo;2023;37500;9410000;1;Benzin;1400 to 1600;Automata;Közepes;Fejér;Nem
+7;Suzuki;Vitara;2004;265400;740000;1;Benzin;1600 to 2000;Manuális;Jó;Győr-Moson-Sopron;Nem
+3;Ford;Focus;2011;271000;NA;1;Benzin;1000 to 1400;Manuális;Jó;Pest;Nem
+10;Other;Hyundai i30;2013;NA;2880000;1;Benzin;1600 to 2000;Automata;Kitűnő;Budapest;Nem
+8;Toyota;Yaris;2018;157500;4280000;4;Elektromos;Unknown;Manuális;Közepes;Pest;Nem
+5;Renault;Clio;2018;157900;6740000;2;Dízel;1600 to 2000;Manuális;Jó;Budapest;Igen
+8;Toyota;Corolla;2003;180200;450000;1;Benzin;1400 to 1600;Manuális;Sérült;Budapest;Nem
+3;Ford;Fiesta;2024;7500;11370000;2;Dízel;1000 to 1400;Manuális;Sérült;Szabolcs-Szatmár-Bereg;Igen
+9;Volkswagen;Passat;2010;102000;1600000;3;Hibrid;1000 to 1400;Automata;Jó;Veszprém;Nem
+5;Renault;Kadjar;2008;121000;800000;2;Dízel;1000 to 1400;Manuális;Közepes;Veszprém;Nem
+2;BMW;X3;2020;NA;8400000;1;Benzin;1400 to 1600;Manuális;Jó;Budapest;Igen
+2;BMW;520d;2023;37800;11780000;3;Hibrid;1400 to 1600;Manuális;Kitűnő;Borsod-Abaúj-Zemplén;Nem
+3;Ford;Focus;2024;21100;12850000;6;Unknown;1400 to 1600;Manuális;Sérült;Szabolcs-Szatmár-Bereg;Nem
+3;Ford;Kuga;2023;17900;8810000;2;Dízel;1400 to 1600;Manuális;Jó;Budapest;Igen
+3;Ford;Kuga;2009;305300;1880000;6;Unknown;1400 to 1600;Manuális;Közepes;Budapest;Nem
+3;Ford;Fiesta;2017;104500;4750000;2;Dízel;1000 to 1400;Automata;Kitűnő;Fejér;Nem
+7;Suzuki;SX4 S-Cross;2016;NA;4400000;1;Benzin;1000 to 1400;Automata;Közepes;Nógrád;Nem
+6;Skoda;Octavia;2007;NA;1460000;5;LPG;1000 to 1400;Automata;Közepes;Győr-Moson-Sopron;Igen
+2;BMW;520d;2017;168000;6990000;2;Dízel;1600 to 2000;Automata;Jó;Budapest;Nem
+6;Skoda;Octavia;2016;203900;4000000;1;Benzin;1600 to 2000;Automata;Jó;Pest;Nem
+8;Toyota;RAV4;2021;NA;10170000;1;Benzin;1600 to 2000;Manuális;Jó;Budapest;Igen
+2;BMW;320d;2018;79500;5780000;2;Dízel;2000 to 3000;Automata;Sérült;Veszprém;Nem
+10;Other;Hyundai i30;2014;240300;1980000;1;Benzin;1400 to 1600;Manuális;Közepes;Budapest;Nem
+8;Toyota;Corolla;2005;350400;740000;4;Elektromos;Unknown;Manuális;Közepes;Győr-Moson-Sopron;Nem
+2;BMW;520d;2019;100400;5820000;1;Benzin;Under 1000;Manuális;Jó;Baranya;Igen
+2;BMW;X3;2009;375000;1760000;2;Dízel;2000 to 3000;Automata;Jó;Győr-Moson-Sopron;Igen
+9;Volkswagen;Passat;2009;344000;1900000;6;Unknown;2000 to 3000;Automata;Sérült;Hajdú-Bihar;Igen
+5;Renault;Megane;2019;45200;6990000;4;Elektromos;Unknown;Automata;Jó;Veszprém;Nem
+7;Suzuki;Ignis;2023;26100;NA;1;Benzin;1000 to 1400;Manuális;Kitűnő;Hajdú-Bihar;Nem
+1;Audi;A4;2004;132200;640000;2;Dízel;1600 to 2000;Automata;Kitűnő;Fejér;Nem
+2;BMW;118i;2013;81200;2970000;2;Dízel;1600 to 2000;Manuális;Sérült;Pest;Nem
+4;Opel;Corsa;2023;42900;12780000;1;Benzin;2000 to 3000;Manuális;Közepes;Budapest;Nem
+3;Ford;Focus;2024;15100;14920000;2;Dízel;1400 to 1600;Manuális;Jó;Baranya;Nem
+8;Toyota;Corolla;2022;50300;9810000;6;Unknown;1600 to 2000;Manuális;Jó;Csongrád-Csanád;Igen
+7;Suzuki;Vitara;2022;34000;7240000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Budapest;Igen
+4;Opel;Astra;2007;255800;NA;1;Benzin;1000 to 1400;Manuális;Közepes;Fejér;Igen
+9;Volkswagen;Polo;2020;65600;NA;1;Benzin;1000 to 1400;Manuális;Sérült;Hajdú-Bihar;Nem
+4;Opel;Corsa;2014;108400;2070000;1;Benzin;Unknown;Automata;Jó;Budapest;Nem
+6;Skoda;Octavia;2006;282800;860000;2;Dízel;1600 to 2000;Manuális;Jó;Pest;Nem
+4;Opel;Zafira;2011;123600;2350000;2;Dízel;2000 to 3000;Manuális;Jó;Veszprém;Nem
+4;Opel;Zafira;2016;134400;5150000;1;Benzin;1000 to 1400;Automata;Jó;Borsod-Abaúj-Zemplén;Nem
+3;Ford;Kuga;2016;NA;4490000;2;Dízel;1400 to 1600;Manuális;Közepes;Budapest;Igen
+3;Ford;Mondeo;2024;16100;9540000;2;Dízel;1000 to 1400;Automata;Sérült;Pest;Igen
+9;Volkswagen;Tiguan;2022;26100;6840000;5;LPG;1600 to 2000;Manuális;Jó;Pest;Igen
+2;BMW;520d;2015;61700;2610000;2;Dízel;1400 to 1600;Manuális;Közepes;Pest;Igen
+5;Renault;Megane;2010;181100;1630000;2;Dízel;1600 to 2000;Manuális;Közepes;Budapest;Nem
+2;BMW;X3;2007;179800;900000;1;Benzin;1400 to 1600;Manuális;Közepes;Fejér;Nem
+5;Renault;Captur;2009;269400;1890000;2;Dízel;1600 to 2000;Manuális;Kitűnő;Borsod-Abaúj-Zemplén;Igen
+6;Skoda;Octavia;2020;73100;7200000;2;Dízel;1000 to 1400;Automata;Kitűnő;Csongrád-Csanád;Nem
+10;Other;Mazda 3;2013;184100;3290000;2;Dízel;1600 to 2000;Manuális;Jó;Pest;Igen
+6;Skoda;Fabia;2004;200600;600000;1;Benzin;1000 to 1400;Manuális;Közepes;Győr-Moson-Sopron;Nem
+3;Ford;Kuga;2007;306100;740000;1;Benzin;1000 to 1400;Automata;Sérült;Baranya;Nem
+2;BMW;X3;2005;222500;560000;1;Benzin;1600 to 2000;Manuális;Jó;Budapest;Igen
+7;Suzuki;SX4 S-Cross;2014;141300;2400000;2;Dízel;2000 to 3000;Manuális;Közepes;Pest;Nem
+3;Ford;Kuga;2006;451400;1190000;5;LPG;1000 to 1400;Automata;Jó;Budapest;Nem
+2;BMW;320d;2016;114700;4010000;2;Dízel;1400 to 1600;Manuális;Kitűnő;Fejér;Nem
+5;Renault;Captur;2010;299200;1890000;3;Hibrid;Unknown;Automata;Jó;Nógrád;Nem
+6;Skoda;Octavia;2024;19200;14080000;2;Dízel;1000 to 1400;Manuális;Jó;Nógrád;Nem
+10;Other;Fiat 500;2007;272500;1330000;1;Benzin;2000 to 3000;Manuális;Sérült;Csongrád-Csanád;Nem
+1;Audi;A3;2011;157200;1370000;2;Dízel;1400 to 1600;Automata;Kitűnő;Budapest;Nem
+1;Audi;A4;2005;354300;910000;2;Dízel;1000 to 1400;Manuális;Közepes;Győr-Moson-Sopron;Nem
+3;Ford;Kuga;2010;270600;NA;3;Hibrid;1000 to 1400;Manuális;Jó;Hajdú-Bihar;Igen
+10;Other;Fiat 500;2011;219100;1210000;2;Dízel;Unknown;Manuális;Jó;Borsod-Abaúj-Zemplén;Nem
+8;Toyota;RAV4;2017;168000;4990000;1;Benzin;Unknown;Automata;Kitűnő;Borsod-Abaúj-Zemplén;Igen
+7;Suzuki;Vitara;2020;129000;7900000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Budapest;Nem
+10;Other;Dacia Duster;2020;107700;6430000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Pest;Nem
+4;Opel;Insignia;2020;70400;4330000;1;Benzin;1000 to 1400;Automata;Kitűnő;Bács-Kiskun;Nem
+3;Ford;Kuga;2015;90200;3060000;4;Elektromos;Unknown;Automata;Jó;Hajdú-Bihar;Nem
+9;Volkswagen;Passat;2011;115700;1430000;2;Dízel;1000 to 1400;Manuális;Jó;Pest;Nem
+1;Audi;Q5;2008;213800;950000;4;Elektromos;Unknown;Automata;Közepes;Csongrád-Csanád;Nem
+2;BMW;320d;2019;103200;5240000;1;Benzin;1400 to 1600;Manuális;Jó;Pest;Igen
+6;Skoda;Octavia;2011;168400;1710000;1;Benzin;1600 to 2000;Automata;Jó;Pest;Nem
+5;Renault;Captur;2008;272400;1060000;6;Unknown;Above 3000;Manuális;Jó;Szabolcs-Szatmár-Bereg;Nem
+7;Suzuki;Swift;2004;478000;830000;3;Hibrid;Above 3000;Automata;Közepes;Budapest;Nem
+9;Volkswagen;Golf;2008;182200;860000;1;Benzin;1400 to 1600;Automata;Jó;Borsod-Abaúj-Zemplén;Nem
+1;Audi;A4;2023;40400;6860000;3;Hibrid;2000 to 3000;Manuális;Sérült;Borsod-Abaúj-Zemplén;Nem
+10;Other;Hyundai i30;2014;80600;2380000;1;Benzin;2000 to 3000;Manuális;Jó;Budapest;Igen
+8;Toyota;Yaris;2003;524500;450000;1;Benzin;2000 to 3000;Manuális;Közepes;Budapest;Nem
+1;Audi;A3;2006;390800;660000;1;Benzin;1600 to 2000;Automata;Közepes;Pest;Nem
+2;BMW;320d;2014;103500;2690000;1;Benzin;Unknown;Manuális;Kitűnő;Nógrád;Igen
+4;Opel;Corsa;2010;229800;1120000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Pest;Nem
+5;Renault;Clio;2010;133800;1720000;3;Hibrid;1600 to 2000;Automata;Közepes;Szabolcs-Szatmár-Bereg;Nem
+6;Skoda;Fabia;2022;43100;6530000;2;Dízel;2000 to 3000;Automata;Kitűnő;Borsod-Abaúj-Zemplén;Igen
+1;Audi;A4;2019;123400;4820000;5;LPG;1400 to 1600;Automata;Kitűnő;Nógrád;Nem
+9;Volkswagen;Passat;2006;NA;610000;1;Benzin;2000 to 3000;Automata;Jó;Budapest;Nem
+1;Audi;A4;2016;65100;3060000;2;Dízel;Above 3000;Manuális;Kitűnő;Nógrád;Nem
+6;Skoda;Octavia;2022;65000;9780000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Baranya;Nem
+6;Skoda;Superb;2007;385700;1390000;1;Benzin;1600 to 2000;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+6;Skoda;Superb;2009;272700;1340000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Győr-Moson-Sopron;Igen
+7;Suzuki;Ignis;2003;254200;450000;1;Benzin;1400 to 1600;Manuális;Közepes;Fejér;Nem
+1;Audi;A4;2004;169200;910000;4;Elektromos;Unknown;Manuális;Közepes;Budapest;Nem
+6;Skoda;Kodiaq;2015;220000;2970000;4;Elektromos;Unknown;Manuális;Közepes;Budapest;Nem
+1;Audi;A4;2011;NA;2490000;2;Dízel;1400 to 1600;Automata;Kitűnő;Csongrád-Csanád;Nem
+10;Other;Dacia Duster;2016;79000;3830000;2;Dízel;1400 to 1600;Manuális;Közepes;Budapest;Igen
+3;Ford;Kuga;2024;13200;14780000;1;Benzin;1000 to 1400;Manuális;Jó;Budapest;Igen
+4;Opel;Insignia;2024;NA;12760000;1;Benzin;2000 to 3000;Automata;Sérült;Borsod-Abaúj-Zemplén;Igen
+9;Volkswagen;Passat;2005;123800;800000;1;Benzin;1000 to 1400;Manuális;Közepes;Budapest;Nem
+2;BMW;X3;2004;484300;NA;1;Benzin;2000 to 3000;Manuális;Közepes;Fejér;Igen
+5;Renault;Megane;2011;278200;1420000;1;Benzin;1600 to 2000;Automata;Közepes;Budapest;Nem
+6;Skoda;Superb;2005;134900;1000000;4;Elektromos;Unknown;Manuális;Közepes;Budapest;Igen
+3;Ford;Kuga;2006;306600;1180000;1;Benzin;1000 to 1400;Automata;Jó;Győr-Moson-Sopron;Nem
+9;Volkswagen;Golf;2020;96200;6310000;2;Dízel;1400 to 1600;Automata;Közepes;Pest;Nem
+5;Renault;Clio;2006;297600;1260000;3;Hibrid;1400 to 1600;Automata;Közepes;Pest;Nem
+6;Skoda;Kodiaq;2011;105800;1770000;1;Benzin;1400 to 1600;Manuális;Jó;Budapest;Igen
+10;Other;Hyundai i30;2013;148300;1930000;1;Benzin;1400 to 1600;Automata;Jó;Pest;Nem
+8;Toyota;Corolla;2003;423300;450000;2;Dízel;1000 to 1400;Automata;Sérült;Budapest;Nem
+3;Ford;Focus;2014;116300;3770000;5;LPG;1000 to 1400;Automata;Közepes;Fejér;Nem
+10;Other;Fiat 500;2005;419900;700000;6;Unknown;1600 to 2000;Automata;Jó;Pest;Nem
+10;Other;Kia Ceed;2017;170800;5930000;1;Benzin;1400 to 1600;Automata;Kitűnő;Budapest;Igen
+7;Suzuki;SX4 S-Cross;2022;22100;NA;1;Benzin;1400 to 1600;Manuális;Közepes;Fejér;Igen
+2;BMW;520d;2014;245400;2660000;1;Benzin;1000 to 1400;Automata;Közepes;Budapest;Nem
+1;Audi;Q5;2012;234300;2620000;2;Dízel;1400 to 1600;Manuális;Közepes;Bács-Kiskun;Nem
+9;Volkswagen;Golf;2005;379500;610000;2;Dízel;1400 to 1600;Manuális;Kitűnő;Pest;Nem
+8;Toyota;C-HR;2012;204800;2100000;3;Hibrid;1600 to 2000;Manuális;Jó;Hajdú-Bihar;Nem
+7;Suzuki;Ignis;2005;445000;1050000;2;Dízel;1600 to 2000;Manuális;Sérült;Pest;Nem
+7;Suzuki;Swift;2012;227300;2020000;1;Benzin;2000 to 3000;Manuális;Kitűnő;Budapest;Nem
+8;Toyota;Corolla;2004;NA;490000;2;Dízel;1000 to 1400;Manuális;Jó;Budapest;Igen
+7;Suzuki;Vitara;2010;138300;1050000;3;Hibrid;1400 to 1600;Automata;Jó;Pest;Igen
+3;Ford;Fiesta;2023;30600;13420000;2;Dízel;1600 to 2000;Automata;Közepes;Fejér;Nem
+2;BMW;X3;2019;114700;3690000;1;Benzin;1000 to 1400;Manuális;Közepes;Fejér;Igen
+5;Renault;Clio;2012;159000;2380000;1;Benzin;1400 to 1600;Manuális;Közepes;Fejér;Igen
+9;Volkswagen;Tiguan;2022;55200;7470000;2;Dízel;1000 to 1400;Automata;Jó;Veszprém;Igen
+2;BMW;520d;2023;20700;10020000;2;Dízel;1600 to 2000;Manuális;Közepes;Győr-Moson-Sopron;Igen
+10;Other;Kia Ceed;2010;NA;1330000;1;Benzin;1000 to 1400;Manuális;Jó;Nógrád;Nem
+4;Opel;Astra;2016;129700;2920000;1;Benzin;1000 to 1400;Automata;Közepes;Veszprém;Igen
+4;Opel;Zafira;2021;75200;7770000;1;Benzin;1600 to 2000;Automata;Jó;Hajdú-Bihar;Nem
+6;Skoda;Octavia;2010;181900;1750000;1;Benzin;1600 to 2000;Manuális;Jó;Budapest;Nem
+7;Suzuki;Swift;2020;111800;5170000;2;Dízel;1000 to 1400;Manuális;Jó;Győr-Moson-Sopron;Igen
+9;Volkswagen;Golf;2013;279700;2580000;1;Benzin;1000 to 1400;Manuális;Jó;Veszprém;Nem
+7;Suzuki;Swift;2017;157400;5690000;2;Dízel;1400 to 1600;Automata;Közepes;Hajdú-Bihar;Igen
+6;Skoda;Octavia;2005;438300;950000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Szabolcs-Szatmár-Bereg;Igen
+3;Ford;Kuga;2017;189500;4640000;1;Benzin;1400 to 1600;Manuális;Jó;Bács-Kiskun;Igen
+8;Toyota;C-HR;2012;129800;1970000;2;Dízel;1400 to 1600;Manuális;Közepes;Pest;Nem
+3;Ford;Focus;2009;179600;NA;1;Benzin;1600 to 2000;Automata;Közepes;Bács-Kiskun;Nem
+9;Volkswagen;Tiguan;2023;14000;7820000;1;Benzin;Unknown;Automata;Közepes;Budapest;Igen
+3;Ford;Fiesta;2021;64000;7560000;5;LPG;1400 to 1600;Automata;Jó;Csongrád-Csanád;Nem
+7;Suzuki;Ignis;2010;NA;1890000;2;Dízel;1400 to 1600;Manuális;Sérült;Szabolcs-Szatmár-Bereg;Nem
+10;Other;Fiat 500;2019;101400;3980000;1;Benzin;1400 to 1600;Automata;Kitűnő;Szabolcs-Szatmár-Bereg;Igen
+9;Volkswagen;Polo;2023;14700;7280000;2;Dízel;2000 to 3000;Automata;Közepes;Budapest;Nem
+4;Opel;Insignia;2019;56500;5520000;2;Dízel;1600 to 2000;Manuális;Kitűnő;Borsod-Abaúj-Zemplén;Nem
+3;Ford;Mondeo;2006;NA;610000;1;Benzin;1600 to 2000;Automata;Jó;Veszprém;Nem
+5;Renault;Kadjar;2017;149900;5850000;2;Dízel;1600 to 2000;Manuális;Jó;Budapest;Nem
+2;BMW;118i;2009;239500;1530000;2;Dízel;1000 to 1400;Manuális;Jó;Fejér;Nem
+3;Ford;Kuga;2023;44600;12600000;2;Dízel;1400 to 1600;Manuális;Közepes;Bács-Kiskun;Nem
+7;Suzuki;Ignis;2008;117700;1370000;1;Benzin;1400 to 1600;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+5;Renault;Clio;2023;14700;9280000;4;Elektromos;Unknown;Manuális;Jó;Fejér;Nem
+7;Suzuki;Vitara;2023;45500;11860000;2;Dízel;1600 to 2000;Manuális;Jó;Szabolcs-Szatmár-Bereg;Igen
+6;Skoda;Octavia;2003;211900;830000;1;Benzin;1000 to 1400;Manuális;Közepes;Fejér;Nem
+8;Toyota;C-HR;2019;52100;7340000;2;Dízel;1600 to 2000;Manuális;Jó;Borsod-Abaúj-Zemplén;Nem
+2;BMW;X3;2005;295300;980000;2;Dízel;1400 to 1600;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+4;Opel;Astra;2017;140500;5830000;1;Benzin;2000 to 3000;Automata;Jó;Budapest;Igen
+10;Other;Kia Ceed;2008;199800;1670000;1;Benzin;1000 to 1400;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+7;Suzuki;Ignis;2022;51000;7240000;1;Benzin;1000 to 1400;Manuális;Sérült;Budapest;Igen
+4;Opel;Astra;2007;158100;1410000;2;Dízel;1600 to 2000;Manuális;Közepes;Pest;Nem
+9;Volkswagen;Polo;2022;24600;5870000;2;Dízel;1600 to 2000;Manuális;Közepes;Pest;Igen
+8;Toyota;C-HR;2010;265900;1100000;2;Dízel;1600 to 2000;Manuális;Közepes;Bács-Kiskun;Igen
+8;Toyota;C-HR;2007;401300;840000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Budapest;Nem
+7;Suzuki;SX4 S-Cross;2013;241000;2770000;4;Elektromos;Unknown;Automata;Kitűnő;Pest;Nem
+4;Opel;Corsa;2009;322200;NA;1;Benzin;1600 to 2000;Manuális;Közepes;Pest;Nem
+9;Volkswagen;Polo;2004;414200;760000;1;Benzin;1000 to 1400;Automata;Közepes;Pest;Nem
+6;Skoda;Superb;2005;140700;560000;1;Benzin;1400 to 1600;Manuális;Sérült;Csongrád-Csanád;Nem
+1;Audi;A3;2013;NA;2020000;6;Unknown;1400 to 1600;Automata;Kitűnő;Hajdú-Bihar;Nem
+7;Suzuki;Swift;2010;155600;2040000;4;Elektromos;Unknown;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+3;Ford;Fiesta;2021;62300;10240000;1;Benzin;1000 to 1400;Manuális;Közepes;Pest;Nem
+2;BMW;X3;2009;166800;1910000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Borsod-Abaúj-Zemplén;Igen
+8;Toyota;C-HR;2009;325200;1570000;2;Dízel;1400 to 1600;Manuális;Sérült;Hajdú-Bihar;Nem
+10;Other;Kia Ceed;2016;200900;3290000;3;Hibrid;Above 3000;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+3;Ford;Fiesta;2004;463700;480000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Budapest;Igen
+9;Volkswagen;Passat;2023;36800;6730000;2;Dízel;1400 to 1600;Manuális;Jó;Győr-Moson-Sopron;Igen
+8;Toyota;Corolla;2009;226800;1890000;1;Benzin;1000 to 1400;Manuális;Közepes;Budapest;Igen
+7;Suzuki;Vitara;2009;248600;960000;5;LPG;1600 to 2000;Manuális;Közepes;Fejér;Nem
+9;Volkswagen;Passat;2015;126600;2830000;1;Benzin;1600 to 2000;Manuális;Sérült;Csongrád-Csanád;Nem
+2;BMW;X3;2012;246400;1870000;6;Unknown;1600 to 2000;Manuális;Kitűnő;Budapest;Nem
+3;Ford;Fiesta;2010;330000;1920000;1;Benzin;1600 to 2000;Automata;Jó;Hajdú-Bihar;Nem
+6;Skoda;Kodiaq;2021;59000;9220000;3;Hibrid;2000 to 3000;Automata;Jó;Budapest;Igen
+2;BMW;520d;2014;248900;3900000;2;Dízel;2000 to 3000;Automata;Közepes;Nógrád;Igen
+10;Other;Dacia Duster;2008;396600;1230000;4;Elektromos;Unknown;Automata;Jó;Csongrád-Csanád;Nem
+8;Toyota;Yaris;2019;64800;6500000;2;Dízel;1600 to 2000;Manuális;Kitűnő;Veszprém;Nem
+2;BMW;520d;2022;25900;7830000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Csongrád-Csanád;Nem
+10;Other;Kia Ceed;2011;308500;2210000;1;Benzin;1000 to 1400;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+1;Audi;A4;2007;423800;1150000;2;Dízel;1400 to 1600;Manuális;Közepes;Győr-Moson-Sopron;Nem
+5;Renault;Captur;2004;495800;740000;2;Dízel;1000 to 1400;Manuális;Közepes;Fejér;Nem
+1;Audi;A6;2012;224800;1610000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Baranya;Igen
+2;BMW;520d;2020;90400;8020000;2;Dízel;1000 to 1400;Automata;Sérült;Baranya;Igen
+4;Opel;Astra;2009;248700;1070000;1;Benzin;1000 to 1400;Automata;Közepes;Szabolcs-Szatmár-Bereg;Igen
+2;BMW;520d;2020;NA;8580000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Fejér;Nem
+1;Audi;Q5;2020;43900;6470000;5;LPG;1400 to 1600;Manuális;Jó;Fejér;Igen
+2;BMW;520d;2012;215900;1490000;2;Dízel;1000 to 1400;Manuális;Jó;Csongrád-Csanád;Nem
+2;BMW;X3;2010;208400;NA;5;LPG;1600 to 2000;Manuális;Kitűnő;Veszprém;Nem
+4;Opel;Zafira;2012;179200;2790000;2;Dízel;1400 to 1600;Manuális;Közepes;Pest;Nem
+5;Renault;Clio;2003;452200;660000;1;Benzin;1600 to 2000;Automata;Közepes;Győr-Moson-Sopron;Nem
+6;Skoda;Fabia;2013;169100;3360000;1;Benzin;1000 to 1400;Manuális;Jó;Pest;Igen
+4;Opel;Corsa;2011;193000;1600000;3;Hibrid;1400 to 1600;Automata;Közepes;Borsod-Abaúj-Zemplén;Nem
+10;Other;Fiat 500;2005;209500;1070000;1;Benzin;1400 to 1600;Manuális;Közepes;Győr-Moson-Sopron;Igen
+4;Opel;Astra;2011;272500;2120000;5;LPG;1400 to 1600;Manuális;Kitűnő;Fejér;Nem
+1;Audi;A4;2007;352600;1060000;1;Benzin;Unknown;Manuális;Közepes;Hajdú-Bihar;Nem
+8;Toyota;Yaris;2009;321500;1220000;1;Benzin;1600 to 2000;Manuális;Közepes;Nógrád;Igen
+6;Skoda;Kodiaq;2009;266500;1220000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Hajdú-Bihar;Igen
+5;Renault;Megane;2004;352200;820000;1;Benzin;1600 to 2000;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+3;Ford;Focus;2012;278900;1540000;2;Dízel;Unknown;Manuális;Közepes;Csongrád-Csanád;Igen
+7;Suzuki;Swift;2014;161600;3520000;1;Benzin;2000 to 3000;Manuális;Közepes;Budapest;Nem
+7;Suzuki;Swift;2017;135000;3520000;6;Unknown;1600 to 2000;Manuális;Sérült;Fejér;Nem
+9;Volkswagen;Tiguan;2023;13800;11350000;3;Hibrid;1400 to 1600;Manuális;Jó;Csongrád-Csanád;Nem
+6;Skoda;Octavia;2004;241600;910000;6;Unknown;1400 to 1600;Manuális;Sérült;Veszprém;Nem
+4;Opel;Insignia;2015;121300;3470000;1;Benzin;1400 to 1600;Manuális;Jó;Budapest;Nem
+10;Other;Kia Ceed;2019;102100;7270000;1;Benzin;2000 to 3000;Manuális;Jó;Pest;Nem
+7;Suzuki;SX4 S-Cross;2004;275800;450000;2;Dízel;1400 to 1600;Manuális;Közepes;Budapest;Nem
+6;Skoda;Kodiaq;2017;102700;2830000;1;Benzin;1600 to 2000;Manuális;Közepes;Győr-Moson-Sopron;Nem
+8;Toyota;RAV4;2015;82900;2810000;1;Benzin;Under 1000;Automata;Jó;Fejér;Nem
+2;BMW;X3;2005;144700;720000;1;Benzin;1000 to 1400;Automata;Kitűnő;Bács-Kiskun;Nem
+4;Opel;Astra;2018;127900;3180000;2;Dízel;1400 to 1600;Automata;Közepes;Pest;Nem
+3;Ford;Mondeo;2013;122100;2270000;1;Benzin;1400 to 1600;Automata;Közepes;Csongrád-Csanád;Nem
+3;Ford;Mondeo;2003;138400;710000;1;Benzin;1000 to 1400;Manuális;Közepes;Budapest;Nem
+1;Audi;A6;2005;168300;550000;4;Elektromos;Unknown;Automata;Közepes;Hajdú-Bihar;Igen
+9;Volkswagen;Golf;2005;436500;910000;2;Dízel;1600 to 2000;Manuális;Közepes;Győr-Moson-Sopron;Nem
+5;Renault;Megane;2011;229200;1410000;1;Benzin;1600 to 2000;Automata;Kitűnő;Bács-Kiskun;Nem
+2;BMW;320d;2008;196100;920000;6;Unknown;1600 to 2000;Manuális;Jó;Budapest;Nem
+3;Ford;Mondeo;2013;NA;NA;2;Dízel;1400 to 1600;Manuális;Jó;Baranya;Nem
+2;BMW;X3;2021;28700;8870000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Bács-Kiskun;Igen
+6;Skoda;Octavia;2020;93300;8030000;1;Benzin;1600 to 2000;Automata;Közepes;Fejér;Nem
+2;BMW;118i;2011;113200;2010000;3;Hibrid;1000 to 1400;Automata;Közepes;Csongrád-Csanád;Nem
+3;Ford;Focus;2008;219300;800000;1;Benzin;Above 3000;Manuális;Sérült;Borsod-Abaúj-Zemplén;Igen
+10;Other;Dacia Duster;2013;215600;3120000;4;Elektromos;Unknown;Automata;Jó;Fejér;Nem
+3;Ford;Fiesta;2008;NA;1480000;2;Dízel;1400 to 1600;Automata;Közepes;Győr-Moson-Sopron;Igen
+2;BMW;320d;2004;319600;590000;1;Benzin;1600 to 2000;Automata;Közepes;Pest;Nem
+4;Opel;Astra;2016;77100;3310000;1;Benzin;1600 to 2000;Automata;Sérült;Budapest;Nem
+7;Suzuki;Vitara;2023;24800;10540000;5;LPG;2000 to 3000;Automata;Közepes;Budapest;Nem
+4;Opel;Astra;2004;362300;480000;2;Dízel;Above 3000;Manuális;Jó;Csongrád-Csanád;Nem
+9;Volkswagen;Polo;2017;143300;3340000;4;Elektromos;Unknown;Manuális;Jó;Budapest;Igen
+1;Audi;A4;2013;153100;3400000;1;Benzin;1400 to 1600;Manuális;Közepes;Budapest;Nem
+5;Renault;Kadjar;2014;221400;3230000;1;Benzin;1600 to 2000;Automata;Jó;Fejér;Nem
+9;Volkswagen;Polo;2022;71600;5720000;1;Benzin;1600 to 2000;Manuális;Közepes;Nógrád;Nem
+4;Opel;Insignia;2009;207700;1280000;2;Dízel;1000 to 1400;Automata;Közepes;Szabolcs-Szatmár-Bereg;Nem
+10;Other;Hyundai i30;2016;NA;4690000;2;Dízel;1000 to 1400;Automata;Közepes;Hajdú-Bihar;Nem
+6;Skoda;Octavia;2014;NA;2980000;1;Benzin;1600 to 2000;Manuális;Közepes;Győr-Moson-Sopron;Nem
+1;Audi;A6;2007;406800;1290000;3;Hibrid;1400 to 1600;Manuális;Közepes;Csongrád-Csanád;Nem
+4;Opel;Corsa;2024;NA;14380000;2;Dízel;1600 to 2000;Automata;Közepes;Budapest;Nem
+3;Ford;Mondeo;2014;195500;3540000;2;Dízel;1400 to 1600;Manuális;Sérült;Pest;Nem
+2;BMW;X3;2023;42500;9740000;2;Dízel;1400 to 1600;Manuális;Közepes;Baranya;Nem
+5;Renault;Captur;2024;21200;9290000;2;Dízel;1600 to 2000;Manuális;Közepes;Budapest;Nem
+3;Ford;Kuga;2024;14300;15620000;1;Benzin;1600 to 2000;Automata;Sérült;Budapest;Nem
+2;BMW;X3;2016;65000;2580000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Budapest;Nem
+3;Ford;Fiesta;2012;275700;2470000;1;Benzin;1000 to 1400;Manuális;Közepes;Nógrád;Nem
+1;Audi;A6;2016;105400;4970000;3;Hibrid;2000 to 3000;Manuális;Jó;Baranya;Nem
+6;Skoda;Fabia;2019;73700;6060000;2;Dízel;2000 to 3000;Manuális;Jó;Pest;Nem
+4;Opel;Corsa;2012;NA;1610000;5;LPG;1600 to 2000;Manuális;Kitűnő;Budapest;Nem
+3;Ford;Mondeo;2015;196500;4850000;2;Dízel;1400 to 1600;Automata;Jó;Hajdú-Bihar;Nem
+5;Renault;Kadjar;2004;263800;770000;2;Dízel;Unknown;Manuális;Közepes;Budapest;Nem
+1;Audi;Q5;2023;14600;8310000;2;Dízel;1400 to 1600;Manuális;Jó;Bács-Kiskun;Nem
+7;Suzuki;Swift;2010;296600;2140000;1;Benzin;Under 1000;Manuális;Jó;Pest;Igen
+4;Opel;Astra;2009;174200;NA;1;Benzin;2000 to 3000;Manuális;Közepes;Hajdú-Bihar;Nem
+8;Toyota;C-HR;2008;205100;1640000;2;Dízel;1600 to 2000;Manuális;Kitűnő;Fejér;Igen
+5;Renault;Megane;2012;228200;1630000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Bács-Kiskun;Nem
+5;Renault;Clio;2015;122600;4170000;2;Dízel;1400 to 1600;Manuális;Jó;Budapest;Igen
+1;Audi;A4;2022;51100;10870000;1;Benzin;2000 to 3000;Manuális;Közepes;Pest;Nem
+4;Opel;Insignia;2021;61600;7920000;2;Dízel;2000 to 3000;Manuális;Jó;Veszprém;Nem
+1;Audi;A6;2012;132900;1400000;3;Hibrid;Unknown;Manuális;Jó;Fejér;Nem
+8;Toyota;RAV4;2012;268900;2140000;1;Benzin;1000 to 1400;Manuális;Jó;Budapest;Nem
+7;Suzuki;Vitara;2024;10000;15230000;2;Dízel;Unknown;Automata;Kitűnő;Budapest;Nem
+8;Toyota;C-HR;2007;404800;730000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Budapest;Igen
+10;Other;Hyundai i30;2006;241100;600000;1;Benzin;Above 3000;Manuális;Jó;Budapest;Nem
+5;Renault;Captur;2012;NA;2970000;1;Benzin;1000 to 1400;Manuális;Sérült;Budapest;Nem
+2;BMW;118i;2022;61000;8410000;1;Benzin;1600 to 2000;Manuális;Sérült;Bács-Kiskun;Igen
+7;Suzuki;Swift;2015;128500;3680000;2;Dízel;1400 to 1600;Manuális;Kitűnő;Budapest;Igen
+3;Ford;Fiesta;2013;213600;2480000;5;LPG;1000 to 1400;Manuális;Jó;Borsod-Abaúj-Zemplén;Nem
+5;Renault;Megane;2005;441400;940000;1;Benzin;1600 to 2000;Automata;Közepes;Győr-Moson-Sopron;Nem
+9;Volkswagen;Passat;2021;46600;9440000;1;Benzin;Unknown;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+10;Other;Kia Ceed;2008;148200;NA;2;Dízel;2000 to 3000;Automata;Közepes;Pest;Nem
+10;Other;Hyundai i30;2007;112200;NA;5;LPG;1400 to 1600;Manuális;Kitűnő;Budapest;Nem
+2;BMW;520d;2017;76500;4180000;2;Dízel;1600 to 2000;Manuális;Közepes;Győr-Moson-Sopron;Nem
+4;Opel;Insignia;2014;238200;2050000;1;Benzin;1000 to 1400;Manuális;Sérült;Budapest;Nem
+10;Other;Kia Ceed;2016;124800;2870000;4;Elektromos;Unknown;Automata;Kitűnő;Borsod-Abaúj-Zemplén;Nem
+9;Volkswagen;Polo;2006;329500;1270000;3;Hibrid;1400 to 1600;Automata;Sérült;Borsod-Abaúj-Zemplén;Nem
+5;Renault;Megane;2014;196800;3530000;1;Benzin;1000 to 1400;Manuális;Jó;Nógrád;Nem
+7;Suzuki;Ignis;2012;126800;2180000;1;Benzin;1400 to 1600;Manuális;Jó;Budapest;Nem
+2;BMW;520d;2003;432000;450000;2;Dízel;1400 to 1600;Manuális;Jó;Csongrád-Csanád;Igen
+7;Suzuki;Vitara;2012;81800;2610000;5;LPG;1400 to 1600;Manuális;Közepes;Budapest;Igen
+5;Renault;Clio;2009;315600;1480000;5;LPG;Above 3000;Automata;Közepes;Borsod-Abaúj-Zemplén;Igen
+4;Opel;Insignia;2005;398300;820000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Baranya;Nem
+8;Toyota;RAV4;2008;264700;880000;1;Benzin;1400 to 1600;Automata;Kitűnő;Hajdú-Bihar;Nem
+6;Skoda;Superb;2024;21600;13490000;1;Benzin;1000 to 1400;Manuális;Jó;Csongrád-Csanád;Nem
+1;Audi;Q5;2018;133700;5900000;3;Hibrid;1600 to 2000;Manuális;Közepes;Pest;Igen
+7;Suzuki;Swift;2008;353000;1200000;3;Hibrid;1000 to 1400;Manuális;Sérült;Budapest;Nem
+1;Audi;Q5;2006;212200;1210000;2;Dízel;1400 to 1600;Manuális;Közepes;Hajdú-Bihar;Igen
+3;Ford;Kuga;2012;113900;2420000;1;Benzin;1600 to 2000;Manuális;Jó;Pest;Nem
+2;BMW;320d;2003;432300;680000;1;Benzin;1000 to 1400;Manuális;Jó;Győr-Moson-Sopron;Nem
+9;Volkswagen;Polo;2016;56500;2940000;2;Dízel;1000 to 1400;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+8;Toyota;Yaris;2021;60400;8300000;1;Benzin;1400 to 1600;Manuális;Jó;Szabolcs-Szatmár-Bereg;Nem
+7;Suzuki;Swift;2016;96800;4850000;2;Dízel;1400 to 1600;Manuális;Jó;Borsod-Abaúj-Zemplén;Nem
+10;Other;Kia Ceed;2020;35000;6090000;5;LPG;1600 to 2000;Manuális;Közepes;Pest;Igen
+4;Opel;Zafira;2023;38400;7470000;2;Dízel;1400 to 1600;Automata;Közepes;Pest;Nem
+2;BMW;520d;2011;224500;2480000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Fejér;Igen
+1;Audi;A4;2013;227500;2380000;2;Dízel;1000 to 1400;Manuális;Közepes;Nógrád;Nem
+10;Other;Hyundai i30;2013;NA;3420000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Pest;Nem
+2;BMW;X3;2021;42200;7850000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Fejér;Nem
+7;Suzuki;Ignis;2021;41600;5810000;2;Dízel;1000 to 1400;Manuális;Jó;Nógrád;Nem
+3;Ford;Fiesta;2024;14400;8050000;2;Dízel;1600 to 2000;Automata;Közepes;Budapest;Igen
+5;Renault;Captur;2024;19100;10240000;2;Dízel;1400 to 1600;Manuális;Jó;Pest;Nem
+2;BMW;X3;2018;132700;4670000;2;Dízel;2000 to 3000;Manuális;Jó;Hajdú-Bihar;Nem
+9;Volkswagen;Golf;2018;115300;3450000;2;Dízel;1000 to 1400;Manuális;Közepes;Csongrád-Csanád;Nem
+1;Audi;A4;2008;371600;NA;1;Benzin;1000 to 1400;Automata;Jó;Csongrád-Csanád;Nem
+7;Suzuki;Ignis;2024;9800;8420000;3;Hibrid;2000 to 3000;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+10;Other;Hyundai i30;2019;124600;6190000;1;Benzin;2000 to 3000;Manuális;Sérült;Fejér;Nem
+1;Audi;Q5;2020;39800;5190000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Veszprém;Nem
+2;BMW;118i;2004;NA;960000;1;Benzin;Under 1000;Automata;Jó;Budapest;Igen
+3;Ford;Kuga;2003;406300;740000;3;Hibrid;1000 to 1400;Manuális;Jó;Bács-Kiskun;Nem
+9;Volkswagen;Passat;2024;14400;13950000;5;LPG;1000 to 1400;Automata;Közepes;Budapest;Nem
+2;BMW;520d;2021;81900;8990000;1;Benzin;1000 to 1400;Manuális;Közepes;Nógrád;Igen
+5;Renault;Captur;2024;14000;8630000;2;Dízel;1000 to 1400;Manuális;Közepes;Baranya;Igen
+6;Skoda;Superb;2011;298400;2110000;2;Dízel;Under 1000;Automata;Kitűnő;Budapest;Nem
+9;Volkswagen;Golf;2009;368600;1570000;2;Dízel;1400 to 1600;Manuális;Jó;Veszprém;Nem
+7;Suzuki;Swift;2020;42900;5440000;3;Hibrid;1400 to 1600;Manuális;Kitűnő;Csongrád-Csanád;Nem
+5;Renault;Megane;2003;399000;770000;2;Dízel;1600 to 2000;Manuális;Közepes;Hajdú-Bihar;Nem
+3;Ford;Fiesta;2016;194400;2480000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Pest;Igen
+10;Other;Fiat 500;2012;204300;2200000;3;Hibrid;1000 to 1400;Manuális;Jó;Hajdú-Bihar;Igen
+9;Volkswagen;Polo;2010;207600;1070000;1;Benzin;1400 to 1600;Automata;Közepes;Borsod-Abaúj-Zemplén;Igen
+8;Toyota;C-HR;2013;141000;1780000;1;Benzin;1400 to 1600;Automata;Közepes;Budapest;Nem
+7;Suzuki;Vitara;2023;27900;9790000;2;Dízel;1400 to 1600;Manuális;Kitűnő;Fejér;Nem
+3;Ford;Kuga;2016;90600;2540000;1;Benzin;1400 to 1600;Automata;Jó;Szabolcs-Szatmár-Bereg;Igen
+8;Toyota;Yaris;2003;165900;590000;2;Dízel;1000 to 1400;Automata;Közepes;Hajdú-Bihar;Nem
+9;Volkswagen;Passat;2020;61700;6490000;1;Benzin;Under 1000;Automata;Jó;Csongrád-Csanád;Nem
+7;Suzuki;Ignis;2016;125800;4690000;1;Benzin;1600 to 2000;Manuális;Jó;Szabolcs-Szatmár-Bereg;Nem
+4;Opel;Astra;2003;368400;450000;1;Benzin;2000 to 3000;Manuális;Jó;Borsod-Abaúj-Zemplén;Nem
+8;Toyota;C-HR;2003;246300;780000;5;LPG;2000 to 3000;Automata;Közepes;Borsod-Abaúj-Zemplén;Nem
+1;Audi;A4;2023;45100;13060000;2;Dízel;1600 to 2000;Manuális;Jó;Fejér;Nem
+9;Volkswagen;Polo;2014;202800;3540000;2;Dízel;1000 to 1400;Manuális;Közepes;Hajdú-Bihar;Igen
+3;Ford;Mondeo;2003;521300;810000;3;Hibrid;Unknown;Automata;Közepes;Budapest;Igen
+8;Toyota;C-HR;2014;147400;3120000;1;Benzin;1000 to 1400;Manuális;Közepes;Bács-Kiskun;Nem
+6;Skoda;Superb;2010;159200;NA;1;Benzin;1400 to 1600;Manuális;Kitűnő;Budapest;Nem
+2;BMW;118i;2009;NA;1290000;3;Hibrid;Unknown;Automata;Jó;Győr-Moson-Sopron;Nem
+8;Toyota;RAV4;2019;87000;6300000;3;Hibrid;1400 to 1600;Manuális;Közepes;Budapest;Igen
+8;Toyota;C-HR;2022;29900;10060000;2;Dízel;1000 to 1400;Manuális;Közepes;Veszprém;Nem
+6;Skoda;Octavia;2016;144300;2920000;3;Hibrid;1400 to 1600;Automata;Jó;Szabolcs-Szatmár-Bereg;Nem
+8;Toyota;RAV4;2016;130000;3180000;1;Benzin;1600 to 2000;Manuális;Közepes;Nógrád;Igen
+2;BMW;X3;2004;415900;890000;1;Benzin;1600 to 2000;Automata;Közepes;Baranya;Nem
+7;Suzuki;Ignis;2011;322300;1910000;1;Benzin;1600 to 2000;Manuális;Közepes;Pest;Nem
+3;Ford;Mondeo;2017;NA;3690000;1;Benzin;1400 to 1600;Manuális;Közepes;Hajdú-Bihar;Igen
+3;Ford;Kuga;2014;101700;2030000;2;Dízel;1600 to 2000;Automata;Jó;Fejér;Igen
+2;BMW;520d;2004;175000;970000;1;Benzin;Under 1000;Manuális;Közepes;Baranya;Nem
+1;Audi;A4;2009;374800;1550000;1;Benzin;Under 1000;Automata;Közepes;Szabolcs-Szatmár-Bereg;Igen
+8;Toyota;C-HR;2006;416400;1120000;5;LPG;1600 to 2000;Manuális;Kitűnő;Pest;Igen
+8;Toyota;Corolla;2023;18200;12950000;2;Dízel;1400 to 1600;Manuális;Kitűnő;Budapest;Nem
+7;Suzuki;SX4 S-Cross;2015;159900;3380000;1;Benzin;1400 to 1600;Automata;Sérült;Fejér;Nem
+7;Suzuki;Ignis;2007;115100;820000;1;Benzin;Unknown;Manuális;Sérült;Nógrád;Nem
+9;Volkswagen;Passat;2021;NA;8160000;2;Dízel;1400 to 1600;Automata;Közepes;Pest;Igen
+9;Volkswagen;Passat;2014;99400;2670000;1;Benzin;1400 to 1600;Manuális;Közepes;Veszprém;Igen
+1;Audi;A4;2006;296300;670000;2;Dízel;1000 to 1400;Manuális;Jó;Borsod-Abaúj-Zemplén;Nem
+10;Other;Fiat 500;2017;83200;3970000;1;Benzin;1000 to 1400;Automata;Jó;Fejér;Nem
+5;Renault;Clio;2007;431800;950000;4;Elektromos;Unknown;Manuális;Jó;Budapest;Nem
+7;Suzuki;SX4 S-Cross;2006;246300;910000;1;Benzin;Unknown;Manuális;Közepes;Csongrád-Csanád;Igen
+9;Volkswagen;Tiguan;2007;117400;1110000;4;Elektromos;Unknown;Manuális;Kitűnő;Budapest;Nem
+9;Volkswagen;Golf;2017;163700;3040000;1;Benzin;1600 to 2000;Manuális;Közepes;Hajdú-Bihar;Nem
+7;Suzuki;Vitara;2019;69000;3770000;2;Dízel;1600 to 2000;Automata;Jó;Baranya;Igen
+3;Ford;Fiesta;2005;175000;740000;1;Benzin;2000 to 3000;Manuális;Jó;Budapest;Nem
+8;Toyota;Yaris;2009;191800;1870000;3;Hibrid;1000 to 1400;Manuális;Közepes;Bács-Kiskun;Nem
+4;Opel;Corsa;2008;298000;1540000;1;Benzin;1400 to 1600;Automata;Jó;Fejér;Igen
+9;Volkswagen;Passat;2015;207900;2510000;4;Elektromos;Unknown;Manuális;Kitűnő;Hajdú-Bihar;Nem
+9;Volkswagen;Polo;2015;182300;4060000;1;Benzin;1400 to 1600;Manuális;Közepes;Pest;Nem
+2;BMW;320d;2024;23200;15140000;5;LPG;Above 3000;Manuális;Jó;Borsod-Abaúj-Zemplén;Nem
+8;Toyota;Yaris;2019;56500;5540000;1;Benzin;Unknown;Automata;Közepes;Veszprém;Igen
+1;Audi;Q5;2022;21800;11090000;1;Benzin;1600 to 2000;Manuális;Sérült;Baranya;Nem
+7;Suzuki;Vitara;2016;95000;3590000;6;Unknown;2000 to 3000;Manuális;Közepes;Budapest;Nem
+7;Suzuki;Vitara;2011;241400;1460000;1;Benzin;1000 to 1400;Manuális;Jó;Fejér;Nem
+5;Renault;Captur;2008;322300;1420000;1;Benzin;1600 to 2000;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+1;Audi;Q5;2012;142700;1970000;3;Hibrid;1400 to 1600;Manuális;Kitűnő;Csongrád-Csanád;Igen
+6;Skoda;Kodiaq;2010;340000;1380000;2;Dízel;1400 to 1600;Manuális;Közepes;Budapest;Nem
+1;Audi;A6;2022;NA;11320000;1;Benzin;1400 to 1600;Manuális;Jó;Budapest;Igen
+5;Renault;Kadjar;2004;251700;560000;2;Dízel;1600 to 2000;Manuális;Sérült;Pest;Igen
+10;Other;Mazda 3;2007;116800;1150000;1;Benzin;1400 to 1600;Manuális;Közepes;Nógrád;Nem
+3;Ford;Mondeo;2023;13900;13400000;1;Benzin;2000 to 3000;Manuális;Jó;Pest;Nem
+10;Other;Hyundai i30;2024;15200;8190000;2;Dízel;1400 to 1600;Manuális;Közepes;Borsod-Abaúj-Zemplén;Igen
+8;Toyota;Corolla;2020;41900;4350000;2;Dízel;1400 to 1600;Manuális;Jó;Szabolcs-Szatmár-Bereg;Nem
+7;Suzuki;Swift;2008;281200;1430000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Baranya;Nem
+8;Toyota;Yaris;2018;115600;3960000;3;Hibrid;1400 to 1600;Manuális;Jó;Baranya;Nem
+2;BMW;520d;2013;233000;1990000;1;Benzin;1600 to 2000;Manuális;Közepes;Pest;Igen
+1;Audi;A6;2023;26600;7620000;2;Dízel;1000 to 1400;Manuális;Jó;Budapest;Igen
+3;Ford;Fiesta;2023;20400;11780000;1;Benzin;1600 to 2000;Manuális;Jó;Budapest;Igen
+3;Ford;Mondeo;2008;385700;1350000;1;Benzin;2000 to 3000;Manuális;Jó;Bács-Kiskun;Nem
+2;BMW;320d;2017;74500;2910000;6;Unknown;1000 to 1400;Automata;Kitűnő;Budapest;Nem
+4;Opel;Astra;2024;11600;9270000;1;Benzin;1000 to 1400;Manuális;Jó;Budapest;Igen
+4;Opel;Corsa;2004;373900;940000;2;Dízel;2000 to 3000;Automata;Jó;Borsod-Abaúj-Zemplén;Igen
+9;Volkswagen;Tiguan;2016;208600;3050000;1;Benzin;1000 to 1400;Manuális;Jó;Budapest;Nem
+3;Ford;Fiesta;2019;57300;6770000;1;Benzin;Above 3000;Automata;Közepes;Győr-Moson-Sopron;Nem
+5;Renault;Kadjar;2016;113300;4830000;1;Benzin;1400 to 1600;Manuális;Jó;Nógrád;Nem
+1;Audi;A3;2016;138600;3680000;3;Hibrid;1000 to 1400;Automata;Jó;Budapest;Nem
+8;Toyota;Yaris;2015;89700;3350000;1;Benzin;1600 to 2000;Manuális;Jó;Szabolcs-Szatmár-Bereg;Nem
+7;Suzuki;Ignis;2012;215500;1510000;1;Benzin;1400 to 1600;Manuális;Sérült;Budapest;Nem
+10;Other;Dacia Duster;2019;126600;7130000;3;Hibrid;1600 to 2000;Automata;Jó;Pest;Nem
+2;BMW;X3;2020;94500;7210000;1;Benzin;2000 to 3000;Automata;Sérült;Csongrád-Csanád;Nem
+5;Renault;Clio;2014;100900;2840000;1;Benzin;1600 to 2000;Manuális;Közepes;Csongrád-Csanád;Nem
+9;Volkswagen;Golf;2017;119100;5550000;2;Dízel;1400 to 1600;Manuális;Közepes;Pest;Nem
+9;Volkswagen;Tiguan;2007;274300;1000000;1;Benzin;1400 to 1600;Automata;Közepes;Budapest;Nem
+1;Audi;A3;2012;181100;2000000;1;Benzin;1000 to 1400;Automata;Jó;Baranya;Nem
+10;Other;Dacia Duster;2013;164400;NA;1;Benzin;Unknown;Manuális;Kitűnő;Bács-Kiskun;Nem
+2;BMW;X3;2012;118400;2330000;1;Benzin;1600 to 2000;Manuális;Jó;Csongrád-Csanád;Nem
+8;Toyota;RAV4;2010;90300;1840000;3;Hibrid;1000 to 1400;Manuális;Közepes;Bács-Kiskun;Nem
+5;Renault;Megane;2016;69900;2920000;1;Benzin;1400 to 1600;Manuális;Közepes;Győr-Moson-Sopron;Nem
+6;Skoda;Octavia;2018;153300;4710000;1;Benzin;1600 to 2000;Manuális;Közepes;Győr-Moson-Sopron;Igen
+8;Toyota;Corolla;2023;38500;8580000;5;LPG;1400 to 1600;Automata;Jó;Hajdú-Bihar;Nem
+7;Suzuki;SX4 S-Cross;2014;92000;1830000;2;Dízel;2000 to 3000;Manuális;Közepes;Pest;Nem
+2;BMW;X3;2019;51700;6130000;6;Unknown;1400 to 1600;Manuális;Sérült;Borsod-Abaúj-Zemplén;Igen
+2;BMW;320d;2024;8900;11370000;5;LPG;1400 to 1600;Manuális;Kitűnő;Budapest;Nem
+1;Audi;Q5;2015;158800;4480000;3;Hibrid;1000 to 1400;Automata;Kitűnő;Pest;Nem
+10;Other;Hyundai i30;2014;NA;1850000;1;Benzin;1000 to 1400;Manuális;Jó;Nógrád;Igen
+1;Audi;A6;2016;67000;4950000;1;Benzin;1400 to 1600;Automata;Közepes;Csongrád-Csanád;Nem
+3;Ford;Fiesta;2021;35000;6320000;1;Benzin;2000 to 3000;Manuális;Közepes;Fejér;Nem
+1;Audi;A3;2009;239200;1860000;1;Benzin;Unknown;Manuális;Jó;Budapest;Nem
+3;Ford;Mondeo;2003;490400;690000;2;Dízel;1000 to 1400;Manuális;Jó;Győr-Moson-Sopron;Nem
+9;Volkswagen;Polo;2015;87300;2620000;2;Dízel;1000 to 1400;Automata;Közepes;Budapest;Igen
+8;Toyota;C-HR;2023;NA;7610000;1;Benzin;2000 to 3000;Manuális;Kitűnő;Baranya;Nem
+10;Other;Fiat 500;2015;141700;4260000;1;Benzin;1000 to 1400;Manuális;Közepes;Fejér;Nem
+6;Skoda;Kodiaq;2019;86100;6560000;1;Benzin;Unknown;Automata;Közepes;Baranya;Nem
+2;BMW;320d;2023;19800;10000000;1;Benzin;1600 to 2000;Automata;Sérült;Budapest;Nem
+9;Volkswagen;Tiguan;2018;64000;4580000;2;Dízel;1600 to 2000;Automata;Jó;Pest;Igen
+7;Suzuki;SX4 S-Cross;2024;20300;10040000;1;Benzin;1400 to 1600;Automata;Kitűnő;Bács-Kiskun;Nem
+1;Audi;A4;2018;93800;3260000;3;Hibrid;2000 to 3000;Automata;Közepes;Hajdú-Bihar;Nem
+1;Audi;Q5;2003;412500;640000;1;Benzin;1400 to 1600;Manuális;Közepes;Budapest;Nem
+1;Audi;A4;2022;59600;10830000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Hajdú-Bihar;Igen
+10;Other;Hyundai i30;2014;225700;3710000;2;Dízel;1000 to 1400;Manuális;Jó;Bács-Kiskun;Nem
+1;Audi;A6;2020;75500;6710000;1;Benzin;1600 to 2000;Manuális;Jó;Csongrád-Csanád;Igen
+7;Suzuki;Vitara;2014;128800;3480000;2;Dízel;1400 to 1600;Manuális;Jó;Szabolcs-Szatmár-Bereg;Nem
+8;Toyota;RAV4;2011;144300;2430000;1;Benzin;1600 to 2000;Automata;Jó;Baranya;Igen
+9;Volkswagen;Passat;2011;NA;NA;1;Benzin;1400 to 1600;Manuális;Közepes;Borsod-Abaúj-Zemplén;Igen
+2;BMW;118i;2012;79500;1620000;4;Elektromos;Unknown;Automata;Sérült;Pest;Nem
+2;BMW;520d;2017;142400;2990000;1;Benzin;2000 to 3000;Manuális;Jó;Győr-Moson-Sopron;Igen
+6;Skoda;Fabia;2024;18700;9080000;1;Benzin;1600 to 2000;Manuális;Sérült;Csongrád-Csanád;Nem
+6;Skoda;Fabia;2020;109700;4670000;1;Benzin;1600 to 2000;Manuális;Közepes;Bács-Kiskun;Igen
+10;Other;Dacia Duster;2019;136700;6180000;1;Benzin;1600 to 2000;Manuális;Közepes;Pest;Igen
+5;Renault;Clio;2013;248500;1860000;3;Hibrid;1600 to 2000;Automata;Jó;Hajdú-Bihar;Nem
+5;Renault;Megane;2009;204900;920000;2;Dízel;1000 to 1400;Manuális;Jó;Szabolcs-Szatmár-Bereg;Igen
+9;Volkswagen;Tiguan;2006;120500;930000;3;Hibrid;1000 to 1400;Automata;Jó;Veszprém;Nem
+9;Volkswagen;Tiguan;2004;340000;930000;1;Benzin;1600 to 2000;Automata;Közepes;Szabolcs-Szatmár-Bereg;Igen
+5;Renault;Megane;2013;159500;2980000;1;Benzin;2000 to 3000;Automata;Közepes;Veszprém;Nem
+2;BMW;320d;2019;119900;5520000;1;Benzin;1000 to 1400;Automata;Közepes;Pest;Nem
+3;Ford;Mondeo;2018;93900;3790000;1;Benzin;1000 to 1400;Manuális;Jó;Borsod-Abaúj-Zemplén;Igen
+9;Volkswagen;Tiguan;2016;73100;NA;1;Benzin;1000 to 1400;Manuális;Jó;Szabolcs-Szatmár-Bereg;Igen
+9;Volkswagen;Polo;2020;101900;5390000;4;Elektromos;Unknown;Manuális;Jó;Fejér;Nem
+9;Volkswagen;Polo;2011;332000;2170000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Pest;Nem
+7;Suzuki;Vitara;2008;398500;1080000;2;Dízel;1000 to 1400;Automata;Jó;Fejér;Igen
+8;Toyota;Yaris;2006;290100;640000;1;Benzin;1600 to 2000;Automata;Kitűnő;Fejér;Nem
+9;Volkswagen;Polo;2018;165800;6300000;3;Hibrid;1600 to 2000;Automata;Közepes;Nógrád;Igen
+10;Other;Dacia Duster;2012;83000;2350000;4;Elektromos;Unknown;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+9;Volkswagen;Golf;2010;181000;1780000;2;Dízel;1600 to 2000;Manuális;Jó;Szabolcs-Szatmár-Bereg;Nem
+7;Suzuki;Ignis;2023;41600;12540000;1;Benzin;1000 to 1400;Manuális;Sérült;Bács-Kiskun;Nem
+9;Volkswagen;Golf;2020;54200;5390000;2;Dízel;Under 1000;Manuális;Kitűnő;Hajdú-Bihar;Nem
+4;Opel;Corsa;2006;414200;780000;2;Dízel;1600 to 2000;Manuális;Jó;Győr-Moson-Sopron;Nem
+1;Audi;A6;2005;396800;930000;3;Hibrid;1000 to 1400;Manuális;Közepes;Veszprém;Nem
+5;Renault;Captur;2019;117900;6030000;6;Unknown;1000 to 1400;Automata;Közepes;Csongrád-Csanád;Nem
+1;Audi;A3;2015;121100;2560000;1;Benzin;1400 to 1600;Automata;Jó;Budapest;Nem
+1;Audi;A3;2013;229100;2700000;5;LPG;1400 to 1600;Manuális;Sérült;Baranya;Nem
+7;Suzuki;Ignis;2024;19800;14890000;1;Benzin;1400 to 1600;Manuális;Közepes;Győr-Moson-Sopron;Nem
+7;Suzuki;Ignis;2017;136600;5260000;2;Dízel;1400 to 1600;Manuális;Jó;Győr-Moson-Sopron;Nem
+7;Suzuki;Ignis;2006;198500;1080000;1;Benzin;1600 to 2000;Automata;Jó;Bács-Kiskun;Igen
+8;Toyota;Yaris;2021;81700;5900000;1;Benzin;2000 to 3000;Manuális;Jó;Nógrád;Nem
+6;Skoda;Superb;2012;246400;2960000;1;Benzin;1000 to 1400;Automata;Jó;Győr-Moson-Sopron;Nem
+9;Volkswagen;Tiguan;2021;44900;6850000;3;Hibrid;Unknown;Automata;Jó;Baranya;Nem
+8;Toyota;Corolla;2016;201100;3540000;1;Benzin;1600 to 2000;Manuális;Jó;Veszprém;Nem
+10;Other;Fiat 500;2005;NA;930000;2;Dízel;Under 1000;Manuális;Közepes;Budapest;Nem
+8;Toyota;Corolla;2023;NA;10100000;1;Benzin;1400 to 1600;Manuális;Jó;Pest;Nem
+3;Ford;Focus;2008;NA;1460000;2;Dízel;1400 to 1600;Manuális;Jó;Csongrád-Csanád;Nem
+3;Ford;Focus;2023;NA;13000000;2;Dízel;2000 to 3000;Manuális;Jó;Pest;Igen
+4;Opel;Astra;2013;165300;2610000;1;Benzin;1000 to 1400;Manuális;Közepes;Csongrád-Csanád;Igen
+2;BMW;118i;2022;NA;11470000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Pest;Nem
+5;Renault;Clio;2012;178200;1550000;1;Benzin;2000 to 3000;Manuális;Közepes;Budapest;Nem
+9;Volkswagen;Golf;2022;60200;7820000;2;Dízel;1000 to 1400;Automata;Jó;Budapest;Igen
+6;Skoda;Superb;2012;218100;1730000;1;Benzin;1000 to 1400;Manuális;Jó;Budapest;Nem
+6;Skoda;Fabia;2019;69300;4190000;2;Dízel;1400 to 1600;Automata;Közepes;Szabolcs-Szatmár-Bereg;Nem
+3;Ford;Mondeo;2015;184600;3510000;1;Benzin;1000 to 1400;Automata;Jó;Csongrád-Csanád;Nem
+10;Other;Kia Ceed;2005;462000;1050000;2;Dízel;1000 to 1400;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Igen
+1;Audi;A4;2022;23600;6100000;2;Dízel;1400 to 1600;Automata;Sérült;Budapest;Nem
+5;Renault;Captur;2015;77700;4060000;2;Dízel;1600 to 2000;Manuális;Közepes;Hajdú-Bihar;Igen
+1;Audi;A4;2018;99000;8000000;2;Dízel;1600 to 2000;Manuális;Kitűnő;Budapest;Nem
+5;Renault;Captur;2023;28500;7400000;1;Benzin;1000 to 1400;Automata;Jó;Budapest;Igen
+6;Skoda;Kodiaq;2012;164300;2900000;1;Benzin;1000 to 1400;Manuális;Közepes;Pest;Nem
+1;Audi;Q5;2023;23200;7320000;1;Benzin;1600 to 2000;Automata;Közepes;Borsod-Abaúj-Zemplén;Igen
+3;Ford;Focus;2008;198200;1510000;1;Benzin;1400 to 1600;Manuális;Közepes;Fejér;Igen
+7;Suzuki;Vitara;2020;112900;4510000;1;Benzin;Under 1000;Manuális;Közepes;Pest;Nem
+1;Audi;A4;2005;289900;580000;3;Hibrid;1600 to 2000;Automata;Sérült;Budapest;Nem
+4;Opel;Astra;2019;97400;3680000;4;Elektromos;Unknown;Automata;Jó;Baranya;Nem
+3;Ford;Mondeo;2022;50800;7950000;1;Benzin;1000 to 1400;Automata;Jó;Bács-Kiskun;Nem
+5;Renault;Clio;2018;61000;13200000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Budapest;Nem
+4;Opel;Corsa;2003;273900;450000;1;Benzin;1600 to 2000;Automata;Jó;Pest;Nem
+5;Renault;Megane;2011;NA;1910000;5;LPG;2000 to 3000;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Igen
+6;Skoda;Kodiaq;2003;393600;840000;1;Benzin;2000 to 3000;Automata;Közepes;Győr-Moson-Sopron;Igen
+3;Ford;Fiesta;2019;96300;3660000;1;Benzin;1000 to 1400;Manuális;Jó;Budapest;Igen
+1;Audi;A3;2011;325500;2570000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Budapest;Nem
+3;Ford;Fiesta;2011;301100;2340000;2;Dízel;1600 to 2000;Manuális;Jó;Budapest;Nem
+3;Ford;Fiesta;2010;146000;NA;2;Dízel;1600 to 2000;Manuális;Jó;Budapest;Nem
+9;Volkswagen;Polo;2003;397400;560000;3;Hibrid;1600 to 2000;Manuális;Jó;Hajdú-Bihar;Igen
+5;Renault;Captur;2022;37800;5950000;2;Dízel;1000 to 1400;Manuális;Sérült;Budapest;Nem
+10;Other;Mazda 3;2021;39000;7170000;3;Hibrid;1400 to 1600;Automata;Jó;Pest;Nem
+6;Skoda;Superb;2022;61500;8410000;6;Unknown;1400 to 1600;Manuális;Jó;Veszprém;Igen
+6;Skoda;Superb;2015;130600;2970000;2;Dízel;1000 to 1400;Automata;Közepes;Bács-Kiskun;Nem
+6;Skoda;Superb;2018;125300;3690000;3;Hibrid;1400 to 1600;Manuális;Kitűnő;Szabolcs-Szatmár-Bereg;Nem
+6;Skoda;Superb;2020;99400;7860000;4;Elektromos;Unknown;Manuális;Kitűnő;Fejér;Nem
+1;Audi;A6;2008;NA;1200000;2;Dízel;1600 to 2000;Manuális;Jó;Győr-Moson-Sopron;Nem
+9;Volkswagen;Polo;2012;144700;1800000;1;Benzin;1400 to 1600;Automata;Kitűnő;Veszprém;Nem
+6;Skoda;Kodiaq;2004;450100;500000;1;Benzin;1000 to 1400;Manuális;Közepes;Győr-Moson-Sopron;Igen
+10;Other;Kia Ceed;2010;280900;1350000;3;Hibrid;1000 to 1400;Manuális;Közepes;Fejér;Nem
+4;Opel;Zafira;2009;359200;1770000;1;Benzin;1000 to 1400;Automata;Kitűnő;Pest;Nem
+7;Suzuki;Swift;2021;38300;NA;1;Benzin;Above 3000;Automata;Jó;Baranya;Nem
+6;Skoda;Superb;2008;196700;990000;2;Dízel;1600 to 2000;Manuális;Közepes;Hajdú-Bihar;Nem
+4;Opel;Zafira;2013;224500;3200000;1;Benzin;1000 to 1400;Automata;Közepes;Baranya;Igen
+10;Other;Fiat 500;2004;286900;770000;5;LPG;1600 to 2000;Automata;Jó;Borsod-Abaúj-Zemplén;Nem
+3;Ford;Mondeo;2013;108100;2610000;1;Benzin;1600 to 2000;Manuális;Közepes;Csongrád-Csanád;Igen
+6;Skoda;Fabia;2015;NA;3430000;3;Hibrid;1000 to 1400;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+3;Ford;Mondeo;2010;357800;1230000;1;Benzin;1400 to 1600;Automata;Jó;Pest;Igen
+6;Skoda;Superb;2009;181500;1810000;1;Benzin;1600 to 2000;Automata;Kitűnő;Pest;Nem
+2;BMW;320d;2019;83700;NA;1;Benzin;1400 to 1600;Automata;Jó;Hajdú-Bihar;Nem
+1;Audi;A6;2018;142000;7890000;2;Dízel;1600 to 2000;Automata;Jó;Fejér;Nem
+5;Renault;Captur;2014;263200;3650000;6;Unknown;1600 to 2000;Manuális;Sérült;Borsod-Abaúj-Zemplén;Nem
+8;Toyota;C-HR;2021;73500;6020000;2;Dízel;Under 1000;Manuális;Közepes;Csongrád-Csanád;Nem
+3;Ford;Focus;2020;108900;NA;1;Benzin;Above 3000;Automata;Kitűnő;Szabolcs-Szatmár-Bereg;Nem
+2;BMW;X3;2016;127000;3370000;1;Benzin;1400 to 1600;Manuális;Közepes;Budapest;Igen
+10;Other;Mazda 3;2014;251600;2190000;2;Dízel;1600 to 2000;Automata;Sérült;Győr-Moson-Sopron;Igen
+1;Audi;A4;2023;13300;8420000;1;Benzin;1400 to 1600;Automata;Közepes;Pest;Nem
+9;Volkswagen;Golf;2015;172300;3050000;1;Benzin;1000 to 1400;Manuális;Közepes;Pest;Igen
+6;Skoda;Fabia;2024;13200;8170000;1;Benzin;1600 to 2000;Manuális;Jó;Győr-Moson-Sopron;Nem
+5;Renault;Captur;2012;171000;NA;2;Dízel;1600 to 2000;Automata;Jó;Pest;Igen
+2;BMW;X3;2024;19500;14930000;2;Dízel;2000 to 3000;Automata;Jó;Budapest;Igen
+2;BMW;118i;2017;151700;5030000;2;Dízel;1000 to 1400;Manuális;Jó;Nógrád;Nem
+10;Other;Hyundai i30;2019;96000;5310000;2;Dízel;1400 to 1600;Manuális;Közepes;Fejér;Igen
+10;Other;Fiat 500;2003;365500;810000;6;Unknown;Under 1000;Automata;Sérült;Baranya;Nem
+1;Audi;A4;2016;72600;4600000;1;Benzin;1000 to 1400;Manuális;Közepes;Bács-Kiskun;Nem
+9;Volkswagen;Golf;2024;9400;9610000;4;Elektromos;Unknown;Automata;Jó;Baranya;Nem
+3;Ford;Kuga;2003;178500;450000;2;Dízel;1400 to 1600;Manuális;Közepes;Bács-Kiskun;Nem
+5;Renault;Megane;2015;130800;NA;3;Hibrid;1000 to 1400;Manuális;Jó;Bács-Kiskun;Nem
+7;Suzuki;SX4 S-Cross;2023;35800;9180000;5;LPG;2000 to 3000;Automata;Közepes;Budapest;Nem
+2;BMW;520d;2006;449400;1060000;1;Benzin;Unknown;Manuális;Közepes;Csongrád-Csanád;Nem
+1;Audi;Q5;2012;128100;1700000;5;LPG;1400 to 1600;Manuális;Jó;Pest;Nem
+5;Renault;Kadjar;2022;54800;8740000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Bács-Kiskun;Nem
+8;Toyota;Yaris;2012;NA;2890000;3;Hibrid;1000 to 1400;Automata;Kitűnő;Pest;Igen
+6;Skoda;Octavia;2019;63700;5030000;1;Benzin;1000 to 1400;Automata;Kitűnő;Pest;Igen
+3;Ford;Mondeo;2009;126400;1780000;6;Unknown;1000 to 1400;Manuális;Közepes;Csongrád-Csanád;Igen
+6;Skoda;Kodiaq;2014;242300;2150000;2;Dízel;Under 1000;Manuális;Jó;Pest;Nem
+7;Suzuki;Ignis;2003;271200;490000;1;Benzin;1600 to 2000;Manuális;Közepes;Fejér;Nem
+1;Audi;A4;2023;NA;11410000;2;Dízel;2000 to 3000;Manuális;Jó;Budapest;Nem
+7;Suzuki;SX4 S-Cross;2007;389900;1100000;2;Dízel;1400 to 1600;Manuális;Jó;Fejér;Igen
+8;Toyota;Yaris;2022;69400;8930000;3;Hibrid;1000 to 1400;Manuális;Jó;Fejér;Nem
+4;Opel;Astra;2024;9400;15130000;1;Benzin;1000 to 1400;Manuális;Jó;Budapest;Igen
+4;Opel;Zafira;2010;92800;1460000;3;Hibrid;1000 to 1400;Manuális;Kitűnő;Veszprém;Nem
+6;Skoda;Kodiaq;2015;222300;4520000;2;Dízel;Under 1000;Manuális;Kitűnő;Budapest;Igen
+4;Opel;Corsa;2017;146600;5830000;2;Dízel;1400 to 1600;Manuális;Jó;Bács-Kiskun;Nem
+6;Skoda;Superb;2004;325200;500000;1;Benzin;1400 to 1600;Manuális;Jó;Csongrád-Csanád;Nem
+3;Ford;Fiesta;2012;130600;2400000;2;Dízel;2000 to 3000;Manuális;Kitűnő;Fejér;Nem
+10;Other;Mazda 3;2020;NA;6310000;2;Dízel;1000 to 1400;Manuális;Közepes;Nógrád;Igen
+4;Opel;Zafira;2007;330200;1100000;3;Hibrid;1400 to 1600;Automata;Jó;Nógrád;Nem
+4;Opel;Corsa;2014;229900;2640000;3;Hibrid;1000 to 1400;Automata;Jó;Budapest;Nem
+10;Other;Hyundai i30;2007;292600;1460000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Hajdú-Bihar;Nem
+10;Other;Hyundai i30;2014;100900;2120000;1;Benzin;1400 to 1600;Automata;Jó;Budapest;Igen
+1;Audi;A6;2016;174300;3680000;1;Benzin;1000 to 1400;Automata;Közepes;Pest;Nem
+10;Other;Hyundai i30;2024;6800;14650000;1;Benzin;Under 1000;Automata;Jó;Budapest;Nem
+10;Other;Hyundai i30;2021;29000;7500000;1;Benzin;1000 to 1400;Manuális;Jó;Bács-Kiskun;Nem
+2;BMW;520d;2003;488000;660000;2;Dízel;1600 to 2000;Manuális;Kitűnő;Hajdú-Bihar;Nem
+2;BMW;520d;2009;180200;1950000;2;Dízel;1400 to 1600;Manuális;Közepes;Baranya;Igen
+7;Suzuki;SX4 S-Cross;2005;288300;1090000;2;Dízel;1400 to 1600;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+3;Ford;Fiesta;2020;93000;6210000;1;Benzin;1600 to 2000;Automata;Jó;Pest;Igen
+7;Suzuki;SX4 S-Cross;2023;25200;NA;1;Benzin;1600 to 2000;Manuális;Jó;Budapest;Nem
+3;Ford;Fiesta;2023;13000;6720000;2;Dízel;1600 to 2000;Automata;Közepes;Veszprém;Nem
+4;Opel;Zafira;2023;13900;7650000;1;Benzin;1000 to 1400;Manuális;Közepes;Pest;Nem
+7;Suzuki;SX4 S-Cross;2023;40100;7470000;2;Dízel;2000 to 3000;Automata;Kitűnő;Pest;Nem
+3;Ford;Kuga;2018;85400;NA;2;Dízel;1000 to 1400;Automata;Közepes;Veszprém;Nem
+3;Ford;Fiesta;2005;227800;960000;2;Dízel;1600 to 2000;Automata;Közepes;Budapest;Igen
+3;Ford;Mondeo;2007;333800;1360000;2;Dízel;1000 to 1400;Manuális;Sérült;Győr-Moson-Sopron;Nem
+2;BMW;118i;2020;89900;4910000;3;Hibrid;1600 to 2000;Automata;Jó;Nógrád;Nem
+6;Skoda;Kodiaq;2020;71900;8750000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Fejér;Nem
+8;Toyota;Yaris;2012;133200;1630000;3;Hibrid;Unknown;Manuális;Kitűnő;Fejér;Nem
+10;Other;Fiat 500;2003;347800;710000;2;Dízel;1000 to 1400;Manuális;Jó;Győr-Moson-Sopron;Nem
+7;Suzuki;Ignis;2024;12500;NA;5;LPG;1400 to 1600;Manuális;Jó;Budapest;Nem
+4;Opel;Astra;2022;26000;5770000;2;Dízel;1600 to 2000;Manuális;Közepes;Csongrád-Csanád;Nem
+3;Ford;Kuga;2007;252300;1440000;1;Benzin;Unknown;Automata;Közepes;Veszprém;Igen
+3;Ford;Fiesta;2008;379200;1390000;2;Dízel;Under 1000;Automata;Közepes;Veszprém;Nem
+1;Audi;A4;2022;33200;9860000;2;Dízel;1600 to 2000;Manuális;Közepes;Pest;Nem
+5;Renault;Megane;2008;394200;830000;1;Benzin;1400 to 1600;Automata;Sérült;Budapest;Nem
+2;BMW;118i;2021;70300;8740000;2;Dízel;1000 to 1400;Manuális;Közepes;Győr-Moson-Sopron;Nem
+2;BMW;320d;2012;226500;1420000;1;Benzin;1400 to 1600;Manuális;Közepes;Budapest;Nem
+1;Audi;A3;2016;207400;3720000;3;Hibrid;1000 to 1400;Manuális;Sérült;Nógrád;Nem
+2;BMW;X3;2004;251800;770000;1;Benzin;1600 to 2000;Manuális;Közepes;Hajdú-Bihar;Nem
+5;Renault;Clio;2011;242500;1760000;4;Elektromos;Unknown;Manuális;Kitűnő;Borsod-Abaúj-Zemplén;Nem
+10;Other;Kia Ceed;2009;175300;1240000;2;Dízel;1400 to 1600;Automata;Közepes;Veszprém;Igen
+9;Volkswagen;Golf;2020;37700;6620000;1;Benzin;1400 to 1600;Automata;Közepes;Győr-Moson-Sopron;Nem
+4;Opel;Zafira;2008;NA;1480000;1;Benzin;Above 3000;Automata;Közepes;Veszprém;Nem
+6;Skoda;Octavia;2007;232800;980000;1;Benzin;1600 to 2000;Manuális;Jó;Csongrád-Csanád;Nem
+1;Audi;A6;2010;278500;1900000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Csongrád-Csanád;Nem
+7;Suzuki;Swift;2009;158300;990000;2;Dízel;1600 to 2000;Manuális;Jó;Fejér;Nem
+6;Skoda;Fabia;2013;85300;2920000;3;Hibrid;1000 to 1400;Automata;Kitűnő;Csongrád-Csanád;Nem
+1;Audi;A6;2008;326600;1550000;1;Benzin;1400 to 1600;Automata;Jó;Veszprém;Nem
+5;Renault;Megane;2022;58400;6780000;2;Dízel;1600 to 2000;Automata;Kitűnő;Budapest;Nem
+5;Renault;Clio;2014;238600;3740000;3;Hibrid;1000 to 1400;Manuális;Közepes;Győr-Moson-Sopron;Igen
+2;BMW;X3;2006;171500;840000;2;Dízel;Under 1000;Manuális;Sérült;Bács-Kiskun;Nem
+7;Suzuki;Swift;2019;142300;7470000;5;LPG;2000 to 3000;Manuális;Kitűnő;Hajdú-Bihar;Igen
+2;BMW;320d;2023;22200;12450000;1;Benzin;1600 to 2000;Automata;Jó;Fejér;Igen
+10;Other;Dacia Duster;2011;198400;2450000;1;Benzin;1000 to 1400;Manuális;Jó;Győr-Moson-Sopron;Nem
+7;Suzuki;Ignis;2014;172600;2070000;1;Benzin;1000 to 1400;Manuális;Közepes;Nógrád;Nem
+8;Toyota;Yaris;2008;120400;1400000;1;Benzin;2000 to 3000;Manuális;Jó;Győr-Moson-Sopron;Igen
+4;Opel;Zafira;2010;164200;1180000;1;Benzin;1000 to 1400;Automata;Jó;Budapest;Nem
+5;Renault;Kadjar;2014;121200;NA;1;Benzin;1600 to 2000;Manuális;Jó;Nógrád;Igen
+6;Skoda;Fabia;2018;167000;6620000;4;Elektromos;Unknown;Automata;Kitűnő;Pest;Nem
+6;Skoda;Fabia;2013;100300;2420000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Veszprém;Igen
+4;Opel;Astra;2007;212400;710000;1;Benzin;1000 to 1400;Automata;Közepes;Győr-Moson-Sopron;Nem
+5;Renault;Captur;2020;92800;8000000;1;Benzin;1000 to 1400;Automata;Sérült;Veszprém;Nem
+7;Suzuki;Swift;2021;NA;6730000;2;Dízel;1400 to 1600;Manuális;Jó;Bács-Kiskun;Nem
+7;Suzuki;Ignis;2012;115900;1730000;2;Dízel;1000 to 1400;Manuális;Közepes;Nógrád;Igen
+6;Skoda;Kodiaq;2011;134900;2210000;3;Hibrid;1000 to 1400;Automata;Közepes;Győr-Moson-Sopron;Igen
+2;BMW;118i;2010;NA;1830000;3;Hibrid;1600 to 2000;Automata;Jó;Győr-Moson-Sopron;Igen
+9;Volkswagen;Tiguan;2010;NA;1180000;1;Benzin;Above 3000;Automata;Jó;Nógrád;Nem
+3;Ford;Mondeo;2007;329700;1070000;2;Dízel;1400 to 1600;Manuális;Jó;Veszprém;Nem
+7;Suzuki;SX4 S-Cross;2009;210900;1350000;1;Benzin;1000 to 1400;Automata;Jó;Fejér;Nem
+5;Renault;Megane;2011;84300;1870000;3;Hibrid;1600 to 2000;Manuális;Jó;Pest;Nem
+8;Toyota;Yaris;2017;80500;3250000;2;Dízel;1600 to 2000;Automata;Kitűnő;Pest;Nem
+1;Audi;Q5;2006;114800;1200000;5;LPG;1000 to 1400;Manuális;Sérült;Budapest;Nem
+1;Audi;A3;2023;23500;11700000;4;Elektromos;Unknown;Manuális;Közepes;Győr-Moson-Sopron;Igen
+6;Skoda;Octavia;2024;7300;12980000;3;Hibrid;1600 to 2000;Automata;Közepes;Budapest;Nem
+4;Opel;Corsa;2003;366900;450000;2;Dízel;1600 to 2000;Automata;Kitűnő;Győr-Moson-Sopron;Nem
+1;Audi;Q5;2005;380800;520000;1;Benzin;1000 to 1400;Manuális;Jó;Veszprém;Nem
+10;Other;Dacia Duster;2009;179100;1030000;2;Dízel;1400 to 1600;Manuális;Kitűnő;Budapest;Nem
+9;Volkswagen;Passat;2024;9200;15680000;1;Benzin;1000 to 1400;Automata;Közepes;Fejér;Nem
+8;Toyota;Yaris;2017;164300;3550000;1;Benzin;2000 to 3000;Automata;Jó;Budapest;Igen
+10;Other;Mazda 3;2021;35200;8900000;4;Elektromos;Unknown;Manuális;Közepes;Nógrád;Nem
+1;Audi;A6;2021;51600;10000000;2;Dízel;1400 to 1600;Manuális;Közepes;Fejér;Igen
+9;Volkswagen;Golf;2005;450800;780000;2;Dízel;Unknown;Automata;Jó;Szabolcs-Szatmár-Bereg;Nem
+9;Volkswagen;Passat;2017;126100;4250000;1;Benzin;1000 to 1400;Automata;Közepes;Szabolcs-Szatmár-Bereg;Igen
+2;BMW;320d;2014;212100;1970000;1;Benzin;1400 to 1600;Manuális;Jó;Bács-Kiskun;Nem
+8;Toyota;RAV4;2020;75100;8710000;1;Benzin;1000 to 1400;Manuális;Közepes;Veszprém;Igen
+2;BMW;X3;2021;52300;5450000;2;Dízel;1400 to 1600;Automata;Közepes;Baranya;Nem
+7;Suzuki;Ignis;2008;292500;810000;2;Dízel;1400 to 1600;Manuális;Sérült;Pest;Nem
+7;Suzuki;Ignis;2007;371800;NA;4;Elektromos;Unknown;Automata;Közepes;Budapest;Nem
+2;BMW;520d;2016;NA;3060000;1;Benzin;1400 to 1600;Manuális;Sérült;Borsod-Abaúj-Zemplén;Nem
+5;Renault;Megane;2008;145300;800000;4;Elektromos;Unknown;Automata;Sérült;Budapest;Nem
+6;Skoda;Superb;2014;96600;3790000;2;Dízel;1000 to 1400;Manuális;Jó;Budapest;Nem
+4;Opel;Zafira;2013;202200;2000000;2;Dízel;1000 to 1400;Manuális;Jó;Szabolcs-Szatmár-Bereg;Nem
+10;Other;Mazda 3;2005;NA;1090000;5;LPG;1600 to 2000;Manuális;Jó;Fejér;Nem
+3;Ford;Focus;2003;334700;450000;2;Dízel;1000 to 1400;Automata;Közepes;Fejér;Nem
+4;Opel;Zafira;2017;143100;5340000;2;Dízel;2000 to 3000;Manuális;Jó;Budapest;Nem
+2;BMW;320d;2013;171600;2390000;2;Dízel;1400 to 1600;Manuális;Kitűnő;Nógrád;Nem
+6;Skoda;Octavia;2015;161900;4240000;1;Benzin;1000 to 1400;Manuális;Közepes;Pest;Nem
+7;Suzuki;Vitara;2021;40400;10190000;5;LPG;Unknown;Manuális;Közepes;Fejér;Nem
+8;Toyota;Corolla;2021;31800;10040000;3;Hibrid;1000 to 1400;Manuális;Jó;Szabolcs-Szatmár-Bereg;Igen
+1;Audi;A3;2020;80600;4860000;2;Dízel;1600 to 2000;Manuális;Közepes;Csongrád-Csanád;Igen
+9;Volkswagen;Passat;2010;236500;1470000;2;Dízel;2000 to 3000;Automata;Sérült;Nógrád;Nem
+4;Opel;Zafira;2010;142300;1190000;4;Elektromos;Unknown;Manuális;Kitűnő;Győr-Moson-Sopron;Nem
+4;Opel;Insignia;2006;255200;630000;1;Benzin;1600 to 2000;Manuális;Közepes;Budapest;Nem
+7;Suzuki;Swift;2011;NA;2430000;2;Dízel;Unknown;Automata;Közepes;Szabolcs-Szatmár-Bereg;Nem
+3;Ford;Mondeo;2019;45400;5810000;2;Dízel;1600 to 2000;Automata;Közepes;Borsod-Abaúj-Zemplén;Nem
+8;Toyota;C-HR;2018;126200;3740000;2;Dízel;1400 to 1600;Manuális;Jó;Csongrád-Csanád;Nem
+8;Toyota;RAV4;2007;280900;980000;4;Elektromos;Unknown;Manuális;Kitűnő;Veszprém;Nem
+1;Audi;Q5;2024;18100;13250000;2;Dízel;1000 to 1400;Manuális;Jó;Győr-Moson-Sopron;Nem
+7;Suzuki;Swift;2004;364800;NA;1;Benzin;1600 to 2000;Manuális;Sérült;Győr-Moson-Sopron;Igen
+7;Suzuki;SX4 S-Cross;2004;288400;NA;1;Benzin;1400 to 1600;Automata;Közepes;Szabolcs-Szatmár-Bereg;Nem
+1;Audi;A3;2011;88100;NA;1;Benzin;1600 to 2000;Automata;Jó;Budapest;Nem
+4;Opel;Astra;2003;148200;NA;1;Benzin;1600 to 2000;Manuális;Jó;Budapest;Nem
+7;Suzuki;Ignis;2013;251100;2970000;1;Benzin;1600 to 2000;Manuális;Közepes;Baranya;Nem
+3;Ford;Kuga;2008;195900;1690000;1;Benzin;1000 to 1400;Manuális;Jó;Borsod-Abaúj-Zemplén;Nem
+8;Toyota;C-HR;2021;72200;6410000;1;Benzin;Unknown;Automata;Jó;Fejér;Nem
+5;Renault;Clio;2009;113400;1320000;3;Hibrid;1400 to 1600;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+4;Opel;Insignia;2021;82500;9610000;2;Dízel;Unknown;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+3;Ford;Mondeo;2015;107700;4280000;1;Benzin;2000 to 3000;Manuális;Jó;Csongrád-Csanád;Igen
+3;Ford;Mondeo;2024;21700;15400000;2;Dízel;1400 to 1600;Manuális;Közepes;Budapest;Igen
+6;Skoda;Kodiaq;2018;83600;5970000;2;Dízel;1400 to 1600;Manuális;Közepes;Pest;Igen
+8;Toyota;Yaris;2013;157300;2850000;1;Benzin;1600 to 2000;Manuális;Jó;Budapest;Nem
+7;Suzuki;Vitara;2009;260500;1010000;1;Benzin;2000 to 3000;Automata;Kitűnő;Hajdú-Bihar;Nem
+6;Skoda;Superb;2021;25100;7590000;3;Hibrid;1600 to 2000;Manuális;Jó;Győr-Moson-Sopron;Igen
+7;Suzuki;SX4 S-Cross;2010;202300;1940000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Pest;Nem
+8;Toyota;Yaris;2011;NA;1780000;1;Benzin;1400 to 1600;Automata;Jó;Csongrád-Csanád;Nem
+10;Other;Mazda 3;2014;216900;3390000;6;Unknown;1600 to 2000;Manuális;Jó;Fejér;Nem
+2;BMW;520d;2024;20300;12890000;4;Elektromos;Unknown;Manuális;Közepes;Pest;Nem
+6;Skoda;Octavia;2022;46900;5590000;1;Benzin;1600 to 2000;Automata;Közepes;Budapest;Igen
+8;Toyota;Yaris;2017;83600;5690000;1;Benzin;1000 to 1400;Manuális;Sérült;Budapest;Igen
+2;BMW;320d;2013;164500;1880000;1;Benzin;1600 to 2000;Manuális;Jó;Szabolcs-Szatmár-Bereg;Igen
+3;Ford;Kuga;2019;64200;7600000;4;Elektromos;Unknown;Manuális;Közepes;Bács-Kiskun;Igen
+6;Skoda;Fabia;2005;339100;920000;2;Dízel;1400 to 1600;Automata;Közepes;Budapest;Nem
+6;Skoda;Fabia;2015;239600;2760000;1;Benzin;1600 to 2000;Manuális;Jó;Csongrád-Csanád;Nem
+6;Skoda;Octavia;2004;411700;850000;1;Benzin;1400 to 1600;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+7;Suzuki;SX4 S-Cross;2024;21900;12030000;1;Benzin;1600 to 2000;Automata;Jó;Nógrád;Nem
+1;Audi;A6;2020;90600;6990000;2;Dízel;1600 to 2000;Automata;Kitűnő;Baranya;Nem
+1;Audi;A4;2011;NA;1940000;2;Dízel;1400 to 1600;Automata;Közepes;Borsod-Abaúj-Zemplén;Igen
+2;BMW;320d;2017;188500;3820000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Baranya;Nem
+9;Volkswagen;Tiguan;2003;174100;770000;2;Dízel;1400 to 1600;Manuális;Kitűnő;Csongrád-Csanád;Igen
+8;Toyota;Corolla;2014;236400;3380000;1;Benzin;1000 to 1400;Manuális;Közepes;Fejér;Igen
+3;Ford;Focus;2018;145200;6420000;1;Benzin;1400 to 1600;Manuális;Jó;Baranya;Nem
+7;Suzuki;Vitara;2019;69500;5530000;2;Dízel;1600 to 2000;Automata;Jó;Pest;Igen
+3;Ford;Fiesta;2006;366800;NA;6;Unknown;1400 to 1600;Automata;Közepes;Budapest;Nem
+10;Other;Hyundai i30;2006;171700;980000;1;Benzin;1400 to 1600;Manuális;Jó;Pest;Nem
+1;Audi;A3;2018;101000;3950000;2;Dízel;1000 to 1400;Automata;Közepes;Fejér;Nem
+7;Suzuki;Swift;2020;40700;5240000;1;Benzin;1400 to 1600;Manuális;Jó;Baranya;Nem
+1;Audi;Q5;2003;509300;450000;1;Benzin;1400 to 1600;Manuális;Közepes;Budapest;Igen
+2;BMW;X3;2024;17400;15370000;1;Benzin;1400 to 1600;Manuális;Jó;Hajdú-Bihar;Nem
+4;Opel;Zafira;2010;195200;2110000;2;Dízel;1000 to 1400;Manuális;Jó;Bács-Kiskun;Nem
+3;Ford;Focus;2011;298600;2060000;2;Dízel;Under 1000;Automata;Közepes;Csongrád-Csanád;Igen
+1;Audi;A3;2021;77100;8200000;2;Dízel;1000 to 1400;Manuális;Közepes;Veszprém;Nem
+3;Ford;Focus;2020;82000;6100000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Budapest;Nem
+6;Skoda;Superb;2006;373000;1250000;1;Benzin;1000 to 1400;Manuális;Jó;Hajdú-Bihar;Nem
+8;Toyota;RAV4;2009;308100;1020000;2;Dízel;1400 to 1600;Manuális;Közepes;Pest;Igen
+8;Toyota;Corolla;2007;161300;1120000;2;Dízel;1000 to 1400;Automata;Kitűnő;Budapest;Nem
+6;Skoda;Superb;2023;38600;8890000;2;Dízel;1000 to 1400;Manuális;Jó;Pest;Nem
+8;Toyota;Yaris;2006;376300;1020000;6;Unknown;1400 to 1600;Manuális;Sérült;Bács-Kiskun;Nem
+9;Volkswagen;Tiguan;2012;157200;2220000;1;Benzin;1400 to 1600;Manuális;Jó;Bács-Kiskun;Nem
+5;Renault;Captur;2008;160000;1470000;1;Benzin;1600 to 2000;Automata;Közepes;Fejér;Nem
+4;Opel;Zafira;2019;92800;6840000;2;Dízel;1000 to 1400;Manuális;Közepes;Nógrád;Nem
+3;Ford;Fiesta;2022;64100;6070000;1;Benzin;1400 to 1600;Manuális;Közepes;Hajdú-Bihar;Nem
+9;Volkswagen;Tiguan;2006;204500;920000;2;Dízel;1400 to 1600;Manuális;Jó;Pest;Igen
+5;Renault;Captur;2010;190900;NA;1;Benzin;1600 to 2000;Manuális;Kitűnő;Baranya;Nem
+8;Toyota;RAV4;2010;230600;2230000;6;Unknown;1600 to 2000;Manuális;Közepes;Borsod-Abaúj-Zemplén;Igen
+8;Toyota;Corolla;2003;373300;730000;5;LPG;1600 to 2000;Manuális;Kitűnő;Nógrád;Igen
+5;Renault;Megane;2006;249500;1160000;1;Benzin;1000 to 1400;Manuális;Sérült;Pest;Igen
+1;Audi;A6;2016;140000;4270000;1;Benzin;1000 to 1400;Manuális;Közepes;Budapest;Igen
+2;BMW;X3;2004;377600;510000;1;Benzin;1600 to 2000;Manuális;Közepes;Fejér;Nem
+4;Opel;Astra;2011;113900;2300000;1;Benzin;2000 to 3000;Automata;Közepes;Pest;Igen
+7;Suzuki;Vitara;2006;426500;1230000;2;Dízel;2000 to 3000;Automata;Közepes;Borsod-Abaúj-Zemplén;Igen
+9;Volkswagen;Golf;2011;196100;2080000;1;Benzin;1400 to 1600;Manuális;Sérült;Budapest;Igen
+1;Audi;A6;2009;127600;1270000;1;Benzin;1000 to 1400;Manuális;Sérült;Fejér;Nem
+6;Skoda;Fabia;2017;150600;3770000;6;Unknown;1400 to 1600;Manuális;Közepes;Győr-Moson-Sopron;Nem
+9;Volkswagen;Tiguan;2019;63400;5080000;1;Benzin;1400 to 1600;Manuális;Jó;Pest;Nem
+1;Audi;A4;2006;407900;1140000;2;Dízel;1400 to 1600;Automata;Közepes;Győr-Moson-Sopron;Nem
+9;Volkswagen;Passat;2014;166900;2460000;2;Dízel;1600 to 2000;Automata;Sérült;Baranya;Igen
+1;Audi;A6;2009;282900;1340000;1;Benzin;1600 to 2000;Automata;Jó;Csongrád-Csanád;Nem
+6;Skoda;Superb;2008;399400;1210000;1;Benzin;1600 to 2000;Automata;Kitűnő;Pest;Nem
+9;Volkswagen;Passat;2008;198500;1540000;1;Benzin;1000 to 1400;Manuális;Jó;Nógrád;Nem
+5;Renault;Kadjar;2004;244000;970000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Bács-Kiskun;Igen
+1;Audi;Q5;2011;NA;1720000;2;Dízel;1000 to 1400;Automata;Kitűnő;Hajdú-Bihar;Nem
+9;Volkswagen;Polo;2005;440800;870000;1;Benzin;1600 to 2000;Automata;Sérült;Szabolcs-Szatmár-Bereg;Igen
+4;Opel;Astra;2003;526400;640000;1;Benzin;1600 to 2000;Manuális;Jó;Budapest;Nem
+7;Suzuki;Vitara;2017;180500;5590000;5;LPG;2000 to 3000;Manuális;Jó;Borsod-Abaúj-Zemplén;Nem
+7;Suzuki;Ignis;2016;146900;3860000;1;Benzin;Unknown;Automata;Közepes;Budapest;Igen
+10;Other;Hyundai i30;2016;NA;3170000;1;Benzin;1400 to 1600;Manuális;Közepes;Baranya;Nem
+1;Audi;A4;2008;253700;1650000;2;Dízel;2000 to 3000;Automata;Kitűnő;Győr-Moson-Sopron;Nem
+7;Suzuki;SX4 S-Cross;2014;177200;2930000;1;Benzin;Under 1000;Automata;Közepes;Szabolcs-Szatmár-Bereg;Igen
+6;Skoda;Fabia;2010;NA;1050000;2;Dízel;1000 to 1400;Manuális;Közepes;Bács-Kiskun;Nem
+1;Audi;Q5;2020;89900;6190000;2;Dízel;Under 1000;Manuális;Jó;Pest;Igen
+6;Skoda;Fabia;2020;89600;8720000;1;Benzin;1400 to 1600;Manuális;Jó;Fejér;Igen
+7;Suzuki;Swift;2016;191000;2890000;3;Hibrid;1400 to 1600;Manuális;Közepes;Baranya;Nem
+1;Audi;A6;2005;NA;1010000;2;Dízel;1400 to 1600;Manuális;Jó;Budapest;Igen
+1;Audi;A6;2010;NA;1080000;1;Benzin;1600 to 2000;Manuális;Jó;Veszprém;Nem
+4;Opel;Astra;2008;268200;1480000;2;Dízel;1600 to 2000;Manuális;Jó;Győr-Moson-Sopron;Igen
+8;Toyota;Yaris;2009;255200;1390000;1;Benzin;1400 to 1600;Manuális;Jó;Csongrád-Csanád;Igen
+5;Renault;Captur;2024;19400;9810000;2;Dízel;1400 to 1600;Manuális;Közepes;Bács-Kiskun;Nem
+10;Other;Kia Ceed;2009;208800;1250000;2;Dízel;1400 to 1600;Manuális;Kitűnő;Budapest;Nem
+3;Ford;Fiesta;2003;334800;520000;1;Benzin;1400 to 1600;Manuális;Közepes;Baranya;Nem
+6;Skoda;Superb;2020;56800;7630000;2;Dízel;1000 to 1400;Manuális;Közepes;Hajdú-Bihar;Nem
+6;Skoda;Octavia;2015;170300;2260000;2;Dízel;2000 to 3000;Automata;Jó;Borsod-Abaúj-Zemplén;Igen
+5;Renault;Clio;2014;135300;3080000;1;Benzin;1600 to 2000;Automata;Jó;Budapest;Nem
+3;Ford;Mondeo;2023;40800;10250000;6;Unknown;1600 to 2000;Manuális;Jó;Fejér;Igen
+10;Other;Kia Ceed;2018;157600;5100000;3;Hibrid;1600 to 2000;Manuális;Közepes;Pest;Nem
+3;Ford;Fiesta;2005;201800;730000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Veszprém;Nem
+1;Audi;A6;2003;402400;640000;2;Dízel;2000 to 3000;Manuális;Közepes;Budapest;Nem
+10;Other;Hyundai i30;2005;255500;820000;3;Hibrid;1600 to 2000;Automata;Kitűnő;Baranya;Nem
+1;Audi;A3;2023;17900;6830000;3;Hibrid;1600 to 2000;Manuális;Közepes;Budapest;Igen
+4;Opel;Zafira;2012;286500;1510000;2;Dízel;Above 3000;Automata;Sérült;Baranya;Nem
+9;Volkswagen;Golf;2014;226100;1850000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Győr-Moson-Sopron;Igen
+4;Opel;Corsa;2016;120200;3060000;4;Elektromos;Unknown;Manuális;Közepes;Győr-Moson-Sopron;Igen
+10;Other;Fiat 500;2015;234100;2170000;1;Benzin;1000 to 1400;Manuális;Jó;Győr-Moson-Sopron;Nem
+9;Volkswagen;Tiguan;2017;155300;5990000;2;Dízel;1400 to 1600;Automata;Jó;Baranya;Nem
+8;Toyota;Yaris;2013;227100;2430000;3;Hibrid;1400 to 1600;Manuális;Jó;Veszprém;Nem
+7;Suzuki;Swift;2003;299900;800000;2;Dízel;2000 to 3000;Manuális;Jó;Hajdú-Bihar;Igen
+7;Suzuki;Swift;2020;NA;6380000;2;Dízel;1600 to 2000;Manuális;Kitűnő;Győr-Moson-Sopron;Igen
+3;Ford;Kuga;2013;205600;3180000;3;Hibrid;Under 1000;Manuális;Jó;Csongrád-Csanád;Nem
+8;Toyota;Corolla;2016;90300;3370000;3;Hibrid;1000 to 1400;Manuális;Kitűnő;Baranya;Nem
+4;Opel;Corsa;2004;299800;560000;1;Benzin;1600 to 2000;Automata;Közepes;Pest;Igen
+3;Ford;Fiesta;2012;NA;2910000;1;Benzin;Unknown;Manuális;Jó;Budapest;Igen
+9;Volkswagen;Passat;2004;406100;650000;1;Benzin;2000 to 3000;Manuális;Közepes;Veszprém;Nem
+9;Volkswagen;Golf;2014;259600;3650000;6;Unknown;1400 to 1600;Manuális;Közepes;Győr-Moson-Sopron;Nem
+7;Suzuki;SX4 S-Cross;2009;202300;1540000;1;Benzin;1400 to 1600;Manuális;Közepes;Budapest;Nem
+4;Opel;Zafira;2017;57800;3690000;2;Dízel;1600 to 2000;Manuális;Kitűnő;Győr-Moson-Sopron;Nem
+2;BMW;520d;2009;317400;980000;1;Benzin;1600 to 2000;Manuális;Közepes;Baranya;Nem
+4;Opel;Astra;2010;105000;1080000;1;Benzin;1600 to 2000;Manuális;Jó;Baranya;Nem
+3;Ford;Fiesta;2007;296600;1170000;1;Benzin;1000 to 1400;Automata;Jó;Győr-Moson-Sopron;Igen
+3;Ford;Fiesta;2012;104800;2620000;5;LPG;2000 to 3000;Manuális;Közepes;Bács-Kiskun;Nem
+2;BMW;X3;2024;6200;10800000;2;Dízel;1000 to 1400;Automata;Sérült;Budapest;Igen
+2;BMW;320d;2018;49400;6510000;3;Hibrid;1000 to 1400;Manuális;Jó;Csongrád-Csanád;Nem
+1;Audi;Q5;2005;356900;840000;3;Hibrid;Unknown;Automata;Közepes;Nógrád;Nem
+1;Audi;Q5;2024;21900;11100000;2;Dízel;1400 to 1600;Automata;Közepes;Pest;Nem
+2;BMW;520d;2019;76500;5330000;1;Benzin;1600 to 2000;Automata;Közepes;Veszprém;Igen
+7;Suzuki;Ignis;2015;110300;2780000;1;Benzin;2000 to 3000;Automata;Sérült;Nógrád;Igen
+3;Ford;Focus;2016;209300;3090000;1;Benzin;2000 to 3000;Automata;Kitűnő;Bács-Kiskun;Nem
+8;Toyota;Yaris;2018;107500;5510000;2;Dízel;1400 to 1600;Automata;Közepes;Pest;Igen
+5;Renault;Kadjar;2020;66800;7640000;3;Hibrid;1000 to 1400;Manuális;Kitűnő;Szabolcs-Szatmár-Bereg;Igen
+6;Skoda;Superb;2008;363900;1470000;5;LPG;1400 to 1600;Manuális;Közepes;Veszprém;Nem
+7;Suzuki;Vitara;2007;200600;1080000;5;LPG;1000 to 1400;Automata;Jó;Budapest;Nem
+5;Renault;Megane;2008;177700;NA;2;Dízel;1000 to 1400;Automata;Közepes;Pest;Nem
+10;Other;Hyundai i30;2006;340200;980000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Baranya;Igen
+1;Audi;A3;2012;307000;1820000;3;Hibrid;1400 to 1600;Manuális;Jó;Győr-Moson-Sopron;Nem
+6;Skoda;Kodiaq;2009;310400;1090000;2;Dízel;1400 to 1600;Manuális;Közepes;Pest;Nem
+3;Ford;Kuga;2018;60200;4180000;2;Dízel;1000 to 1400;Automata;Kitűnő;Hajdú-Bihar;Igen
+1;Audi;A3;2024;12500;NA;1;Benzin;1400 to 1600;Automata;Közepes;Budapest;Nem
+2;BMW;X3;2018;53900;5400000;1;Benzin;2000 to 3000;Automata;Közepes;Győr-Moson-Sopron;Nem
+9;Volkswagen;Polo;2010;223300;1290000;1;Benzin;Unknown;Manuális;Sérült;Veszprém;Nem
+7;Suzuki;SX4 S-Cross;2015;83200;3170000;1;Benzin;2000 to 3000;Manuális;Közepes;Veszprém;Igen
+8;Toyota;RAV4;2017;83900;3480000;3;Hibrid;1600 to 2000;Automata;Jó;Fejér;Nem
+9;Volkswagen;Polo;2003;447400;790000;1;Benzin;1000 to 1400;Automata;Jó;Pest;Nem
+6;Skoda;Kodiaq;2017;92900;4310000;2;Dízel;1000 to 1400;Manuális;Jó;Hajdú-Bihar;Nem
+3;Ford;Fiesta;2013;105000;2860000;3;Hibrid;1000 to 1400;Automata;Közepes;Győr-Moson-Sopron;Nem
+5;Renault;Captur;2010;329900;1160000;2;Dízel;1000 to 1400;Automata;Sérült;Szabolcs-Szatmár-Bereg;Nem
+3;Ford;Kuga;2009;304000;1440000;3;Hibrid;1400 to 1600;Manuális;Közepes;Bács-Kiskun;Nem
+7;Suzuki;Ignis;2005;185800;1040000;2;Dízel;1600 to 2000;Manuális;Közepes;Fejér;Nem
+9;Volkswagen;Golf;2017;111200;4800000;3;Hibrid;1000 to 1400;Manuális;Jó;Fejér;Igen
+7;Suzuki;Swift;2018;44600;4730000;2;Dízel;1400 to 1600;Manuális;Jó;Hajdú-Bihar;Igen
+4;Opel;Astra;2019;120000;8400000;1;Benzin;1400 to 1600;Automata;Jó;Budapest;Nem
+3;Ford;Kuga;2014;213900;3480000;3;Hibrid;1000 to 1400;Manuális;Jó;Pest;Nem
+3;Ford;Fiesta;2005;320600;1030000;2;Dízel;Unknown;Automata;Kitűnő;Csongrád-Csanád;Nem
+6;Skoda;Kodiaq;2023;27200;13200000;1;Benzin;1600 to 2000;Automata;Közepes;Győr-Moson-Sopron;Nem
+4;Opel;Insignia;2023;30600;9760000;3;Hibrid;1400 to 1600;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+6;Skoda;Octavia;2016;159500;2550000;3;Hibrid;Above 3000;Manuális;Jó;Budapest;Igen
+4;Opel;Corsa;2003;269600;820000;1;Benzin;1000 to 1400;Manuális;Közepes;Hajdú-Bihar;Nem
+9;Volkswagen;Polo;2014;126700;3440000;2;Dízel;1000 to 1400;Automata;Jó;Szabolcs-Szatmár-Bereg;Igen
+1;Audi;Q5;2024;20400;14660000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Szabolcs-Szatmár-Bereg;Igen
+4;Opel;Zafira;2003;447700;560000;1;Benzin;1400 to 1600;Manuális;Közepes;Budapest;Nem
+1;Audi;A4;2024;11300;12100000;1;Benzin;1400 to 1600;Manuális;Közepes;Budapest;Igen
+3;Ford;Mondeo;2005;164200;950000;4;Elektromos;Unknown;Manuális;Kitűnő;Borsod-Abaúj-Zemplén;Igen
+1;Audi;A3;2003;173800;660000;3;Hibrid;1600 to 2000;Manuális;Kitűnő;Borsod-Abaúj-Zemplén;Nem
+10;Other;Fiat 500;2017;129100;4610000;1;Benzin;1000 to 1400;Automata;Sérült;Baranya;Nem
+4;Opel;Zafira;2009;291000;1690000;2;Dízel;2000 to 3000;Automata;Közepes;Győr-Moson-Sopron;Nem
+3;Ford;Mondeo;2014;195600;2640000;2;Dízel;1400 to 1600;Automata;Közepes;Szabolcs-Szatmár-Bereg;Igen
+10;Other;Kia Ceed;2012;269900;2770000;5;LPG;1000 to 1400;Manuális;Kitűnő;Pest;Nem
+9;Volkswagen;Polo;2012;NA;2690000;1;Benzin;1000 to 1400;Manuális;Jó;Győr-Moson-Sopron;Nem
+6;Skoda;Superb;2007;176800;850000;3;Hibrid;1000 to 1400;Manuális;Közepes;Budapest;Nem
+4;Opel;Insignia;2014;89200;2850000;2;Dízel;1400 to 1600;Automata;Közepes;Pest;Nem
+4;Opel;Astra;2024;10800;12590000;1;Benzin;1000 to 1400;Automata;Sérült;Csongrád-Csanád;Nem
+8;Toyota;RAV4;2016;134000;2610000;2;Dízel;1000 to 1400;Manuális;Jó;Pest;Igen
+2;BMW;118i;2020;110100;4970000;1;Benzin;1400 to 1600;Manuális;Sérült;Veszprém;Nem
+9;Volkswagen;Polo;2006;401900;610000;2;Dízel;1400 to 1600;Manuális;Közepes;Veszprém;Igen
+8;Toyota;Corolla;2023;14400;8560000;1;Benzin;1400 to 1600;Automata;Jó;Fejér;Igen
+4;Opel;Astra;2021;33000;9700000;3;Hibrid;1400 to 1600;Manuális;Sérült;Borsod-Abaúj-Zemplén;Nem
+5;Renault;Clio;2013;146400;2510000;1;Benzin;1000 to 1400;Automata;Közepes;Győr-Moson-Sopron;Igen
+9;Volkswagen;Passat;2018;67400;3900000;1;Benzin;1600 to 2000;Manuális;Jó;Szabolcs-Szatmár-Bereg;Nem
+8;Toyota;RAV4;2006;420200;1130000;4;Elektromos;Unknown;Automata;Jó;Budapest;Nem
+7;Suzuki;Swift;2008;264400;NA;1;Benzin;1000 to 1400;Manuális;Közepes;Veszprém;Nem
+8;Toyota;Yaris;2003;224200;820000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Bács-Kiskun;Nem
+9;Volkswagen;Tiguan;2021;89400;6390000;3;Hibrid;1000 to 1400;Manuális;Kitűnő;Bács-Kiskun;Igen
+7;Suzuki;SX4 S-Cross;2015;155300;4180000;1;Benzin;Unknown;Manuális;Jó;Budapest;Nem
+3;Ford;Kuga;2016;NA;4920000;2;Dízel;Above 3000;Automata;Jó;Budapest;Igen
+10;Other;Fiat 500;2021;37100;NA;2;Dízel;2000 to 3000;Automata;Jó;Bács-Kiskun;Igen
+10;Other;Dacia Duster;2018;121500;NA;1;Benzin;1600 to 2000;Automata;Közepes;Borsod-Abaúj-Zemplén;Igen
+7;Suzuki;Vitara;2008;400000;1150000;1;Benzin;2000 to 3000;Manuális;Jó;Baranya;Nem
+3;Ford;Kuga;2007;374600;780000;1;Benzin;1000 to 1400;Automata;Közepes;Hajdú-Bihar;Nem
+6;Skoda;Kodiaq;2016;111800;4370000;2;Dízel;1000 to 1400;Automata;Közepes;Szabolcs-Szatmár-Bereg;Nem
+8;Toyota;Yaris;2007;223000;830000;1;Benzin;2000 to 3000;Manuális;Közepes;Fejér;Nem
+4;Opel;Astra;2022;55400;8590000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Budapest;Igen
+3;Ford;Mondeo;2017;170500;3410000;6;Unknown;1400 to 1600;Automata;Közepes;Budapest;Nem
+5;Renault;Kadjar;2016;NA;4350000;3;Hibrid;1400 to 1600;Automata;Közepes;Pest;Nem
+6;Skoda;Superb;2008;301300;960000;2;Dízel;1000 to 1400;Manuális;Közepes;Győr-Moson-Sopron;Nem
+1;Audi;A4;2005;336200;1090000;1;Benzin;1000 to 1400;Manuális;Sérült;Budapest;Igen
+7;Suzuki;Ignis;2016;127700;5080000;1;Benzin;1600 to 2000;Automata;Jó;Borsod-Abaúj-Zemplén;Nem
+10;Other;Fiat 500;2017;155400;NA;1;Benzin;1400 to 1600;Manuális;Jó;Hajdú-Bihar;Nem
+9;Volkswagen;Tiguan;2015;137600;4510000;2;Dízel;Unknown;Automata;Jó;Budapest;Nem
+4;Opel;Corsa;2008;272100;1480000;2;Dízel;1400 to 1600;Automata;Közepes;Bács-Kiskun;Nem
+6;Skoda;Octavia;2007;281100;NA;1;Benzin;1000 to 1400;Manuális;Kitűnő;Szabolcs-Szatmár-Bereg;Nem
+2;BMW;X3;2020;80200;7480000;5;LPG;Above 3000;Manuális;Sérült;Nógrád;Nem
+8;Toyota;Yaris;2007;247800;1080000;4;Elektromos;Unknown;Manuális;Közepes;Veszprém;Nem
+8;Toyota;Yaris;2022;68400;9370000;4;Elektromos;Unknown;Automata;Közepes;Nógrád;Nem
+10;Other;Fiat 500;2013;201800;2570000;1;Benzin;1600 to 2000;Automata;Közepes;Fejér;Nem
+9;Volkswagen;Golf;2015;115000;2690000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Borsod-Abaúj-Zemplén;Nem
+5;Renault;Megane;2003;212700;NA;1;Benzin;1600 to 2000;Automata;Közepes;Budapest;Nem
+8;Toyota;C-HR;2015;189800;3510000;1;Benzin;1600 to 2000;Automata;Közepes;Nógrád;Nem
+9;Volkswagen;Passat;2008;213300;1230000;1;Benzin;Unknown;Automata;Jó;Szabolcs-Szatmár-Bereg;Nem
+6;Skoda;Kodiaq;2013;86900;2760000;1;Benzin;1600 to 2000;Manuális;Közepes;Budapest;Nem
+6;Skoda;Octavia;2021;102000;8400000;1;Benzin;1400 to 1600;Manuális;Jó;Budapest;Nem
+1;Audi;A4;2005;274700;560000;1;Benzin;Unknown;Manuális;Sérült;Hajdú-Bihar;Igen
+2;BMW;320d;2020;61600;7990000;2;Dízel;1000 to 1400;Manuális;Jó;Győr-Moson-Sopron;Igen
+6;Skoda;Octavia;2006;453600;1070000;1;Benzin;1600 to 2000;Manuális;Közepes;Budapest;Nem
+5;Renault;Megane;2009;352100;1690000;3;Hibrid;1600 to 2000;Manuális;Jó;Fejér;Igen
+10;Other;Hyundai i30;2004;419300;NA;1;Benzin;1000 to 1400;Automata;Jó;Győr-Moson-Sopron;Nem
+9;Volkswagen;Golf;2010;314900;2110000;6;Unknown;Above 3000;Manuális;Közepes;Pest;Nem
+7;Suzuki;Swift;2004;483200;850000;1;Benzin;1000 to 1400;Automata;Közepes;Hajdú-Bihar;Nem
+5;Renault;Captur;2018;75900;5830000;1;Benzin;1400 to 1600;Automata;Kitűnő;Szabolcs-Szatmár-Bereg;Nem
+2;BMW;X3;2017;140800;5900000;2;Dízel;1000 to 1400;Manuális;Sérült;Veszprém;Igen
+1;Audi;Q5;2012;132900;1910000;2;Dízel;1600 to 2000;Manuális;Közepes;Bács-Kiskun;Nem
+7;Suzuki;Vitara;2015;141300;NA;1;Benzin;1400 to 1600;Manuális;Jó;Pest;Nem
+1;Audi;A4;2024;12000;10010000;1;Benzin;Unknown;Automata;Közepes;Győr-Moson-Sopron;Igen
+3;Ford;Fiesta;2013;138100;1810000;1;Benzin;Under 1000;Manuális;Jó;Budapest;Nem
+6;Skoda;Fabia;2008;406200;NA;2;Dízel;1600 to 2000;Manuális;Jó;Budapest;Igen
+9;Volkswagen;Polo;2011;247800;1790000;2;Dízel;1600 to 2000;Manuális;Jó;Győr-Moson-Sopron;Nem
+1;Audi;Q5;2011;292000;1290000;1;Benzin;1400 to 1600;Manuális;Sérült;Hajdú-Bihar;Nem
+6;Skoda;Kodiaq;2006;276700;1150000;2;Dízel;1600 to 2000;Automata;Kitűnő;Pest;Nem
+3;Ford;Fiesta;2016;170800;4670000;2;Dízel;1000 to 1400;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+6;Skoda;Kodiaq;2020;33100;6060000;1;Benzin;Unknown;Manuális;Jó;Bács-Kiskun;Nem
+7;Suzuki;SX4 S-Cross;2009;174700;1260000;2;Dízel;1000 to 1400;Manuális;Közepes;Nógrád;Nem
+8;Toyota;Yaris;2022;62900;8190000;1;Benzin;1600 to 2000;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+4;Opel;Corsa;2016;135300;NA;2;Dízel;1000 to 1400;Automata;Jó;Pest;Igen
+2;BMW;520d;2007;NA;1130000;1;Benzin;1000 to 1400;Manuális;Jó;Budapest;Nem
+5;Renault;Kadjar;2023;15200;10260000;2;Dízel;2000 to 3000;Manuális;Jó;Budapest;Nem
+3;Ford;Focus;2006;125100;1150000;6;Unknown;1400 to 1600;Manuális;Közepes;Budapest;Nem
+5;Renault;Kadjar;2022;20900;6710000;2;Dízel;2000 to 3000;Manuális;Jó;Veszprém;Igen
+8;Toyota;C-HR;2014;NA;3260000;1;Benzin;1000 to 1400;Automata;Sérült;Baranya;Nem
+4;Opel;Astra;2011;212600;1690000;1;Benzin;1400 to 1600;Manuális;Közepes;Budapest;Nem
+1;Audi;A4;2010;134100;1040000;3;Hibrid;1400 to 1600;Automata;Jó;Hajdú-Bihar;Nem
+5;Renault;Captur;2021;94900;6740000;1;Benzin;1000 to 1400;Manuális;Jó;Pest;Nem
+4;Opel;Corsa;2024;17100;14580000;6;Unknown;1600 to 2000;Manuális;Kitűnő;Pest;Nem
+9;Volkswagen;Polo;2009;233100;1340000;3;Hibrid;1600 to 2000;Automata;Közepes;Borsod-Abaúj-Zemplén;Nem
+6;Skoda;Superb;2005;477300;880000;1;Benzin;2000 to 3000;Automata;Sérült;Pest;Igen
+8;Toyota;C-HR;2017;126900;3890000;1;Benzin;1000 to 1400;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+6;Skoda;Kodiaq;2004;158600;930000;2;Dízel;2000 to 3000;Manuális;Sérült;Pest;Nem
+1;Audi;A4;2013;96600;1980000;1;Benzin;2000 to 3000;Manuális;Sérült;Budapest;Nem
+9;Volkswagen;Golf;2003;289400;810000;2;Dízel;Unknown;Manuális;Kitűnő;Veszprém;Igen
+7;Suzuki;Vitara;2014;76700;2920000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Veszprém;Nem
+4;Opel;Zafira;2017;115300;5670000;3;Hibrid;1400 to 1600;Automata;Közepes;Borsod-Abaúj-Zemplén;Nem
+2;BMW;520d;2022;59400;10440000;3;Hibrid;1000 to 1400;Manuális;Sérült;Budapest;Nem
+8;Toyota;C-HR;2019;50400;7290000;1;Benzin;Above 3000;Automata;Sérült;Bács-Kiskun;Nem
+1;Audi;Q5;2003;187200;500000;2;Dízel;Unknown;Automata;Közepes;Pest;Igen
+3;Ford;Kuga;2017;89800;5420000;5;LPG;2000 to 3000;Manuális;Sérült;Budapest;Nem
+7;Suzuki;Swift;2015;133400;4340000;3;Hibrid;1000 to 1400;Manuális;Kitűnő;Csongrád-Csanád;Nem
+9;Volkswagen;Polo;2016;116400;2490000;1;Benzin;1600 to 2000;Manuális;Jó;Budapest;Igen
+4;Opel;Astra;2015;106500;3020000;1;Benzin;1000 to 1400;Automata;Jó;Pest;Nem
+1;Audi;Q5;2010;178500;1860000;2;Dízel;Unknown;Manuális;Közepes;Pest;Igen
+8;Toyota;C-HR;2013;86700;3380000;6;Unknown;1000 to 1400;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+8;Toyota;C-HR;2024;19000;8370000;1;Benzin;1000 to 1400;Automata;Kitűnő;Pest;Nem
+4;Opel;Corsa;2003;173300;710000;2;Dízel;1400 to 1600;Manuális;Jó;Csongrád-Csanád;Igen
+9;Volkswagen;Polo;2009;312500;1540000;1;Benzin;1400 to 1600;Automata;Közepes;Budapest;Nem
+6;Skoda;Octavia;2010;164300;1910000;6;Unknown;1600 to 2000;Manuális;Közepes;Budapest;Nem
+9;Volkswagen;Polo;2024;20300;9360000;2;Dízel;2000 to 3000;Manuális;Jó;Pest;Nem
+4;Opel;Astra;2017;175000;3020000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Budapest;Igen
+7;Suzuki;Ignis;2011;NA;2080000;3;Hibrid;1400 to 1600;Manuális;Sérült;Csongrád-Csanád;Igen
+7;Suzuki;Ignis;2022;63400;11370000;1;Benzin;1000 to 1400;Manuális;Közepes;Budapest;Igen
+7;Suzuki;Ignis;2023;38700;8190000;1;Benzin;2000 to 3000;Manuális;Közepes;Hajdú-Bihar;Igen
+8;Toyota;RAV4;2012;142000;2920000;3;Hibrid;1000 to 1400;Manuális;Jó;Csongrád-Csanád;Nem
+7;Suzuki;Swift;2006;125500;1220000;1;Benzin;1600 to 2000;Manuális;Közepes;Hajdú-Bihar;Nem
+3;Ford;Kuga;2008;340800;1690000;1;Benzin;1000 to 1400;Manuális;Jó;Budapest;Nem
+6;Skoda;Kodiaq;2019;121800;6265000;2;Dízel;1600 to 2000;Automata;Jó;Veszprém;Nem
+5;Renault;Kadjar;2018;66400;4120000;3;Hibrid;2000 to 3000;Manuális;Közepes;Veszprém;Igen
+9;Volkswagen;Passat;2007;130600;900000;3;Hibrid;1600 to 2000;Manuális;Közepes;Hajdú-Bihar;Igen
+10;Other;Hyundai i30;2010;305300;1290000;1;Benzin;1600 to 2000;Automata;Közepes;Bács-Kiskun;Nem
+10;Other;Kia Ceed;2024;19700;11310000;1;Benzin;1600 to 2000;Automata;Közepes;Pest;Igen
+6;Skoda;Kodiaq;2007;136700;720000;1;Benzin;1400 to 1600;Automata;Jó;Veszprém;Nem
+9;Volkswagen;Golf;2011;321100;1950000;2;Dízel;1600 to 2000;Manuális;Kitűnő;Borsod-Abaúj-Zemplén;Nem
+8;Toyota;Corolla;2005;300500;1050000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Fejér;Nem
+7;Suzuki;Vitara;2004;254700;530000;2;Dízel;Under 1000;Automata;Jó;Csongrád-Csanád;Nem
+1;Audi;A6;2017;117300;3560000;3;Hibrid;1000 to 1400;Automata;Jó;Pest;Nem
+4;Opel;Insignia;2008;273100;830000;1;Benzin;1400 to 1600;Manuális;Jó;Győr-Moson-Sopron;Nem
+3;Ford;Fiesta;2018;134400;6220000;5;LPG;1400 to 1600;Automata;Kitűnő;Baranya;Nem
+8;Toyota;Corolla;2007;NA;830000;3;Hibrid;1000 to 1400;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+5;Renault;Captur;2013;77300;3230000;1;Benzin;1000 to 1400;Manuális;Közepes;Pest;Nem
+2;BMW;520d;2019;117600;5070000;1;Benzin;2000 to 3000;Automata;Kitűnő;Pest;Igen
+4;Opel;Zafira;2020;NA;7210000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Baranya;Nem
+2;BMW;320d;2010;101600;1620000;1;Benzin;1600 to 2000;Manuális;Jó;Pest;Igen
+10;Other;Mazda 3;2019;83800;7510000;1;Benzin;1600 to 2000;Manuális;Jó;Bács-Kiskun;Nem
+1;Audi;A4;2007;260500;900000;1;Benzin;1600 to 2000;Manuális;Jó;Győr-Moson-Sopron;Nem
+1;Audi;A4;2003;226500;460000;2;Dízel;2000 to 3000;Automata;Közepes;Győr-Moson-Sopron;Nem
+5;Renault;Megane;2022;20200;6930000;2;Dízel;1600 to 2000;Manuális;Sérült;Pest;Nem
+8;Toyota;RAV4;2008;107300;1110000;3;Hibrid;1600 to 2000;Automata;Jó;Nógrád;Nem
+2;BMW;118i;2008;220600;NA;1;Benzin;1600 to 2000;Manuális;Jó;Baranya;Igen
+2;BMW;118i;2011;293500;2380000;1;Benzin;1400 to 1600;Manuális;Közepes;Pest;Nem
+1;Audi;A6;2005;323900;1060000;2;Dízel;1400 to 1600;Manuális;Közepes;Pest;Nem
+3;Ford;Mondeo;2018;83900;5660000;2;Dízel;1400 to 1600;Manuális;Közepes;Veszprém;Nem
+8;Toyota;RAV4;2013;173400;2910000;2;Dízel;1400 to 1600;Manuális;Jó;Szabolcs-Szatmár-Bereg;Igen
+2;BMW;X3;2021;73500;5510000;1;Benzin;1400 to 1600;Manuális;Közepes;Bács-Kiskun;Nem
+1;Audi;A3;2004;201500;NA;2;Dízel;1600 to 2000;Automata;Sérült;Pest;Nem
+10;Other;Hyundai i30;2005;249800;1010000;2;Dízel;1600 to 2000;Manuális;Közepes;Bács-Kiskun;Nem
+8;Toyota;Corolla;2004;NA;540000;1;Benzin;1600 to 2000;Manuális;Közepes;Budapest;Nem
+1;Audi;Q5;2011;161200;1220000;1;Benzin;1600 to 2000;Manuális;Jó;Bács-Kiskun;Igen
+8;Toyota;Corolla;2004;184000;450000;2;Dízel;1400 to 1600;Manuális;Közepes;Hajdú-Bihar;Nem
+7;Suzuki;Ignis;2024;10200;13260000;5;LPG;1000 to 1400;Manuális;Közepes;Csongrád-Csanád;Igen
+2;BMW;X3;2007;154700;1040000;2;Dízel;Above 3000;Automata;Közepes;Baranya;Nem
+6;Skoda;Fabia;2013;172000;2650000;1;Benzin;1400 to 1600;Manuális;Jó;Győr-Moson-Sopron;Igen
+10;Other;Kia Ceed;2020;45700;7960000;1;Benzin;1000 to 1400;Manuális;Jó;Fejér;Nem
+5;Renault;Clio;2024;22100;10220000;2;Dízel;1600 to 2000;Manuális;Jó;Pest;Nem
+6;Skoda;Kodiaq;2012;276900;NA;2;Dízel;1400 to 1600;Manuális;Közepes;Bács-Kiskun;Nem
+6;Skoda;Kodiaq;2016;192300;4740000;2;Dízel;1400 to 1600;Manuális;Kitűnő;Csongrád-Csanád;Nem
+6;Skoda;Superb;2012;260500;1610000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Budapest;Nem
+7;Suzuki;Vitara;2011;299100;2220000;1;Benzin;1600 to 2000;Automata;Közepes;Győr-Moson-Sopron;Igen
+7;Suzuki;Vitara;2018;112800;4140000;2;Dízel;Above 3000;Automata;Jó;Bács-Kiskun;Igen
+8;Toyota;RAV4;2019;60300;6720000;1;Benzin;1600 to 2000;Automata;Sérült;Bács-Kiskun;Nem
+10;Other;Mazda 3;2019;37700;6470000;4;Elektromos;Unknown;Manuális;Kitűnő;Bács-Kiskun;Nem
+2;BMW;118i;2023;18200;9470000;1;Benzin;1400 to 1600;Automata;Jó;Pest;Nem
+3;Ford;Fiesta;2007;209700;1480000;3;Hibrid;1600 to 2000;Automata;Kitűnő;Pest;Nem
+1;Audi;A6;2014;255200;2840000;2;Dízel;1600 to 2000;Manuális;Sérült;Győr-Moson-Sopron;Nem
+9;Volkswagen;Tiguan;2021;57500;10340000;2;Dízel;1400 to 1600;Manuális;Jó;Baranya;Nem
+3;Ford;Mondeo;2015;223300;3770000;6;Unknown;1400 to 1600;Manuális;Sérült;Budapest;Igen
+4;Opel;Astra;2004;371000;NA;1;Benzin;1600 to 2000;Manuális;Jó;Fejér;Nem
+6;Skoda;Fabia;2013;121700;1730000;1;Benzin;Unknown;Automata;Közepes;Bács-Kiskun;Nem
+9;Volkswagen;Polo;2017;111900;4770000;2;Dízel;2000 to 3000;Manuális;Közepes;Budapest;Nem
+10;Other;Mazda 3;2008;387600;1460000;1;Benzin;1600 to 2000;Manuális;Jó;Budapest;Igen
+3;Ford;Mondeo;2011;170900;1600000;1;Benzin;1000 to 1400;Manuális;Közepes;Csongrád-Csanád;Igen
+2;BMW;X3;2021;85200;7410000;6;Unknown;1600 to 2000;Manuális;Közepes;Csongrád-Csanád;Nem
+6;Skoda;Superb;2016;194700;NA;1;Benzin;1400 to 1600;Manuális;Jó;Pest;Igen
+10;Other;Hyundai i30;2023;17700;9650000;1;Benzin;1000 to 1400;Manuális;Közepes;Győr-Moson-Sopron;Nem
+9;Volkswagen;Tiguan;2024;19200;14060000;1;Benzin;1400 to 1600;Manuális;Közepes;Pest;Nem
+6;Skoda;Superb;2010;275500;2240000;3;Hibrid;1400 to 1600;Manuális;Kitűnő;Fejér;Nem
+9;Volkswagen;Golf;2004;372900;900000;1;Benzin;2000 to 3000;Manuális;Kitűnő;Budapest;Igen
+1;Audi;Q5;2007;346000;680000;1;Benzin;Above 3000;Manuális;Kitűnő;Pest;Igen
+7;Suzuki;SX4 S-Cross;2009;144800;1600000;2;Dízel;1000 to 1400;Automata;Jó;Hajdú-Bihar;Igen
+10;Other;Mazda 3;2019;135100;3990000;3;Hibrid;1400 to 1600;Automata;Jó;Pest;Nem
+3;Ford;Mondeo;2003;528000;540000;2;Dízel;1600 to 2000;Manuális;Közepes;Pest;Nem
+2;BMW;118i;2019;88200;4770000;1;Benzin;1600 to 2000;Automata;Jó;Pest;Nem
+2;BMW;520d;2004;444800;930000;1;Benzin;1600 to 2000;Manuális;Közepes;Bács-Kiskun;Nem
+9;Volkswagen;Golf;2013;173500;2050000;2;Dízel;1600 to 2000;Manuális;Sérült;Budapest;Nem
+10;Other;Dacia Duster;2023;23100;13720000;1;Benzin;1400 to 1600;Manuális;Jó;Budapest;Nem
+6;Skoda;Kodiaq;2011;328000;1250000;1;Benzin;2000 to 3000;Manuális;Jó;Pest;Nem
+7;Suzuki;SX4 S-Cross;2006;149500;1200000;1;Benzin;1400 to 1600;Automata;Jó;Borsod-Abaúj-Zemplén;Igen
+9;Volkswagen;Passat;2009;349200;900000;2;Dízel;1000 to 1400;Automata;Jó;Hajdú-Bihar;Igen
+1;Audi;A6;2019;40500;4670000;1;Benzin;Under 1000;Automata;Jó;Budapest;Igen
+5;Renault;Clio;2012;109000;2670000;4;Elektromos;Unknown;Automata;Jó;Borsod-Abaúj-Zemplén;Nem
+4;Opel;Zafira;2005;122900;720000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Baranya;Nem
+5;Renault;Megane;2012;301900;2040000;2;Dízel;Unknown;Automata;Jó;Pest;Nem
+2;BMW;320d;2017;62600;5660000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Veszprém;Nem
+5;Renault;Clio;2023;44900;11500000;1;Benzin;1000 to 1400;Manuális;Közepes;Csongrád-Csanád;Nem
+3;Ford;Mondeo;2013;176800;2080000;1;Benzin;1400 to 1600;Manuális;Jó;Pest;Igen
+5;Renault;Clio;2015;NA;3030000;1;Benzin;Under 1000;Manuális;Közepes;Pest;Nem
+7;Suzuki;Vitara;2011;113600;1830000;1;Benzin;1000 to 1400;Manuális;Jó;Pest;Nem
+6;Skoda;Kodiaq;2006;251900;1090000;3;Hibrid;1400 to 1600;Manuális;Jó;Hajdú-Bihar;Nem
+3;Ford;Fiesta;2011;163900;1240000;1;Benzin;1000 to 1400;Manuális;Közepes;Csongrád-Csanád;Igen
+7;Suzuki;Vitara;2019;143700;6620000;2;Dízel;1000 to 1400;Manuális;Közepes;Nógrád;Nem
+10;Other;Hyundai i30;2011;114100;1590000;1;Benzin;2000 to 3000;Manuális;Kitűnő;Fejér;Nem
+1;Audi;Q5;2011;264900;1360000;1;Benzin;2000 to 3000;Manuális;Jó;Bács-Kiskun;Igen
+5;Renault;Clio;2008;NA;1260000;2;Dízel;1600 to 2000;Automata;Közepes;Borsod-Abaúj-Zemplén;Igen
+2;BMW;118i;2024;6300;12760000;1;Benzin;1400 to 1600;Manuális;Jó;Budapest;Nem
+6;Skoda;Kodiaq;2006;143800;920000;1;Benzin;1600 to 2000;Manuális;Jó;Nógrád;Igen
+5;Renault;Clio;2007;330200;830000;1;Benzin;2000 to 3000;Automata;Kitűnő;Fejér;Nem
+3;Ford;Focus;2012;243400;2530000;2;Dízel;1400 to 1600;Automata;Közepes;Budapest;Nem
+5;Renault;Megane;2022;NA;6720000;1;Benzin;2000 to 3000;Manuális;Sérült;Budapest;Nem
+4;Opel;Insignia;2023;30400;10260000;2;Dízel;1000 to 1400;Manuális;Jó;Fejér;Nem
+3;Ford;Kuga;2012;166900;1610000;2;Dízel;2000 to 3000;Automata;Közepes;Budapest;Igen
+1;Audi;Q5;2006;129200;760000;6;Unknown;1400 to 1600;Manuális;Közepes;Pest;Nem
+7;Suzuki;Ignis;2007;328600;1160000;1;Benzin;1000 to 1400;Automata;Közepes;Budapest;Nem
+4;Opel;Insignia;2019;96200;6130000;2;Dízel;Under 1000;Automata;Közepes;Bács-Kiskun;Igen
+9;Volkswagen;Passat;2018;78800;5320000;1;Benzin;1600 to 2000;Automata;Közepes;Veszprém;Nem
+1;Audi;A6;2022;43700;10520000;3;Hibrid;Unknown;Automata;Sérült;Nógrád;Nem
+6;Skoda;Fabia;2011;250000;1620000;1;Benzin;1000 to 1400;Manuális;Jó;Győr-Moson-Sopron;Nem
+3;Ford;Focus;2007;393800;1210000;1;Benzin;Unknown;Manuális;Jó;Csongrád-Csanád;Nem
+9;Volkswagen;Golf;2018;162700;5150000;2;Dízel;1400 to 1600;Manuális;Közepes;Budapest;Igen
+7;Suzuki;Swift;2009;106500;1010000;2;Dízel;1000 to 1400;Automata;Közepes;Fejér;Nem
+8;Toyota;C-HR;2009;281700;930000;2;Dízel;1000 to 1400;Automata;Közepes;Veszprém;Nem
+5;Renault;Kadjar;2008;400900;1230000;1;Benzin;1400 to 1600;Manuális;Kitűnő;Fejér;Nem
+7;Suzuki;Swift;2023;27300;10840000;1;Benzin;1600 to 2000;Automata;Sérült;Budapest;Nem
+1;Audi;A3;2020;35100;7350000;2;Dízel;1400 to 1600;Manuális;Közepes;Pest;Nem
+4;Opel;Zafira;2006;211900;1280000;2;Dízel;1600 to 2000;Manuális;Jó;Nógrád;Igen
+10;Other;Kia Ceed;2010;241300;1490000;3;Hibrid;1400 to 1600;Manuális;Kitűnő;Pest;Nem
+10;Other;Kia Ceed;2012;155700;1730000;1;Benzin;1400 to 1600;Manuális;Jó;Veszprém;Igen
+7;Suzuki;Vitara;2011;123400;1880000;2;Dízel;1400 to 1600;Automata;Kitűnő;Nógrád;Igen
+8;Toyota;RAV4;2016;187900;5190000;1;Benzin;2000 to 3000;Manuális;Kitűnő;Veszprém;Nem
+3;Ford;Focus;2023;31900;9230000;2;Dízel;1000 to 1400;Manuális;Jó;Pest;Igen
+7;Suzuki;Ignis;2018;106200;4210000;2;Dízel;2000 to 3000;Manuális;Jó;Pest;Nem
+5;Renault;Kadjar;2003;391400;670000;1;Benzin;1600 to 2000;Automata;Jó;Bács-Kiskun;Nem
+3;Ford;Focus;2014;94700;2010000;2;Dízel;1400 to 1600;Manuális;Közepes;Hajdú-Bihar;Nem
+7;Suzuki;Ignis;2022;41700;11810000;1;Benzin;Unknown;Automata;Jó;Budapest;Nem
+9;Volkswagen;Polo;2013;78300;2110000;3;Hibrid;1600 to 2000;Manuális;Jó;Veszprém;Nem
+1;Audi;Q5;2006;323500;750000;2;Dízel;1600 to 2000;Manuális;Jó;Győr-Moson-Sopron;Igen
+5;Renault;Megane;2021;37000;9130000;1;Benzin;Unknown;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Igen
+2;BMW;320d;2020;128000;8200000;2;Dízel;1600 to 2000;Automata;Kitűnő;Budapest;Nem
+4;Opel;Astra;2019;100100;7200000;1;Benzin;1000 to 1400;Manuális;Jó;Baranya;Nem
+7;Suzuki;Swift;2022;41500;8650000;2;Dízel;Unknown;Manuális;Jó;Pest;Igen
+8;Toyota;Yaris;2014;194800;3600000;2;Dízel;1600 to 2000;Manuális;Jó;Nógrád;Nem
+8;Toyota;C-HR;2020;67900;4530000;1;Benzin;2000 to 3000;Manuális;Kitűnő;Nógrád;Igen
+9;Volkswagen;Polo;2017;61200;5410000;5;LPG;1000 to 1400;Automata;Sérült;Bács-Kiskun;Igen
+2;BMW;320d;2016;89200;3730000;5;LPG;2000 to 3000;Automata;Közepes;Bács-Kiskun;Nem
+5;Renault;Captur;2011;292900;1780000;2;Dízel;1000 to 1400;Manuális;Közepes;Hajdú-Bihar;Igen
+9;Volkswagen;Passat;2014;223100;2670000;2;Dízel;1400 to 1600;Manuális;Közepes;Baranya;Igen
+10;Other;Mazda 3;2024;8800;10580000;3;Hibrid;2000 to 3000;Automata;Sérült;Csongrád-Csanád;Nem
+2;BMW;320d;2008;264000;830000;1;Benzin;1600 to 2000;Automata;Jó;Borsod-Abaúj-Zemplén;Nem
+5;Renault;Clio;2014;183000;2580000;1;Benzin;1600 to 2000;Manuális;Közepes;Pest;Igen
+4;Opel;Astra;2005;449400;690000;2;Dízel;1600 to 2000;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+5;Renault;Captur;2024;14200;NA;4;Elektromos;Unknown;Manuális;Jó;Győr-Moson-Sopron;Nem
+1;Audi;A4;2024;NA;7320000;1;Benzin;1600 to 2000;Manuális;Közepes;Budapest;Nem
+6;Skoda;Kodiaq;2018;45000;3250000;2;Dízel;1600 to 2000;Manuális;Közepes;Hajdú-Bihar;Nem
+9;Volkswagen;Passat;2018;157900;4250000;1;Benzin;2000 to 3000;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+10;Other;Fiat 500;2006;431000;770000;1;Benzin;1600 to 2000;Automata;Jó;Budapest;Igen
+9;Volkswagen;Golf;2009;181100;1150000;6;Unknown;1000 to 1400;Automata;Közepes;Budapest;Igen
+1;Audi;A6;2005;396100;NA;2;Dízel;1600 to 2000;Automata;Közepes;Csongrád-Csanád;Igen
+4;Opel;Zafira;2013;123200;2960000;5;LPG;1000 to 1400;Automata;Sérült;Budapest;Igen
+10;Other;Dacia Duster;2015;192300;2330000;2;Dízel;1600 to 2000;Manuális;Jó;Budapest;Nem
+5;Renault;Kadjar;2024;19600;9030000;1;Benzin;Under 1000;Manuális;Jó;Baranya;Nem
+6;Skoda;Octavia;2009;146000;1010000;2;Dízel;1000 to 1400;Manuális;Sérült;Győr-Moson-Sopron;Nem
+10;Other;Dacia Duster;2012;209800;1550000;1;Benzin;2000 to 3000;Manuális;Közepes;Pest;Nem
+8;Toyota;C-HR;2014;235800;2470000;6;Unknown;2000 to 3000;Manuális;Jó;Bács-Kiskun;Nem
+9;Volkswagen;Tiguan;2012;81500;1700000;1;Benzin;1600 to 2000;Manuális;Közepes;Baranya;Igen
+10;Other;Fiat 500;2006;228100;980000;1;Benzin;1000 to 1400;Automata;Jó;Bács-Kiskun;Nem
+8;Toyota;Yaris;2020;80000;8080000;2;Dízel;1400 to 1600;Manuális;Kitűnő;Pest;Nem
+10;Other;Fiat 500;2022;45300;8680000;2;Dízel;1000 to 1400;Manuális;Jó;Hajdú-Bihar;Nem
+3;Ford;Mondeo;2022;23000;8920000;1;Benzin;1000 to 1400;Manuális;Jó;Borsod-Abaúj-Zemplén;Nem
+9;Volkswagen;Polo;2003;440800;500000;1;Benzin;1600 to 2000;Manuális;Közepes;Veszprém;Igen
+5;Renault;Megane;2007;224600;680000;1;Benzin;1600 to 2000;Manuális;Sérült;Veszprém;Nem
+3;Ford;Kuga;2009;267000;1500000;2;Dízel;1400 to 1600;Manuális;Közepes;Veszprém;Nem
+8;Toyota;Corolla;2012;295200;2850000;1;Benzin;1600 to 2000;Manuális;Jó;Hajdú-Bihar;Nem
+2;BMW;X3;2010;251200;1060000;1;Benzin;1000 to 1400;Automata;Jó;Szabolcs-Szatmár-Bereg;Nem
+2;BMW;118i;2013;161500;2070000;1;Benzin;Under 1000;Automata;Jó;Baranya;Nem
+1;Audi;A3;2020;114800;5880000;2;Dízel;1600 to 2000;Manuális;Jó;Pest;Igen
+7;Suzuki;Vitara;2009;115800;1210000;2;Dízel;1400 to 1600;Automata;Közepes;Budapest;Igen
+1;Audi;A3;2004;251500;590000;2;Dízel;1600 to 2000;Manuális;Jó;Pest;Nem
+2;BMW;320d;2003;390900;780000;3;Hibrid;1400 to 1600;Manuális;Jó;Hajdú-Bihar;Igen
+9;Volkswagen;Polo;2019;NA;7640000;2;Dízel;1000 to 1400;Manuális;Kitűnő;Bács-Kiskun;Nem
+8;Toyota;C-HR;2004;272700;910000;3;Hibrid;1600 to 2000;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+4;Opel;Insignia;2003;301600;630000;1;Benzin;1000 to 1400;Automata;Jó;Baranya;Nem
+3;Ford;Mondeo;2014;165100;3500000;1;Benzin;1400 to 1600;Manuális;Jó;Bács-Kiskun;Nem
+10;Other;Hyundai i30;2005;285500;1040000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Szabolcs-Szatmár-Bereg;Igen
+2;BMW;320d;2003;208300;820000;2;Dízel;1400 to 1600;Manuális;Sérült;Budapest;Nem
+5;Renault;Megane;2011;208100;1620000;2;Dízel;1000 to 1400;Manuális;Sérült;Pest;Nem
+1;Audi;A4;2004;317500;630000;1;Benzin;1600 to 2000;Manuális;Közepes;Veszprém;Nem
+4;Opel;Zafira;2010;181600;2000000;1;Benzin;Under 1000;Manuális;Jó;Pest;Nem
+2;BMW;520d;2008;123500;1100000;5;LPG;1400 to 1600;Automata;Jó;Budapest;Nem
+8;Toyota;Yaris;2006;358400;660000;3;Hibrid;1400 to 1600;Manuális;Közepes;Veszprém;Nem
+5;Renault;Kadjar;2021;53900;6090000;2;Dízel;1600 to 2000;Manuális;Jó;Budapest;Igen
+8;Toyota;Yaris;2004;481900;480000;1;Benzin;1000 to 1400;Manuális;Közepes;Budapest;Nem
+2;BMW;320d;2010;152100;1300000;4;Elektromos;Unknown;Manuális;Közepes;Pest;Igen
+8;Toyota;RAV4;2011;106800;2110000;2;Dízel;1400 to 1600;Automata;Közepes;Győr-Moson-Sopron;Nem
+6;Skoda;Kodiaq;2024;8800;7990000;4;Elektromos;Unknown;Manuális;Kitűnő;Pest;Nem
+10;Other;Dacia Duster;2018;143700;3500000;2;Dízel;1600 to 2000;Manuális;Közepes;Csongrád-Csanád;Nem
+1;Audi;A3;2013;NA;1990000;1;Benzin;2000 to 3000;Automata;Jó;Pest;Nem
+8;Toyota;RAV4;2021;58500;8780000;2;Dízel;1600 to 2000;Manuális;Sérült;Budapest;Igen
+5;Renault;Clio;2004;NA;840000;5;LPG;2000 to 3000;Manuális;Közepes;Pest;Nem
+6;Skoda;Superb;2019;132500;NA;2;Dízel;1400 to 1600;Automata;Jó;Győr-Moson-Sopron;Nem
+3;Ford;Mondeo;2021;89200;10150000;5;LPG;1400 to 1600;Automata;Kitűnő;Pest;Igen
+5;Renault;Megane;2020;82800;NA;1;Benzin;1400 to 1600;Manuális;Közepes;Budapest;Igen
+1;Audi;Q5;2006;183200;1120000;1;Benzin;Unknown;Automata;Kitűnő;Borsod-Abaúj-Zemplén;Igen
+4;Opel;Zafira;2009;113200;1110000;3;Hibrid;1600 to 2000;Manuális;Jó;Borsod-Abaúj-Zemplén;Nem
+8;Toyota;C-HR;2006;436000;820000;2;Dízel;1000 to 1400;Manuális;Közepes;Bács-Kiskun;Nem
+2;BMW;X3;2021;29100;8350000;3;Hibrid;1000 to 1400;Manuális;Jó;Budapest;Igen
+4;Opel;Zafira;2018;52300;3520000;3;Hibrid;1400 to 1600;Manuális;Jó;Győr-Moson-Sopron;Nem
+7;Suzuki;SX4 S-Cross;2022;23600;9760000;3;Hibrid;1600 to 2000;Automata;Kitűnő;Bács-Kiskun;Nem
+7;Suzuki;Ignis;2003;363100;820000;2;Dízel;1400 to 1600;Manuális;Jó;Győr-Moson-Sopron;Nem
+7;Suzuki;Ignis;2004;327800;950000;1;Benzin;1400 to 1600;Automata;Kitűnő;Baranya;Nem
+5;Renault;Kadjar;2007;222500;1300000;5;LPG;Unknown;Automata;Közepes;Hajdú-Bihar;Nem
+10;Other;Hyundai i30;2019;89700;6920000;2;Dízel;1400 to 1600;Manuális;Kitűnő;Hajdú-Bihar;Nem
+10;Other;Fiat 500;2024;23600;10720000;2;Dízel;Under 1000;Automata;Közepes;Pest;Nem
+6;Skoda;Kodiaq;2022;56200;6870000;4;Elektromos;Unknown;Manuális;Jó;Pest;Nem
+5;Renault;Captur;2011;267000;1930000;3;Hibrid;1600 to 2000;Automata;Jó;Veszprém;Nem
+6;Skoda;Kodiaq;2005;388200;580000;1;Benzin;1400 to 1600;Manuális;Közepes;Szabolcs-Szatmár-Bereg;Nem
+5;Renault;Megane;2009;305900;1800000;2;Dízel;2000 to 3000;Manuális;Közepes;Hajdú-Bihar;Nem
+10;Other;Hyundai i30;2019;107200;5140000;2;Dízel;1000 to 1400;Automata;Közepes;Pest;Nem
+4;Opel;Astra;2018;164600;3510000;1;Benzin;1400 to 1600;Manuális;Közepes;Csongrád-Csanád;Nem
+4;Opel;Astra;2016;NA;4370000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Pest;Nem
+7;Suzuki;Vitara;2003;491200;480000;1;Benzin;1000 to 1400;Manuális;Közepes;Bács-Kiskun;Igen
+8;Toyota;Corolla;2005;451900;1070000;1;Benzin;Unknown;Manuális;Jó;Hajdú-Bihar;Nem
+10;Other;Mazda 3;2012;NA;2070000;1;Benzin;1600 to 2000;Manuális;Közepes;Győr-Moson-Sopron;Nem
+3;Ford;Focus;2018;148900;6130000;1;Benzin;1400 to 1600;Automata;Jó;Nógrád;Igen
+1;Audi;A4;2007;268100;900000;2;Dízel;1600 to 2000;Automata;Jó;Veszprém;Igen
+8;Toyota;Yaris;2024;21200;10450000;2;Dízel;2000 to 3000;Manuális;Közepes;Hajdú-Bihar;Nem
+10;Other;Dacia Duster;2017;81800;5740000;1;Benzin;1600 to 2000;Manuális;Jó;Pest;Nem
+6;Skoda;Fabia;2023;25300;8200000;1;Benzin;1000 to 1400;Manuális;Közepes;Pest;Nem
+2;BMW;118i;2022;32400;7810000;1;Benzin;2000 to 3000;Automata;Közepes;Csongrád-Csanád;Nem
+4;Opel;Zafira;2003;207100;760000;1;Benzin;2000 to 3000;Manuális;Jó;Csongrád-Csanád;Nem
+8;Toyota;C-HR;2009;314300;1350000;1;Benzin;1400 to 1600;Manuális;Közepes;Győr-Moson-Sopron;Nem
+5;Renault;Megane;2011;212200;2560000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Borsod-Abaúj-Zemplén;Nem
+3;Ford;Fiesta;2022;70000;10490000;4;Elektromos;Unknown;Manuális;Jó;Pest;Igen
+9;Volkswagen;Passat;2006;300800;920000;4;Elektromos;Unknown;Automata;Közepes;Pest;Nem
+6;Skoda;Octavia;2008;335000;1040000;1;Benzin;1400 to 1600;Automata;Közepes;Győr-Moson-Sopron;Nem
+5;Renault;Clio;2018;125600;3960000;2;Dízel;Unknown;Manuális;Jó;Pest;Nem
+9;Volkswagen;Tiguan;2008;NA;1510000;1;Benzin;1000 to 1400;Manuális;Közepes;Budapest;Nem
+4;Opel;Zafira;2024;18800;NA;3;Hibrid;1400 to 1600;Manuális;Sérült;Szabolcs-Szatmár-Bereg;Igen
+9;Volkswagen;Polo;2019;124100;7710000;2;Dízel;1000 to 1400;Automata;Közepes;Nógrád;Nem
+6;Skoda;Fabia;2007;304100;NA;1;Benzin;Unknown;Automata;Jó;Borsod-Abaúj-Zemplén;Nem
+7;Suzuki;Vitara;2018;117400;6690000;2;Dízel;Unknown;Manuális;Kitűnő;Pest;Igen
+2;BMW;520d;2023;16400;8020000;1;Benzin;1600 to 2000;Manuális;Közepes;Veszprém;Nem
+8;Toyota;C-HR;2007;305200;690000;5;LPG;1600 to 2000;Manuális;Kitűnő;Fejér;Nem
+3;Ford;Mondeo;2015;NA;2640000;1;Benzin;1600 to 2000;Manuális;Jó;Budapest;Nem
+6;Skoda;Superb;2008;NA;1080000;4;Elektromos;Unknown;Manuális;Jó;Nógrád;Igen
+4;Opel;Zafira;2019;78500;3670000;1;Benzin;1600 to 2000;Automata;Jó;Győr-Moson-Sopron;Igen
+7;Suzuki;Ignis;2011;200300;2060000;1;Benzin;1600 to 2000;Automata;Közepes;Pest;Igen
+4;Opel;Astra;2003;466900;450000;3;Hibrid;1600 to 2000;Manuális;Sérült;Baranya;Nem
+1;Audi;Q5;2007;415600;1040000;3;Hibrid;1400 to 1600;Manuális;Jó;Budapest;Nem
+9;Volkswagen;Golf;2011;179400;1810000;1;Benzin;2000 to 3000;Automata;Közepes;Pest;Igen
+3;Ford;Fiesta;2019;99800;4490000;3;Hibrid;2000 to 3000;Manuális;Jó;Baranya;Nem
+2;BMW;320d;2022;57400;7930000;2;Dízel;1400 to 1600;Manuális;Közepes;Borsod-Abaúj-Zemplén;Nem
+2;BMW;520d;2016;172500;4530000;5;LPG;Under 1000;Manuális;Jó;Hajdú-Bihar;Igen
+8;Toyota;Corolla;2018;NA;6690000;1;Benzin;1400 to 1600;Manuális;Sérült;Bács-Kiskun;Nem
+9;Volkswagen;Polo;2009;132900;1140000;1;Benzin;1000 to 1400;Automata;Jó;Győr-Moson-Sopron;Nem
+9;Volkswagen;Passat;2004;145700;820000;2;Dízel;1600 to 2000;Automata;Kitűnő;Budapest;Nem
+6;Skoda;Fabia;2007;136000;1240000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Csongrád-Csanád;Nem
+9;Volkswagen;Tiguan;2022;18000;8260000;1;Benzin;1600 to 2000;Manuális;Sérült;Hajdú-Bihar;Igen
+2;BMW;118i;2013;189900;2980000;2;Dízel;Unknown;Automata;Jó;Baranya;Nem
+8;Toyota;Corolla;2023;22400;6940000;2;Dízel;1000 to 1400;Manuális;Közepes;Budapest;Nem
+6;Skoda;Octavia;2014;85300;3680000;4;Elektromos;Unknown;Automata;Közepes;Csongrád-Csanád;Nem
+9;Volkswagen;Polo;2024;6100;9670000;1;Benzin;2000 to 3000;Automata;Jó;Veszprém;Nem
+7;Suzuki;SX4 S-Cross;2008;NA;1550000;1;Benzin;1600 to 2000;Automata;Közepes;Budapest;Nem
+4;Opel;Insignia;2021;91100;6130000;1;Benzin;1600 to 2000;Automata;Közepes;Hajdú-Bihar;Nem
+3;Ford;Focus;2013;287300;3280000;1;Benzin;1000 to 1400;Manuális;Kitűnő;Fejér;Nem
+8;Toyota;Yaris;2021;54300;9170000;2;Dízel;1000 to 1400;Manuális;Sérült;Pest;Igen
+4;Opel;Zafira;2004;283000;550000;2;Dízel;1000 to 1400;Manuális;Sérült;Baranya;Igen
+5;Renault;Captur;2021;72000;8550000;1;Benzin;2000 to 3000;Manuális;Közepes;Pest;Nem
+3;Ford;Focus;2003;175200;630000;1;Benzin;1600 to 2000;Automata;Jó;Budapest;Nem
+8;Toyota;C-HR;2013;253600;1730000;2;Dízel;1600 to 2000;Automata;Közepes;Veszprém;Nem
+7;Suzuki;Vitara;2024;6000;14740000;3;Hibrid;1400 to 1600;Automata;Közepes;Győr-Moson-Sopron;Nem
+10;Other;Kia Ceed;2014;199200;2300000;5;LPG;1600 to 2000;Manuális;Közepes;Csongrád-Csanád;Igen
+4;Opel;Corsa;2014;73300;1980000;6;Unknown;1600 to 2000;Automata;Közepes;Szabolcs-Szatmár-Bereg;Nem
+6;Skoda;Octavia;2009;197000;1230000;2;Dízel;1600 to 2000;Manuális;Sérült;Fejér;Igen
+6;Skoda;Superb;2018;42900;3910000;1;Benzin;1600 to 2000;Manuális;Sérült;Fejér;Igen
+1;Audi;Q5;2015;66200;3800000;2;Dízel;Unknown;Manuális;Közepes;Hajdú-Bihar;Igen
+9;Volkswagen;Passat;2015;156800;3970000;1;Benzin;1600 to 2000;Manuális;Jó;Csongrád-Csanád;Nem
+5;Renault;Clio;2022;55600;9470000;2;Dízel;2000 to 3000;Automata;Közepes;Bács-Kiskun;Nem
+2;BMW;520d;2006;207800;1110000;1;Benzin;1400 to 1600;Manuális;Sérült;Budapest;Nem
+6;Skoda;Superb;2022;71800;5780000;2;Dízel;1000 to 1400;Manuális;Sérült;Veszprém;Igen
+6;Skoda;Kodiaq;2024;18300;14680000;1;Benzin;1000 to 1400;Manuális;Jó;Budapest;Nem
+8;Toyota;C-HR;2022;20900;10860000;2;Dízel;1600 to 2000;Manuális;Jó;Veszprém;Igen
+5;Renault;Kadjar;2003;172700;770000;1;Benzin;1600 to 2000;Manuális;Kitűnő;Nógrád;Nem
+7;Suzuki;Swift;2022;40600;6060000;2;Dízel;1400 to 1600;Automata;Közepes;Csongrád-Csanád;Nem
+4;Opel;Corsa;2005;291300;810000;1;Benzin;1400 to 1600;Manuális;Közepes;Győr-Moson-Sopron;Nem
+10;Other;Mazda 3;2022;36700;11780000;1;Benzin;1000 to 1400;Manuális;Jó;Fejér;Nem
+3;Ford;Focus;2023;28900;7910000;1;Benzin;1000 to 1400;Manuális;Sérült;Budapest;Nem
+6;Skoda;Fabia;2008;396900;1250000;3;Hibrid;2000 to 3000;Automata;Közepes;Budapest;Igen
+6;Skoda;Superb;2011;303100;2540000;1;Benzin;1600 to 2000;Manuális;Jó;Hajdú-Bihar;Nem
+10;Other;Mazda 3;2006;233300;760000;2;Dízel;1600 to 2000;Manuális;Sérült;Szabolcs-Szatmár-Bereg;Igen
+3;Ford;Fiesta;2018;82800;4170000;3;Hibrid;1000 to 1400;Automata;Sérült;Csongrád-Csanád;Nem
