@@ -31,17 +31,17 @@
 
             if (f6.Any())
             {
-                var faszocska = f6.Select(x => {
+                var maxHengerurtartalom = f6.Select(x => {
                     var engine = x.EngineSize.Split(" to ");
                     int kisebb = int.Parse(engine[0]);
                     int nagyobb = int.Parse(engine[1]);
                     return nagyobb;
                 }).Max();
-                foreach(var fing in f6)
+                foreach(var auto in f6)
                 {
-                    Console.WriteLine(fing.ToString());
+                    Console.WriteLine(auto.ToString());
                 }
-                Console.WriteLine($"\nA leszűrt autók hengerűrtartalmának legnagyobb felső határa: {faszocska} cm3");
+                Console.WriteLine($"\nA leszűrt autók hengerűrtartalmának legnagyobb felső határa: {maxHengerurtartalom} cm3");
                 Console.WriteLine($"A leszűrt, ismert árú autók átlagára: {Math.Round(f6.Where(x => x.Price != 0).Average(x => x.Price))} Ft");
             }
             Console.WriteLine($"7. feladat: Fájlba írás");
@@ -53,9 +53,9 @@
                 && x.Sold == "Nem").OrderByDescending(x => x.Year).ThenBy(x => x.Brand.BrandName);
 
 
-                foreach(var fing in f7)
+                foreach(var auto in f7)
                 {
-                    iro.WriteLine($"{fing.Year} {fing.Brand.BrandName} {fing.Model}");
+                    iro.WriteLine($"{auto.Year} {auto.Brand.BrandName} {auto.Model}");
                 }
             }
         }
